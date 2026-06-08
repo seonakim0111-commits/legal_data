@@ -1,0 +1,52 @@
+{
+  "doc_id": "fss_업무자료_190704",
+  "source": "fss_crawler",
+  "title": "기업공시서식 작성기준(2025.2.10. 시행)",
+  "category": "금융감독원/경영유의사항등공시",
+  "doc_type": "경영유의사항등공시",
+  "text": "제목: 기업공시서식 작성기준(2025.2.10. 시행)\n\n기업공시서식 작성기준 개정 파일(2025.2.10. 시행)을 게시합니다.\n\n자세한 내용은 첨부파일을 참고하시기 바랍니다.\n\n[첨부파일]\n- (붙임1) 기업공시서식 작성기준 개정내용(요약).pdf\n- (붙임2) 기업공시서식 작성기준 개정내용(본문).pdf\n- (붙임3) 기업공시서식 작성기준 개정내용(신구조문대비표).pdf\n- 기업공시서식 작성기준(2025.2.10. 시행).pdf\n- 별지서식(2025.2.10. 시행).pdf",
+  "summary_text": "기업공시서식 작성기준 개정 파일(2025.2.10. 시행)을 게시합니다.\n\n자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+  "attachments": [
+    {
+      "name": "(붙임1) 기업공시서식 작성기준 개정내용(요약).pdf",
+      "url": "https://www.fss.or.kr/fss/cmmn/file/fileDown.do?menuNo=200152&atchFileId=218115ba15b744518ee63a81d23f97ae&fileSn=1&bbsId=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 66829
+    },
+    {
+      "name": "(붙임2) 기업공시서식 작성기준 개정내용(본문).pdf",
+      "url": "https://www.fss.or.kr/fss/cmmn/file/fileDown.do?menuNo=200152&atchFileId=218115ba15b744518ee63a81d23f97ae&fileSn=2&bbsId=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 829630
+    },
+    {
+      "name": "(붙임3) 기업공시서식 작성기준 개정내용(신구조문대비표).pdf",
+      "url": "https://www.fss.or.kr/fss/cmmn/file/fileDown.do?menuNo=200152&atchFileId=218115ba15b744518ee63a81d23f97ae&fileSn=3&bbsId=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 148855
+    },
+    {
+      "name": "기업공시서식 작성기준(2025.2.10. 시행).pdf",
+      "url": "https://www.fss.or.kr/fss/cmmn/file/fileDown.do?menuNo=200152&atchFileId=218115ba15b744518ee63a81d23f97ae&fileSn=4&bbsId=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 2571314
+    },
+    {
+      "name": "별지서식(2025.2.10. 시행).pdf",
+      "url": "https://www.fss.or.kr/fss/cmmn/file/fileDown.do?menuNo=200152&atchFileId=218115ba15b744518ee63a81d23f97ae&fileSn=5&bbsId=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 5011655
+    }
+  ],
+  "version_date": "2025-02-06",
+  "related_laws": [],
+  "collected_at": "2026-06-07",
+  "question": "",
+  "answer": "",
+  "url": ""
+}

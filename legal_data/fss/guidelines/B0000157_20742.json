@@ -1,0 +1,24 @@
+{
+  "doc_id": "fss_업무자료_20742",
+  "source": "fss_crawler",
+  "title": "외국환업무보고서(증권)",
+  "category": "금융감독원/외국환업무자료",
+  "doc_type": "외국환업무자료",
+  "text": "제목: 외국환업무보고서(증권)\n\n[첨부파일]\n- 외국환업무현황보고서(증권).hwp",
+  "summary_text": "",
+  "attachments": [
+    {
+      "name": "외국환업무현황보고서(증권).hwp",
+      "url": "https://www.fss.or.kr/fss/cmmn/file/fileDown.do?menuNo=200167&atchFileId=1e3bc9413ecb365384080d448a5e8152&fileSn=1&bbsId=",
+      "ext": "hwp",
+      "text": "",
+      "size_bytes": 150528
+    }
+  ],
+  "version_date": "2004-07-13",
+  "related_laws": [],
+  "collected_at": "2026-06-07",
+  "question": "",
+  "answer": "",
+  "url": ""
+}

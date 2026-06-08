@@ -1,0 +1,31 @@
+{
+  "doc_id": "fss_업무자료_22008",
+  "source": "fss_crawler",
+  "title": "농업협동조합 여·수신약관",
+  "category": "금융감독원/중소서민금융약관",
+  "doc_type": "중소서민금융약관",
+  "text": "제목: 농업협동조합 여·수신약관\n\n농업협동조합 여신약관(가계용&기업용)\n\r\n농업협동조합 수신약관('14.3월 개정)\n\n[첨부파일]\n- 농협(수신약관)_.hwp\n- 농협(여신약관)_.hwp",
+  "summary_text": "농업협동조합 여신약관(가계용&기업용)\n\r\n농업협동조합 수신약관('14.3월 개정)",
+  "attachments": [
+    {
+      "name": "농협(수신약관)_.hwp",
+      "url": "https://www.fss.or.kr/fss/cmmn/file/fileDown.do?menuNo=200125&atchFileId=ba99eb715e2a301828de29866318865d&fileSn=1&bbsId=",
+      "ext": "hwp",
+      "text": "",
+      "size_bytes": 27136
+    },
+    {
+      "name": "농협(여신약관)_.hwp",
+      "url": "https://www.fss.or.kr/fss/cmmn/file/fileDown.do?menuNo=200125&atchFileId=ba99eb715e2a301828de29866318865d&fileSn=2&bbsId=",
+      "ext": "hwp",
+      "text": "",
+      "size_bytes": 47616
+    }
+  ],
+  "version_date": "2015-06-10",
+  "related_laws": [],
+  "collected_at": "2026-06-07",
+  "question": "",
+  "answer": "",
+  "url": ""
+}

@@ -1,0 +1,31 @@
+{
+  "doc_id": "fss_업무자료_38144",
+  "source": "fss_crawler",
+  "title": "대출모집인 등록 심사매뉴얼",
+  "category": "금융감독원/금소법업무자료",
+  "doc_type": "금소법업무자료",
+  "text": "제목: 대출모집인 등록 심사매뉴얼\n\n대출모집인 등록 심사매뉴얼을 게시합니다.\n\n[첨부파일]\n- 대출모집인 등록 심사 매뉴얼_배포용_FN_.hwp\n- 대출모집인 등록 심사 매뉴얼_배포용_FN_.pdf",
+  "summary_text": "대출모집인 등록 심사매뉴얼을 게시합니다.",
+  "attachments": [
+    {
+      "name": "대출모집인 등록 심사 매뉴얼_배포용_FN_.hwp",
+      "url": "https://www.fss.or.kr/fss/cmmn/file/fileDown.do?menuNo=200139&atchFileId=85da6c017a3d487a15c03abd09b8e65e&fileSn=1&bbsId=",
+      "ext": "hwp",
+      "text": "",
+      "size_bytes": 138752
+    },
+    {
+      "name": "대출모집인 등록 심사 매뉴얼_배포용_FN_.pdf",
+      "url": "https://www.fss.or.kr/fss/cmmn/file/fileDown.do?menuNo=200139&atchFileId=85da6c017a3d487a15c03abd09b8e65e&fileSn=2&bbsId=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 1037232
+    }
+  ],
+  "version_date": "2021-05-03",
+  "related_laws": [],
+  "collected_at": "2026-06-07",
+  "question": "",
+  "answer": "",
+  "url": ""
+}

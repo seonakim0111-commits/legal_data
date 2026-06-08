@@ -1,0 +1,38 @@
+{
+  "doc_id": "fss_업무자료_130655",
+  "source": "fss_crawler",
+  "title": "전자문서제출요령(2023.10.1. 시행)",
+  "category": "금융감독원/경영유의사항등공시",
+  "doc_type": "경영유의사항등공시",
+  "text": "제목: 전자문서제출요령(2023.10.1. 시행)\n\nXBRL 재무공시 적용대상 및 범위를 단계적으로 확대하고, 새로운 XBRL 작성기 사용 방법 등을 반영한 전자문서제출요령을 게시합니다.\n\n[첨부파일]\n- 1. 「전자문서제출요령」 개정내용 요약_FFn.hwp\n- 2. 「전자문서 제출요령」 신구조문 대비표_FFn.hwp\n- 3. 「전자문서제출요령」 전문(2023.10.1.시행)_FFn.hwp",
+  "summary_text": "XBRL 재무공시 적용대상 및 범위를 단계적으로 확대하고, 새로운 XBRL 작성기 사용 방법 등을 반영한 전자문서제출요령을 게시합니다.",
+  "attachments": [
+    {
+      "name": "1. 「전자문서제출요령」 개정내용 요약_FFn.hwp",
+      "url": "https://www.fss.or.kr/fss/cmmn/file/fileDown.do?menuNo=200152&atchFileId=31b616040b274430a2d1021396c3a8a8&fileSn=1&bbsId=",
+      "ext": "hwp",
+      "text": "",
+      "size_bytes": 61952
+    },
+    {
+      "name": "2. 「전자문서 제출요령」 신구조문 대비표_FFn.hwp",
+      "url": "https://www.fss.or.kr/fss/cmmn/file/fileDown.do?menuNo=200152&atchFileId=31b616040b274430a2d1021396c3a8a8&fileSn=2&bbsId=",
+      "ext": "hwp",
+      "text": "",
+      "size_bytes": 2315264
+    },
+    {
+      "name": "3. 「전자문서제출요령」 전문(2023.10.1.시행)_FFn.hwp",
+      "url": "https://www.fss.or.kr/fss/cmmn/file/fileDown.do?menuNo=200152&atchFileId=31b616040b274430a2d1021396c3a8a8&fileSn=3&bbsId=",
+      "ext": "hwp",
+      "text": "",
+      "size_bytes": 6011904
+    }
+  ],
+  "version_date": "2023-09-27",
+  "related_laws": [],
+  "collected_at": "2026-06-07",
+  "question": "",
+  "answer": "",
+  "url": ""
+}

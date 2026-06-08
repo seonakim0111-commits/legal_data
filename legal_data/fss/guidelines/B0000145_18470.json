@@ -1,0 +1,24 @@
+{
+  "doc_id": "fss_업무자료_18470",
+  "source": "fss_crawler",
+  "title": "기업공시 News Letter 2018년 1호 게시",
+  "category": "금융감독원/경영유의사항등공시",
+  "doc_type": "경영유의사항등공시",
+  "text": "제목: 기업공시 News Letter 2018년 1호 게시\n\n기업공시 News Letter 2018년 1호를 게시합니다.\n\n[첨부파일]\n- 기업공시 뉴스레터(18년 1월호).pdf",
+  "summary_text": "기업공시 News Letter 2018년 1호를 게시합니다.",
+  "attachments": [
+    {
+      "name": "기업공시 뉴스레터(18년 1월호).pdf",
+      "url": "https://www.fss.or.kr/fss/cmmn/file/fileDown.do?menuNo=200152&atchFileId=bd894d978a5d5b85e53a9addad97666e&fileSn=1&bbsId=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 242871
+    }
+  ],
+  "version_date": "2018-01-12",
+  "related_laws": [],
+  "collected_at": "2026-06-07",
+  "question": "",
+  "answer": "",
+  "url": ""
+}

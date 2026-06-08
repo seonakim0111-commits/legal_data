@@ -1,0 +1,38 @@
+{
+  "doc_id": "fss_업무자료_129599",
+  "source": "fss_crawler",
+  "title": "상호저축은행 약관 작성·보고 매뉴얼('23.8월 기준)",
+  "category": "금융감독원/중소서민금융약관",
+  "doc_type": "중소서민금융약관",
+  "text": "제목: 상호저축은행 약관 작성·보고 매뉴얼('23.8월 기준)\n\n상호저축은행 약관 작성·보고 매뉴얼을 게시합니다.\n\n[첨부파일]\n- 상호저축은행 약관 작성보고 매뉴얼('23.8월).hwp\n- 1. 공정위 불공정약관 지적 유형별 변경 사례.hwp\n- 2. 금융감독원 금융상품약관심사시스템 사용자 매뉴얼(21년 개정).pdf",
+  "summary_text": "상호저축은행 약관 작성·보고 매뉴얼을 게시합니다.",
+  "attachments": [
+    {
+      "name": "상호저축은행 약관 작성보고 매뉴얼('23.8월).hwp",
+      "url": "https://www.fss.or.kr/fss/cmmn/file/fileDown.do?menuNo=200125&atchFileId=3ffb1e16f49a41249d0c3643ba7ac236&fileSn=1&bbsId=",
+      "ext": "hwp",
+      "text": "",
+      "size_bytes": 400384
+    },
+    {
+      "name": "1. 공정위 불공정약관 지적 유형별 변경 사례.hwp",
+      "url": "https://www.fss.or.kr/fss/cmmn/file/fileDown.do?menuNo=200125&atchFileId=3ffb1e16f49a41249d0c3643ba7ac236&fileSn=2&bbsId=",
+      "ext": "hwp",
+      "text": "",
+      "size_bytes": 92160
+    },
+    {
+      "name": "2. 금융감독원 금융상품약관심사시스템 사용자 매뉴얼(21년 개정).pdf",
+      "url": "https://www.fss.or.kr/fss/cmmn/file/fileDown.do?menuNo=200125&atchFileId=3ffb1e16f49a41249d0c3643ba7ac236&fileSn=3&bbsId=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 2057439
+    }
+  ],
+  "version_date": "2023-08-09",
+  "related_laws": [],
+  "collected_at": "2026-06-07",
+  "question": "",
+  "answer": "",
+  "url": ""
+}

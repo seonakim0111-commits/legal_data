@@ -1,0 +1,48 @@
+{
+  "doc_id": "fss_업무자료_210212",
+  "source": "fss_crawler",
+  "title": "기업공시 FAQ(2025.12) - 유통공시, 발행공시, 지분공시, 전자공시",
+  "category": "금융감독원/금소법FAQ",
+  "doc_type": "금소법FAQ",
+  "text": "제목: 기업공시 FAQ(2025.12) - 유통공시, 발행공시, 지분공시, 전자공시\n\n「기업공시 실무안내(2025.12)」중 Q&A 부분을 발췌하여 게시합니다.\n\n유통공시(정기보고서, 주요사항보고서, 기타공시) : 국번없이 1332 → 5 → 1 → 2\n\n발행공시(증권신고서, 발행 관련 주요사항보고서) : 국번없이 1332 → 5 → 1 → 3\n\n지분공시(5%보고, 임원소유상황보고, 내부자거래사전공시, 공개매수 등) : 국번없이 1332 → 5 → 1 → 4\n\n전자공시(DART시스템 이용, XBRL 등) : 국번없이 1332 → 5 → 1 → 1\n\n[첨부파일]\n- 기업공시 FAQ(2025.12.) - 유통공시.pdf\n- 기업공시 FAQ(2025.12.) - 발행공시.pdf\n- 기업공시 FAQ(2025.12.) - 지분공시.pdf\n- 기업공시 FAQ(2025.12.) - 전자공시.pdf",
+  "version_date": "2026-02-04",
+  "related_laws": [],
+  "collected_at": "2026-06-05",
+  "question": "",
+  "answer": "",
+  "url": "",
+  "attachments": [
+    {
+      "name": "기업공시 FAQ(2025.12.) - 유통공시.pdf",
+      "url": "https://www.fss.or.kr/fss/cmmn/file/fileDown.do?menuNo=200154&atchFileId=f1222473010c4238abfe70822eb1bf27&fileSn=1&bbsId=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 31374174,
+      "check_status": "head_ok"
+    },
+    {
+      "name": "기업공시 FAQ(2025.12.) - 발행공시.pdf",
+      "url": "https://www.fss.or.kr/fss/cmmn/file/fileDown.do?menuNo=200154&atchFileId=f1222473010c4238abfe70822eb1bf27&fileSn=2&bbsId=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 31287352,
+      "check_status": "head_ok"
+    },
+    {
+      "name": "기업공시 FAQ(2025.12.) - 지분공시.pdf",
+      "url": "https://www.fss.or.kr/fss/cmmn/file/fileDown.do?menuNo=200154&atchFileId=f1222473010c4238abfe70822eb1bf27&fileSn=3&bbsId=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 46016781,
+      "check_status": "head_ok"
+    },
+    {
+      "name": "기업공시 FAQ(2025.12.) - 전자공시.pdf",
+      "url": "https://www.fss.or.kr/fss/cmmn/file/fileDown.do?menuNo=200154&atchFileId=f1222473010c4238abfe70822eb1bf27&fileSn=4&bbsId=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 17278211,
+      "check_status": "head_ok"
+    }
+  ]
+}

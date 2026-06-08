@@ -1,0 +1,24 @@
+{
+  "doc_id": "fss_업무자료_20730",
+  "source": "fss_crawler",
+  "title": "외국환업무보고서식(여전사)",
+  "category": "금융감독원/외국환업무자료",
+  "doc_type": "외국환업무자료",
+  "text": "제목: 외국환업무보고서식(여전사)\n\n[첨부파일]\n- 외국환업무현황보고서(여전사).hwp",
+  "summary_text": "",
+  "attachments": [
+    {
+      "name": "외국환업무현황보고서(여전사).hwp",
+      "url": "https://www.fss.or.kr/fss/cmmn/file/fileDown.do?menuNo=200167&atchFileId=4c05d6c7c6a9672722419669a9b5b948&fileSn=1&bbsId=",
+      "ext": "hwp",
+      "text": "",
+      "size_bytes": 80384
+    }
+  ],
+  "version_date": "2002-01-24",
+  "related_laws": [],
+  "collected_at": "2026-06-07",
+  "question": "",
+  "answer": "",
+  "url": ""
+}

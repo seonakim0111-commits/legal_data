@@ -1,0 +1,24 @@
+{
+  "doc_id": "fss_업무자료_18416",
+  "source": "fss_crawler",
+  "title": "기업공시 News Letter '13년 7호 게시",
+  "category": "금융감독원/경영유의사항등공시",
+  "doc_type": "경영유의사항등공시",
+  "text": "제목: 기업공시 News Letter '13년 7호 게시\n\n기업공시 News Letter '13년 7호를 게시합니다.\n\n[첨부파일]\n- 기업공시NewsLetter_제7호(2013년)_131120.pdf",
+  "summary_text": "기업공시 News Letter '13년 7호를 게시합니다.",
+  "attachments": [
+    {
+      "name": "기업공시NewsLetter_제7호(2013년)_131120.pdf",
+      "url": "https://www.fss.or.kr/fss/cmmn/file/fileDown.do?menuNo=200152&atchFileId=605792db828ea178790d7d13d963d4b8&fileSn=1&bbsId=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 158543
+    }
+  ],
+  "version_date": "2013-11-20",
+  "related_laws": [],
+  "collected_at": "2026-06-07",
+  "question": "",
+  "answer": "",
+  "url": ""
+}

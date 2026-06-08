@@ -1,0 +1,24 @@
+{
+  "doc_id": "fss_업무자료_18406",
+  "source": "fss_crawler",
+  "title": "기업공시 News Letter '13년 2호 게시",
+  "category": "금융감독원/경영유의사항등공시",
+  "doc_type": "경영유의사항등공시",
+  "text": "제목: 기업공시 News Letter '13년 2호 게시\n\n기업공시 News Letter '13년 2호를 게시합니다.\n\n[첨부파일]\n- 기업공시NewsLetter_제2호(2013년).pdf",
+  "summary_text": "기업공시 News Letter '13년 2호를 게시합니다.",
+  "attachments": [
+    {
+      "name": "기업공시NewsLetter_제2호(2013년).pdf",
+      "url": "https://www.fss.or.kr/fss/cmmn/file/fileDown.do?menuNo=200152&atchFileId=93b1e17a8dc0d4566b0e6dc1b0e8644a&fileSn=1&bbsId=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 207444
+    }
+  ],
+  "version_date": "2013-06-26",
+  "related_laws": [],
+  "collected_at": "2026-06-07",
+  "question": "",
+  "answer": "",
+  "url": ""
+}

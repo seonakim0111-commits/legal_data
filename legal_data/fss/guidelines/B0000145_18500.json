@@ -1,0 +1,24 @@
+{
+  "doc_id": "fss_업무자료_18500",
+  "source": "fss_crawler",
+  "title": "기업공시 News Letter 2020 1호 게시",
+  "category": "금융감독원/경영유의사항등공시",
+  "doc_type": "경영유의사항등공시",
+  "text": "제목: 기업공시 News Letter 2020 1호 게시\n\n기업공시 News Letter 2020년 1호를 게시합니다.\n\n[첨부파일]\n- 기업공시 뉴스레터(20년 8월호).pdf",
+  "summary_text": "기업공시 News Letter 2020년 1호를 게시합니다.",
+  "attachments": [
+    {
+      "name": "기업공시 뉴스레터(20년 8월호).pdf",
+      "url": "https://www.fss.or.kr/fss/cmmn/file/fileDown.do?menuNo=200152&atchFileId=e82257432e3785ebaaaa4264377e2013&fileSn=1&bbsId=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 133950
+    }
+  ],
+  "version_date": "2020-09-10",
+  "related_laws": [],
+  "collected_at": "2026-06-07",
+  "question": "",
+  "answer": "",
+  "url": ""
+}

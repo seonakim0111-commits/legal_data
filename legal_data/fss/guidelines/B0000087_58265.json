@@ -1,0 +1,31 @@
+{
+  "doc_id": "fss_업무자료_58265",
+  "source": "fss_crawler",
+  "title": "정보기술부문 계획서 제출 관련 안내 및 양식(2023년 3월)",
+  "category": "금융감독원/정보기술(IT)",
+  "doc_type": "정보기술(IT)",
+  "text": "제목: 정보기술부문 계획서 제출 관련 안내 및 양식(2023년 3월)\n\n정보기술부문 계획서 제출 관련 안내 및 양식입니다.\n\r\n자세한 내용은 첨부파일을 참고하시기 바랍니다.\n\n\r\n정보기술부문계획서 제출대상이 아닌 회사의 경우*(전자금융거래법 제3조제3항, 동법 시행령 제5조제2항), 별도로 회신하실 필요 없습니다.\n\r\n* (예시) 전자금융업무를 수행하지 않는 금융회사\n\n[첨부파일]\n- 정보기술부문 계획서 제출 관련 안내.hwp\n- (붙임1) 2023년 정보기술부문 계획서 제출 관련 안내_F.hwp",
+  "summary_text": "정보기술부문 계획서 제출 관련 안내 및 양식입니다.\n\r\n자세한 내용은 첨부파일을 참고하시기 바랍니다.\n\n\r\n정보기술부문계획서 제출대상이 아닌 회사의 경우*(전자금융거래법 제3조제3항, 동법 시행령 제5조제2항), 별도로 회신하실 필요 없습니다.\n\r\n* (예시) 전자금융업무를 수행하지 않는 금융회사",
+  "attachments": [
+    {
+      "name": "정보기술부문 계획서 제출 관련 안내.hwp",
+      "url": "https://www.fss.or.kr/fss/cmmn/file/fileDown.do?menuNo=200116&atchFileId=f3915fe6551c4e59b1e7cb0225c468a7&fileSn=1&bbsId=",
+      "ext": "hwp",
+      "text": "",
+      "size_bytes": 18432
+    },
+    {
+      "name": "(붙임1) 2023년 정보기술부문 계획서 제출 관련 안내_F.hwp",
+      "url": "https://www.fss.or.kr/fss/cmmn/file/fileDown.do?menuNo=200116&atchFileId=f3915fe6551c4e59b1e7cb0225c468a7&fileSn=2&bbsId=",
+      "ext": "hwp",
+      "text": "",
+      "size_bytes": 2252288
+    }
+  ],
+  "version_date": "2023-03-08",
+  "related_laws": [],
+  "collected_at": "2026-06-07",
+  "question": "",
+  "answer": "",
+  "url": ""
+}

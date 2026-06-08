@@ -1,0 +1,38 @@
+{
+  "doc_id": "fss_업무자료_22043",
+  "source": "fss_crawler",
+  "title": "상호저축은행 약관 작성·보고 매뉴얼('21.4월말 기준)",
+  "category": "금융감독원/중소서민금융약관",
+  "doc_type": "중소서민금융약관",
+  "text": "제목: 상호저축은행 약관 작성·보고 매뉴얼('21.4월말 기준)\n\n상호저축은행 약관 작성·보고 매뉴얼 게시합니다.\n\n[첨부파일]\n- 상호저축은행 약관 작성보고 매뉴얼_.hwp\n- 상호저축은행 약관 작성보고 매뉴얼_.pdf\n- (별첨) 금융감독원 금융상품약관심사시스템 사용자 매뉴얼__.hwp",
+  "summary_text": "상호저축은행 약관 작성·보고 매뉴얼 게시합니다.",
+  "attachments": [
+    {
+      "name": "상호저축은행 약관 작성보고 매뉴얼_.hwp",
+      "url": "https://www.fss.or.kr/fss/cmmn/file/fileDown.do?menuNo=200125&atchFileId=a63791c5669d3660b710a3c7cd8b7534&fileSn=1&bbsId=",
+      "ext": "hwp",
+      "text": "",
+      "size_bytes": 353792
+    },
+    {
+      "name": "상호저축은행 약관 작성보고 매뉴얼_.pdf",
+      "url": "https://www.fss.or.kr/fss/cmmn/file/fileDown.do?menuNo=200125&atchFileId=a63791c5669d3660b710a3c7cd8b7534&fileSn=2&bbsId=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 2182029
+    },
+    {
+      "name": "(별첨) 금융감독원 금융상품약관심사시스템 사용자 매뉴얼__.hwp",
+      "url": "https://www.fss.or.kr/fss/cmmn/file/fileDown.do?menuNo=200125&atchFileId=a63791c5669d3660b710a3c7cd8b7534&fileSn=3&bbsId=",
+      "ext": "hwp",
+      "text": "",
+      "size_bytes": 4117504
+    }
+  ],
+  "version_date": "2021-12-14",
+  "related_laws": [],
+  "collected_at": "2026-06-07",
+  "question": "",
+  "answer": "",
+  "url": ""
+}

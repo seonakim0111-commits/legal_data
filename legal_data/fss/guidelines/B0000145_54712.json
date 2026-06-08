@@ -1,0 +1,24 @@
+{
+  "doc_id": "fss_업무자료_54712",
+  "source": "fss_crawler",
+  "title": "합병 등 공시 관련 실무 안내서 게시",
+  "category": "금융감독원/경영유의사항등공시",
+  "doc_type": "경영유의사항등공시",
+  "text": "제목: 합병 등 공시 관련 실무 안내서 게시\n\n합병 등 특수공시 관련 실무안내서(개정판)를 게시합니다.\n\n[첨부파일]\n- 2021_합병 등 공시 관련 실무 안내서(최종).pdf",
+  "version_date": "2022-01-25",
+  "related_laws": [],
+  "collected_at": "2026-06-05",
+  "question": "",
+  "answer": "",
+  "url": "",
+  "attachments": [
+    {
+      "name": "2021_합병 등 공시 관련 실무 안내서(최종).pdf",
+      "url": "https://www.fss.or.kr/fss/cmmn/file/fileDown.do?menuNo=200152&atchFileId=edeca4b18da048389bd98905af2b44ba&fileSn=1&bbsId=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 68401291,
+      "check_status": "head_ok"
+    }
+  ]
+}

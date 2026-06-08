@@ -1,0 +1,38 @@
+{
+  "doc_id": "fss_업무자료_21993",
+  "source": "fss_crawler",
+  "title": "여신전문금융회사 약관 작성보고 매뉴얼",
+  "category": "금융감독원/중소서민금융업무자료",
+  "doc_type": "중소서민금융업무자료",
+  "text": "제목: 여신전문금융회사 약관 작성보고 매뉴얼\n\n여신전문금융회사 약관 작성·보고 매뉴얼 게시합니다.\n\n[첨부파일]\n- 여신전문금융회사 약관 작성보고 매뉴얼(20.12월)_F_.hwp\n- 여신전문금융회사 약관 작성보고 매뉴얼(20.12월)_F_.pdf\n- (별첨) 금융감독원 금융상품약관심사시스템 사용자 매뉴얼_.hwp",
+  "summary_text": "여신전문금융회사 약관 작성·보고 매뉴얼 게시합니다.",
+  "attachments": [
+    {
+      "name": "여신전문금융회사 약관 작성보고 매뉴얼(20.12월)_F_.hwp",
+      "url": "https://www.fss.or.kr/fss/cmmn/file/fileDown.do?menuNo=200124&atchFileId=3972bce0a25307055d02ae2833dcbd3d&fileSn=1&bbsId=",
+      "ext": "hwp",
+      "text": "",
+      "size_bytes": 596992
+    },
+    {
+      "name": "여신전문금융회사 약관 작성보고 매뉴얼(20.12월)_F_.pdf",
+      "url": "https://www.fss.or.kr/fss/cmmn/file/fileDown.do?menuNo=200124&atchFileId=3972bce0a25307055d02ae2833dcbd3d&fileSn=2&bbsId=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 4548358
+    },
+    {
+      "name": "(별첨) 금융감독원 금융상품약관심사시스템 사용자 매뉴얼_.hwp",
+      "url": "https://www.fss.or.kr/fss/cmmn/file/fileDown.do?menuNo=200124&atchFileId=3972bce0a25307055d02ae2833dcbd3d&fileSn=3&bbsId=",
+      "ext": "hwp",
+      "text": "",
+      "size_bytes": 4117504
+    }
+  ],
+  "version_date": "2020-12-02",
+  "related_laws": [],
+  "collected_at": "2026-06-07",
+  "question": "",
+  "answer": "",
+  "url": ""
+}

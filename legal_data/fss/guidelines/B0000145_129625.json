@@ -1,0 +1,38 @@
+{
+  "doc_id": "fss_업무자료_129625",
+  "source": "fss_crawler",
+  "title": "투자계약증권 설명회 자료를 게시합니다.",
+  "category": "금융감독원/경영유의사항등공시",
+  "doc_type": "경영유의사항등공시",
+  "text": "제목: 투자계약증권 설명회 자료를 게시합니다.\n\n'투자계약증권 설명회' 자료를 게시합니다.\n\n[첨부파일]\n- (발표 1) 투자계약증권 증권신고서 서식 및 심사방향(게시).pdf\n- (발표 2) 조각투자사업자 사업재편 요건 및 준수 판단기준.pdf\n- (발표 3) 전자공시작성및제출요령.pdf",
+  "summary_text": "'투자계약증권 설명회' 자료를 게시합니다.",
+  "attachments": [
+    {
+      "name": "(발표 1) 투자계약증권 증권신고서 서식 및 심사방향(게시).pdf",
+      "url": "https://www.fss.or.kr/fss/cmmn/file/fileDown.do?menuNo=200152&atchFileId=3f7213a52c54462ca3903543ff6f3193&fileSn=1&bbsId=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 3522122
+    },
+    {
+      "name": "(발표 2) 조각투자사업자 사업재편 요건 및 준수 판단기준.pdf",
+      "url": "https://www.fss.or.kr/fss/cmmn/file/fileDown.do?menuNo=200152&atchFileId=3f7213a52c54462ca3903543ff6f3193&fileSn=2&bbsId=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 1241684
+    },
+    {
+      "name": "(발표 3) 전자공시작성및제출요령.pdf",
+      "url": "https://www.fss.or.kr/fss/cmmn/file/fileDown.do?menuNo=200152&atchFileId=3f7213a52c54462ca3903543ff6f3193&fileSn=3&bbsId=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 3011284
+    }
+  ],
+  "version_date": "2023-08-11",
+  "related_laws": [],
+  "collected_at": "2026-06-07",
+  "question": "",
+  "answer": "",
+  "url": ""
+}

@@ -1,0 +1,31 @@
+{
+  "doc_id": "fss_업무자료_21973",
+  "source": "fss_crawler",
+  "title": "상호저축은행 업무보고서 개정('18.10월 개정)",
+  "category": "금융감독원/중소서민금융업무자료",
+  "doc_type": "중소서민금융업무자료",
+  "text": "제목: 상호저축은행 업무보고서 개정('18.10월 개정)\n\n상호저축은행 업무보고서 양식을 붙임과 같이 첨부합니다.\n\n \n\n *상호저축은행업 감독업무 시행세칙 별지 제4호\n\n[첨부파일]\n- [별지4]업무보고서('18.10.8일 개정)_.hwp\n- [별지4]업무보고서('18.10.25일 개정)_.hwp",
+  "summary_text": "상호저축은행 업무보고서 양식을 붙임과 같이 첨부합니다.\n\n \n\n *상호저축은행업 감독업무 시행세칙 별지 제4호",
+  "attachments": [
+    {
+      "name": "[별지4]업무보고서('18.10.8일 개정)_.hwp",
+      "url": "https://www.fss.or.kr/fss/cmmn/file/fileDown.do?menuNo=200124&atchFileId=368b72194360eb9c9856a3bd3859ed35&fileSn=1&bbsId=",
+      "ext": "hwp",
+      "text": "",
+      "size_bytes": 1076736
+    },
+    {
+      "name": "[별지4]업무보고서('18.10.25일 개정)_.hwp",
+      "url": "https://www.fss.or.kr/fss/cmmn/file/fileDown.do?menuNo=200124&atchFileId=368b72194360eb9c9856a3bd3859ed35&fileSn=2&bbsId=",
+      "ext": "hwp",
+      "text": "",
+      "size_bytes": 1092096
+    }
+  ],
+  "version_date": "2018-11-07",
+  "related_laws": [],
+  "collected_at": "2026-06-07",
+  "question": "",
+  "answer": "",
+  "url": ""
+}

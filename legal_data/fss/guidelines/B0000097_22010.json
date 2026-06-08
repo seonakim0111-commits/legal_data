@@ -1,0 +1,31 @@
+{
+  "doc_id": "fss_업무자료_22010",
+  "source": "fss_crawler",
+  "title": "산림조합 여, 수신 약관('14. 3월)",
+  "category": "금융감독원/중소서민금융약관",
+  "doc_type": "중소서민금융약관",
+  "text": "제목: 산림조합 여, 수신 약관('14. 3월)\n\n산림조합 여, 수신 약관('14. 3월)\n\n[첨부파일]\n- 산림조합(수신약관)_.pdf\n- 산림조합(여신약관)_.hwp",
+  "summary_text": "산림조합 여, 수신 약관('14. 3월)",
+  "attachments": [
+    {
+      "name": "산림조합(수신약관)_.pdf",
+      "url": "https://www.fss.or.kr/fss/cmmn/file/fileDown.do?menuNo=200125&atchFileId=5a622be4d3b88c4188d9ab2b0a32eb96&fileSn=1&bbsId=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 411875
+    },
+    {
+      "name": "산림조합(여신약관)_.hwp",
+      "url": "https://www.fss.or.kr/fss/cmmn/file/fileDown.do?menuNo=200125&atchFileId=5a622be4d3b88c4188d9ab2b0a32eb96&fileSn=2&bbsId=",
+      "ext": "hwp",
+      "text": "",
+      "size_bytes": 43008
+    }
+  ],
+  "version_date": "2014-03-18",
+  "related_laws": [],
+  "collected_at": "2026-06-07",
+  "question": "",
+  "answer": "",
+  "url": ""
+}

@@ -1,0 +1,45 @@
+{
+  "doc_id": "fss_업무자료_127399",
+  "source": "fss_crawler",
+  "title": "기업공시서식 작성기준(2023.5.1. 시행)",
+  "category": "금융감독원/경영유의사항등공시",
+  "doc_type": "경영유의사항등공시",
+  "text": "제목: 기업공시서식 작성기준(2023.5.1. 시행)\n\n기업공시서식 개정파일(2023.5.1. 시행)을 게시합니다.\n\n자세한 내용은 첨부파일을 참고하시기 바랍니다.\n\n[첨부파일]\n- (붙임1) 기업공시서식 작성기준 개정내용_요약.hwp\n- (붙임2) 기업공시서식 작성기준 개정내용_본문.hwp\n- (붙임3) 기업공시서식 작성기준 개정내용_신구조문대비표.hwp\n- 별지서식(2023.5.1.시행).hwp",
+  "summary_text": "기업공시서식 개정파일(2023.5.1. 시행)을 게시합니다.\n\n자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+  "attachments": [
+    {
+      "name": "(붙임1) 기업공시서식 작성기준 개정내용_요약.hwp",
+      "url": "https://www.fss.or.kr/fss/cmmn/file/fileDown.do?menuNo=200152&atchFileId=6d9ed1e1929b477f9e2d6fbfe055d42b&fileSn=1&bbsId=",
+      "ext": "hwp",
+      "text": "",
+      "size_bytes": 77312
+    },
+    {
+      "name": "(붙임2) 기업공시서식 작성기준 개정내용_본문.hwp",
+      "url": "https://www.fss.or.kr/fss/cmmn/file/fileDown.do?menuNo=200152&atchFileId=6d9ed1e1929b477f9e2d6fbfe055d42b&fileSn=2&bbsId=",
+      "ext": "hwp",
+      "text": "",
+      "size_bytes": 86528
+    },
+    {
+      "name": "(붙임3) 기업공시서식 작성기준 개정내용_신구조문대비표.hwp",
+      "url": "https://www.fss.or.kr/fss/cmmn/file/fileDown.do?menuNo=200152&atchFileId=6d9ed1e1929b477f9e2d6fbfe055d42b&fileSn=3&bbsId=",
+      "ext": "hwp",
+      "text": "",
+      "size_bytes": 180736
+    },
+    {
+      "name": "별지서식(2023.5.1.시행).hwp",
+      "url": "https://www.fss.or.kr/fss/cmmn/file/fileDown.do?menuNo=200152&atchFileId=6d9ed1e1929b477f9e2d6fbfe055d42b&fileSn=4&bbsId=",
+      "ext": "hwp",
+      "text": "",
+      "size_bytes": 1197056
+    }
+  ],
+  "version_date": "2023-04-26",
+  "related_laws": [],
+  "collected_at": "2026-06-07",
+  "question": "",
+  "answer": "",
+  "url": ""
+}

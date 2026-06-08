@@ -1,0 +1,24 @@
+{
+  "doc_id": "fss_업무자료_58100",
+  "source": "fss_crawler",
+  "title": "2022.12월 기업공시 실무안내 게시",
+  "category": "금융감독원/경영유의사항등공시",
+  "doc_type": "경영유의사항등공시",
+  "text": "제목: 2022.12월 기업공시 실무안내 게시\n\n2022.12월 기업공시 실무안내 책자를 게시합니다.\n\n[첨부파일]\n- 2022_기업공시 실무안내.pdf",
+  "version_date": "2023-02-13",
+  "related_laws": [],
+  "collected_at": "2026-06-05",
+  "question": "",
+  "answer": "",
+  "url": "",
+  "attachments": [
+    {
+      "name": "2022_기업공시 실무안내.pdf",
+      "url": "https://www.fss.or.kr/fss/cmmn/file/fileDown.do?menuNo=200152&atchFileId=886502f8d85a453cadaa4ba384410ed5&fileSn=1&bbsId=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 175048718,
+      "check_status": "head_ok"
+    }
+  ]
+}

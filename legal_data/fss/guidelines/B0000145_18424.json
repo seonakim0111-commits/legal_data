@@ -1,0 +1,24 @@
+{
+  "doc_id": "fss_업무자료_18424",
+  "source": "fss_crawler",
+  "title": "기업공시 News Letter '14년 3호 게시",
+  "category": "금융감독원/경영유의사항등공시",
+  "doc_type": "경영유의사항등공시",
+  "text": "제목: 기업공시 News Letter '14년 3호 게시\n\n기업공시 News Letter '14년 3호를 게시합니다.\n\n[첨부파일]\n- 기업공시NewsLetter_제3호(2014년)(게시용).pdf",
+  "summary_text": "기업공시 News Letter '14년 3호를 게시합니다.",
+  "attachments": [
+    {
+      "name": "기업공시NewsLetter_제3호(2014년)(게시용).pdf",
+      "url": "https://www.fss.or.kr/fss/cmmn/file/fileDown.do?menuNo=200152&atchFileId=a34e9722e65299d38ed6ab5629e6636a&fileSn=1&bbsId=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 162642
+    }
+  ],
+  "version_date": "2014-03-31",
+  "related_laws": [],
+  "collected_at": "2026-06-07",
+  "question": "",
+  "answer": "",
+  "url": ""
+}
