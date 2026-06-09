@@ -1,0 +1,96 @@
+name: Refresh legal data
+
+on:
+  schedule:
+    # Every Monday at 03:15 Asia/Seoul (Sunday 18:15 UTC).
+    - cron: "15 18 * * 0"
+  push:
+    paths:
+      - ".github/workflows/refresh.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: refresh-legal-data
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Clone collection pipeline
+        run: |
+          git clone --depth 1 \
+            https://github.com/seonakim0111-commits/kbcard-agent-legal-pipeline.git \
+            "$RUNNER_TEMP/pipeline"
+          rsync -a --delete \
+            "$GITHUB_WORKSPACE/legal_data/" \
+            "$RUNNER_TEMP/pipeline/data/"
+
+      - name: Install collection dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install \
+            beautifulsoup4 \
+            olefile \
+            pydantic-settings \
+            pypdfium2 \
+            requests
+
+      - name: Refresh datasets
+        env:
+          CONFIGURED_LAW_API_OC: "${{ vars.LAW_API_OC }}"
+          LEGAL_DATA_LOOKBACK_DAYS: "14"
+          SKIP_ATTACHMENT_OCR: "1"
+          SKIP_HWP_TEXT: "1"
+        working-directory: ${{ runner.temp }}/pipeline
+        run: |
+          LAW_API_OC="$CONFIGURED_LAW_API_OC"
+          if [[ -z "$LAW_API_OC" ]]; then
+            LAW_API_OC="$(git log -1 --format='%ae')"
+          fi
+          export LAW_API_OC
+          python scripts/refresh_distribution_data.py
+
+      - name: Sync refreshed data
+        run: |
+          rsync -a --delete \
+            --exclude=".DS_Store" \
+            --exclude=".*.done" \
+            "$RUNNER_TEMP/pipeline/data/" \
+            "$GITHUB_WORKSPACE/legal_data/"
+
+      - name: Commit refreshed data
+        id: changes
+        run: |
+          git add legal_data
+          if git diff --cached --quiet; then
+            echo "published=false" >> "$GITHUB_OUTPUT"
+            echo "No data changes."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update legal data $(TZ=Asia/Seoul date +'%Y-%m-%d')"
+          git push origin main
+          echo "published=true" >> "$GITHUB_OUTPUT"
+
+      - name: Start PyPI publishing workflow
+        if: steps.changes.outputs.published == 'true'
+        env:
+          GH_TOKEN: "${{ github.token }}"
+        run: gh workflow run publish.yml --ref main
