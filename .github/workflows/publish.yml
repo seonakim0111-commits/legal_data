@@ -26,7 +26,7 @@ jobs:
 
       - name: Set package version
         id: version
-        run: echo "value=$(TZ=Asia/Seoul date +'%Y.%-m.%-d').${GITHUB_RUN_NUMBER}" >> "$GITHUB_OUTPUT"
+        run: echo "value=$(TZ=Asia/Seoul date +'%Y.%-m.%-d.%H%M%S')" >> "$GITHUB_OUTPUT"
 
       - name: Build wheel
         env:
