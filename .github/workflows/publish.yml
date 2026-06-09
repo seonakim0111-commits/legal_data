@@ -69,6 +69,7 @@ jobs:
         with:
           name: distribution
           path: dist/
+          retention-days: 1
 
   publish:
     needs: build
