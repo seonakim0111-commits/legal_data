@@ -13,13 +13,17 @@ on:
 
 permissions:
   contents: read
+  id-token: write
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
 
 jobs:
-  build:
+  publish:
     runs-on: ubuntu-latest
+    environment:
+      name: pypi
+      url: https://pypi.org/project/card-legal-data/
     steps:
       - uses: actions/checkout@v6
 
@@ -67,25 +71,5 @@ jobs:
 
           print(f"{wheel}: {len(data_files)} data files, {size} bytes")
           PY
-
-      - uses: actions/upload-artifact@v7
-        with:
-          name: distribution
-          path: dist/
-          retention-days: 1
-
-  publish:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: pypi
-      url: https://pypi.org/project/card-legal-data/
-    permissions:
-      id-token: write
-    steps:
-      - uses: actions/download-artifact@v8
-        with:
-          name: distribution
-          path: dist/
 
       - uses: pypa/gh-action-pypi-publish@release/v1
