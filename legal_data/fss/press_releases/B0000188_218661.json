@@ -1,0 +1,32 @@
+{
+  "doc_id": "fss_보도자료_218661",
+  "source": "fss_crawler",
+  "title": "상호금융업감독규정 개정안 금융위 의결",
+  "category": "금융감독원/보도자료",
+  "doc_type": "보도자료",
+  "text": "제목: 상호금융업감독규정 개정안 금융위 의결\n\n- 회수예상가액 산정 방식을 개선하여 리스크에 비례하는 충당금 적립 유도\n- 부동산 PF 대출 한도(20%) 등을 신설하여 고위험 대출 편중 방지\n- 조합 최소 순자본비율 및 신협 재무상태개선조치 기준을 단계적으로 상향\n- 상호금융중앙회 경영지도비율을 7%로 단계적으로 상향\n※ 자세한 내용은 첨부파일을 참고하시기 바랍니다.\n\n[첨부파일]\n- 260617_(보도자료) 상호금융업감독규정 개정안 금융위 의결.hwpx\n- 260617_(보도자료) 상호금융업감독규정 개정안 금융위 의결.pdf",
+  "summary_text": "- 회수예상가액 산정 방식을 개선하여 리스크에 비례하는 충당금 적립 유도\n- 부동산 PF 대출 한도(20%) 등을 신설하여 고위험 대출 편중 방지\n- 조합 최소 순자본비율 및 신협 재무상태개선조치 기준을 단계적으로 상향\n- 상호금융중앙회 경영지도비율을 7%로 단계적으로 상향\n※ 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+  "attachments": [
+    {
+      "name": "260617_(보도자료) 상호금융업감독규정 개정안 금융위 의결.hwpx",
+      "url": "https://www.fss.or.kr/fss/cmmn/file/fileDown.do?menuNo=200218&atchFileId=10448220b0bb4847a6fb98ac945357df&fileSn=1&bbsId=",
+      "ext": "hwpx",
+      "text": "",
+      "size_bytes": 361685,
+      "text_error": "Couldn't find a tree builder with the features you requested: xml. Do you need to install a parser library?"
+    },
+    {
+      "name": "260617_(보도자료) 상호금융업감독규정 개정안 금융위 의결.pdf",
+      "url": "https://www.fss.or.kr/fss/cmmn/file/fileDown.do?menuNo=200218&atchFileId=10448220b0bb4847a6fb98ac945357df&fileSn=2&bbsId=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 255678
+    }
+  ],
+  "version_date": "2026-06-17",
+  "related_laws": [],
+  "collected_at": "2026-06-18",
+  "question": "",
+  "answer": "",
+  "url": ""
+}
