@@ -1,0 +1,35 @@
+{
+  "doc_id": "fss_보도자료_218687",
+  "source": "fss_crawler",
+  "title": "'25년도 하반기 기술금융 테크평가 및 품질심사평가 결과",
+  "category": "금융감독원/보도자료",
+  "doc_type": "보도자료",
+  "text": "제목: '25년도 하반기 기술금융 테크평가 및 품질심사평가 결과\n\nㅁ '25년도 하반기 테크평가 및 품질심사평가 결과\n  - 테 크 평 가  : (대형리그) 1위 국민은행, 2위 농협은행              (소형리그) 1위 경남은행, 2위 부산은행\n  - 품질심사평가 : (우수등급) 아이엠,하나,신한,이크레더블(품질우수기관)\nㅁ 중소,중견기업의 기술혁신과 국내 R&D, IP 역량 강화를 위해 기술금융 공급 확대 지속 추진\n※ 자세한 내용은 첨부파일을 참고하시기 바랍니다.\n\n[첨부파일]\n- 260618_(보도자료) 25년도 하반기 기술금융 테크평가 및 품질심사평가 결과.hwpx\n- 260618_(보도자료) 25년도 하반기 기술금융 테크평가 및 품질심사평가 결과.pdf",
+  "summary_text": "ㅁ '25년도 하반기 테크평가 및 품질심사평가 결과\n  - 테 크 평 가  : (대형리그) 1위 국민은행, 2위 농협은행              (소형리그) 1위 경남은행, 2위 부산은행\n  - 품질심사평가 : (우수등급) 아이엠,하나,신한,이크레더블(품질우수기관)\nㅁ 중소,중견기업의 기술혁신과 국내 R&D, IP 역량 강화를 위해 기술금융 공급 확대 지속 추진\n※ 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+  "attachments": [
+    {
+      "name": "260618_(보도자료) 25년도 하반기 기술금융 테크평가 및 품질심사평가 결과.hwpx",
+      "url": "https://www.fss.or.kr/fss/cmmn/file/fileDown.do?menuNo=200218&atchFileId=bdd70af776b74e64b5f4f4b31f48bd36&fileSn=1&bbsId=",
+      "ext": "hwpx",
+      "text": "",
+      "size_bytes": 357875,
+      "text_error": "Couldn't find a tree builder with the features you requested: xml. Do you need to install a parser library?"
+    },
+    {
+      "name": "260618_(보도자료) 25년도 하반기 기술금융 테크평가 및 품질심사평가 결과.pdf",
+      "url": "https://www.fss.or.kr/fss/cmmn/file/fileDown.do?menuNo=200218&atchFileId=bdd70af776b74e64b5f4f4b31f48bd36&fileSn=2&bbsId=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 262863
+    }
+  ],
+  "version_date": "2026-06-19",
+  "related_laws": [],
+  "collected_at": "2026-07-02",
+  "question": "",
+  "answer": "",
+  "document_number": "",
+  "external_id": "",
+  "url": "",
+  "metadata": {}
+}

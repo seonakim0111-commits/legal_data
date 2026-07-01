@@ -1,0 +1,35 @@
+{
+  "doc_id": "fss_보도자료_218810",
+  "source": "fss_crawler",
+  "title": "사업보고서 등에 대한 조사, 감리결과 조치",
+  "category": "금융감독원/보도자료",
+  "doc_type": "보도자료",
+  "text": "제목: 사업보고서 등에 대한 조사, 감리결과 조치\n\nㅁ 증권선물위원회는 6월 24일 제12차 회의에서, 회계처리기준을 위반하여 재무제표를 작성,공시한 (주)아센디오, 의왕백운프로젝트금융투자(주) 및 명가유업(주)에 대하여 감사인지정 등의 조치를 의결하였습니다. \n ㅇ 또한, 회사의 감사인으로서 감사절차를 소홀히 한 회계법인(태율회계법인, 대주회계법인, 정명회계법인)과 감사반(소낭공인회계사감사반, 현도공인회계사감사반) 및 소속공인회계사에 대하여 당해회사 감사업무 제한 등의 조치를 결정하였습니다.\n※ 자세한 내용은 첨부파일을 참고하시기 바랍니다.\n\n[첨부파일]\n- 260624_(보도참고) 사업보고서 등에 대한 조사, 감리결과 조치.hwpx\n- 260624_(보도참고) 사업보고서 등에 대한 조사, 감리결과 조치.pdf",
+  "summary_text": "ㅁ 증권선물위원회는 6월 24일 제12차 회의에서, 회계처리기준을 위반하여 재무제표를 작성,공시한 (주)아센디오, 의왕백운프로젝트금융투자(주) 및 명가유업(주)에 대하여 감사인지정 등의 조치를 의결하였습니다. \n ㅇ 또한, 회사의 감사인으로서 감사절차를 소홀히 한 회계법인(태율회계법인, 대주회계법인, 정명회계법인)과 감사반(소낭공인회계사감사반, 현도공인회계사감사반) 및 소속공인회계사에 대하여 당해회사 감사업무 제한 등의 조치를 결정하였습니다.\n※ 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+  "attachments": [
+    {
+      "name": "260624_(보도참고) 사업보고서 등에 대한 조사, 감리결과 조치.hwpx",
+      "url": "https://www.fss.or.kr/fss/cmmn/file/fileDown.do?menuNo=200218&atchFileId=3045abda203944b6b9d7e472e0f325bd&fileSn=1&bbsId=",
+      "ext": "hwpx",
+      "text": "",
+      "size_bytes": 309486,
+      "text_error": "Couldn't find a tree builder with the features you requested: xml. Do you need to install a parser library?"
+    },
+    {
+      "name": "260624_(보도참고) 사업보고서 등에 대한 조사, 감리결과 조치.pdf",
+      "url": "https://www.fss.or.kr/fss/cmmn/file/fileDown.do?menuNo=200218&atchFileId=3045abda203944b6b9d7e472e0f325bd&fileSn=2&bbsId=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 296328
+    }
+  ],
+  "version_date": "2026-06-24",
+  "related_laws": [],
+  "collected_at": "2026-07-02",
+  "question": "",
+  "answer": "",
+  "document_number": "",
+  "external_id": "",
+  "url": "",
+  "metadata": {}
+}

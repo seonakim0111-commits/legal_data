@@ -1,0 +1,35 @@
+{
+  "doc_id": "fss_보도자료_218662",
+  "source": "fss_crawler",
+  "title": "사업보고서 등에 대한 조사,감리결과 조치",
+  "category": "금융감독원/보도자료",
+  "doc_type": "보도자료",
+  "text": "제목: 사업보고서 등에 대한 조사,감리결과 조치\n\nㅁ 금융위원회는 6월 17일 제11차 회의에서 회계처리기준을 위반하여 재무제표를 작성,공시한 (주)한창 및 ㈜더테크놀로지(舊 (주)한창바이오텍)의 회사 및 회사관계자에 대하여 「주식회사 등의 외부감사에 관한 법률」 등에 따라 아래와 같이 과징금 부과를 의결하였습니다.\n※ 자세한 내용은 첨부파일을 참고하시기 바랍니다.\n\n[첨부파일]\n- 260617_(보도참고) 사업보고서 등에 대한 조사, 감리결과 조치.hwpx\n- 260617_(보도참고) 사업보고서 등에 대한 조사, 감리결과 조치.pdf",
+  "summary_text": "ㅁ 금융위원회는 6월 17일 제11차 회의에서 회계처리기준을 위반하여 재무제표를 작성,공시한 (주)한창 및 ㈜더테크놀로지(舊 (주)한창바이오텍)의 회사 및 회사관계자에 대하여 「주식회사 등의 외부감사에 관한 법률」 등에 따라 아래와 같이 과징금 부과를 의결하였습니다.\n※ 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+  "attachments": [
+    {
+      "name": "260617_(보도참고) 사업보고서 등에 대한 조사, 감리결과 조치.hwpx",
+      "url": "https://www.fss.or.kr/fss/cmmn/file/fileDown.do?menuNo=200218&atchFileId=5b5e39af12b04b73a9358d4511dcee1b&fileSn=1&bbsId=",
+      "ext": "hwpx",
+      "text": "",
+      "size_bytes": 418608,
+      "text_error": "Couldn't find a tree builder with the features you requested: xml. Do you need to install a parser library?"
+    },
+    {
+      "name": "260617_(보도참고) 사업보고서 등에 대한 조사, 감리결과 조치.pdf",
+      "url": "https://www.fss.or.kr/fss/cmmn/file/fileDown.do?menuNo=200218&atchFileId=5b5e39af12b04b73a9358d4511dcee1b&fileSn=2&bbsId=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 226451
+    }
+  ],
+  "version_date": "2026-06-17",
+  "related_laws": [],
+  "collected_at": "2026-07-02",
+  "question": "",
+  "answer": "",
+  "document_number": "",
+  "external_id": "",
+  "url": "",
+  "metadata": {}
+}
