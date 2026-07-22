@@ -12,8 +12,7 @@
       "url": "https://www.kmcc.go.kr/download.do?fileSeq=60676",
       "ext": "pdf",
       "text": "",
-      "size_bytes": 0,
-      "text_error": "('Connection broken: IncompleteRead(9420800 bytes read, 3077166 more expected)', IncompleteRead(9420800 bytes read, 3077166 more expected))"
+      "size_bytes": 12497966
     }
   ],
   "version_date": "2025-02-28",

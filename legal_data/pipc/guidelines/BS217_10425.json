@@ -12,18 +12,14 @@
       "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000558134&fileSn=0&fileExtsn=pdf&cnvCnt=",
       "ext": "pdf",
       "text": "",
-      "size_bytes": 0,
-      "download_skipped": true,
-      "text_skipped": true
+      "size_bytes": 63258
     },
     {
       "name": "교육분야_가명·익명정보_처리_가이드라인.pdf",
       "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000558134&fileSn=1&fileExtsn=pdf&cnvCnt=",
       "ext": "pdf",
       "text": "",
-      "size_bytes": 0,
-      "download_skipped": true,
-      "text_skipped": true
+      "size_bytes": 3090697
     }
   ],
   "version_date": "2024-08-14",

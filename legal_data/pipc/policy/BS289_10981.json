@@ -13,17 +13,14 @@
       "ext": "hwpx",
       "text": "",
       "size_bytes": 0,
-      "download_skipped": true,
-      "text_skipped": true
+      "text_error": "Couldn't find a tree builder with the features you requested: xml. Do you need to install a parser library?"
     },
     {
       "name": "250122 (조간) 개인정보위 제3기 개인정보보호 교육 전문강사 위촉(자율보호정책과).pdf",
       "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000559243&fileSn=1&fileExtsn=pdf&cnvCnt=",
       "ext": "pdf",
       "text": "",
-      "size_bytes": 0,
-      "download_skipped": true,
-      "text_skipped": true
+      "size_bytes": 254094
     }
   ],
   "version_date": "2025-01-21",

@@ -12,9 +12,7 @@
       "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000558297&fileSn=0&fileExtsn=pdf&cnvCnt=",
       "ext": "pdf",
       "text": "",
-      "size_bytes": 0,
-      "download_skipped": true,
-      "text_skipped": true
+      "size_bytes": 487137
     },
     {
       "name": "240731+(조간)+국립암센터+「보건의료분야+개인정보+안심구역」+본격+운영+시작(데이터안전정책과) (1).hwpx",
@@ -22,8 +20,7 @@
       "ext": "hwpx",
       "text": "",
       "size_bytes": 0,
-      "download_skipped": true,
-      "text_skipped": true
+      "text_error": "Couldn't find a tree builder with the features you requested: xml. Do you need to install a parser library?"
     }
   ],
   "version_date": "2024-08-30",

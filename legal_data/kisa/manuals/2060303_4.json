@@ -12,8 +12,8 @@
       "url": "https://www.kisa.or.kr/post/fileDownload?menuSeq=2060303&postSeq=4&attachSeq=1&lang_type=KO",
       "ext": "hwpx",
       "text": "",
-      "size_bytes": 520105,
-      "text_skipped": true
+      "size_bytes": 0,
+      "text_error": "Couldn't find a tree builder with the features you requested: xml. Do you need to install a parser library?"
     }
   ],
   "version_date": "2023-05-11",
