@@ -12,7 +12,9 @@
       "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000559239&fileSn=0&fileExtsn=pdf&cnvCnt=",
       "ext": "pdf",
       "text": "",
-      "size_bytes": 2988102
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
     },
     {
       "name": "241220 (조간) 국민이 신뢰할 수 있는 인공지능 시대를 위한 AI 프라이버시 리스크 관리모델 제시(인공지능프라이버시팀).hwpx",
@@ -20,14 +22,17 @@
       "ext": "hwpx",
       "text": "",
       "size_bytes": 0,
-      "text_error": "Couldn't find a tree builder with the features you requested: xml. Do you need to install a parser library?"
+      "download_skipped": true,
+      "text_skipped": true
     },
     {
       "name": "241220 (조간) 국민이 신뢰할 수 있는 인공지능 시대를 위한 AI 프라이버시 리스크 관리모델 제시(인공지능프라이버시팀).pdf",
       "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000559239&fileSn=2&fileExtsn=pdf&cnvCnt=",
       "ext": "pdf",
       "text": "",
-      "size_bytes": 950739
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
     }
   ],
   "version_date": "2024-12-19",

@@ -12,7 +12,9 @@
       "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000558298&fileSn=0&fileExtsn=pdf&cnvCnt=",
       "ext": "pdf",
       "text": "",
-      "size_bytes": 378990
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
     },
     {
       "name": "240720+(조간)+전문가와+가명정보의+안전한+활용+방법+찾는다(데이터안전정책과).hwpx",
@@ -20,7 +22,8 @@
       "ext": "hwpx",
       "text": "",
       "size_bytes": 0,
-      "text_error": "Couldn't find a tree builder with the features you requested: xml. Do you need to install a parser library?"
+      "download_skipped": true,
+      "text_skipped": true
     }
   ],
   "version_date": "2024-08-30",

@@ -12,21 +12,27 @@
       "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000559242&fileSn=0&fileExtsn=pdf&cnvCnt=",
       "ext": "pdf",
       "text": "",
-      "size_bytes": 392433
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
     },
     {
       "name": "250114 (조간) 안전한 개인정보, 신뢰받는 인공지능 시대 - 2025년 개인정보보호위원회 주요 정책 추진계획 발표(혁신기획담당관).pdf",
       "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000559242&fileSn=1&fileExtsn=pdf&cnvCnt=",
       "ext": "pdf",
       "text": "",
-      "size_bytes": 880810
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
     },
     {
       "name": "2025년 개인정보보호위원회 주요업무 추진계획.pdf",
       "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000559242&fileSn=2&fileExtsn=pdf&cnvCnt=",
       "ext": "pdf",
       "text": "",
-      "size_bytes": 1023373
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
     }
   ],
   "version_date": "2025-01-13",
