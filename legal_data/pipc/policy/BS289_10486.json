@@ -13,14 +13,17 @@
       "ext": "hwpx",
       "text": "",
       "size_bytes": 0,
-      "text_error": "Couldn't find a tree builder with the features you requested: xml. Do you need to install a parser library?"
+      "download_skipped": true,
+      "text_skipped": true
     },
     {
       "name": "[보도자료] 240311 (조간) 개인정보 보호‧활용 기술 보유한 새싹기업 지원한다.pdf",
       "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000558243&fileSn=1&fileExtsn=pdf&cnvCnt=",
       "ext": "pdf",
       "text": "",
-      "size_bytes": 194701
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
     }
   ],
   "version_date": "2024-08-28",

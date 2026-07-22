@@ -13,14 +13,17 @@
       "ext": "hwpx",
       "text": "",
       "size_bytes": 0,
-      "text_error": "Couldn't find a tree builder with the features you requested: xml. Do you need to install a parser library?"
+      "download_skipped": true,
+      "text_skipped": true
     },
     {
       "name": "241122 (조간) 인공지능(AI) 시대의 개인정보보호, 체계적인 리스크 평가·관리 방안 모색(인공지능프라이버시팀, 신기술개인정보과).pdf",
       "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000558975&fileSn=1&fileExtsn=pdf&cnvCnt=",
       "ext": "pdf",
       "text": "",
-      "size_bytes": 413739
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
     }
   ],
   "version_date": "2024-11-20",

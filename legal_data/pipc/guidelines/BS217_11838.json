@@ -12,21 +12,27 @@
       "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000560518&fileSn=0&fileExtsn=pdf&cnvCnt=",
       "ext": "pdf",
       "text": "",
-      "size_bytes": 1553351
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
     },
     {
       "name": "2. 노인복지관 개인정보 처리방침 표준(안).pdf",
       "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000560518&fileSn=1&fileExtsn=pdf&cnvCnt=",
       "ext": "pdf",
       "text": "",
-      "size_bytes": 1594015
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
     },
     {
       "name": "3. 여행업 개인정보 처리방침 표준(안).pdf",
       "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000560518&fileSn=2&fileExtsn=pdf&cnvCnt=",
       "ext": "pdf",
       "text": "",
-      "size_bytes": 1713765
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
     }
   ],
   "version_date": "2026-02-27",

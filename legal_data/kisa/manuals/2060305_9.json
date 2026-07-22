@@ -4,14 +4,14 @@
   "title": "상용 소프트웨어에서의 암호기능 이용 안내서 Ⅱ",
   "category": "한국인터넷진흥원/안내서",
   "doc_type": "안내서",
-  "text": "제목: 상용 소프트웨어에서의 암호기능 이용 안내서 Ⅱ\n\n[첨부파일]\n- 상용_소프트웨어에서의_암호기능_이용_안내서_II.pdf",
+  "text": "제목: 상용 소프트웨어에서의 암호기능 이용 안내서 Ⅱ\n\n[첨부파일]\n- 상용_소프트웨어에서의_암호기능_이용_안내서_II.pdf\n\n[첨부파일: 상용_소프트웨어에서의_암호기능_이용_안내서_II.pdf]\n78\r\n② [데이터베이스] → [SQL Server] [Visual C# SQL CLR 데이터베이스 프로젝트]를 \r\n선택하고, 이름과 경로를 설정한다.\r\n \r\n→ \r\n※ 프로젝트명은 “KISA-CLRSHA”로 설정하였다.\r\n③ [확인] 클릭 시, “데이터베이스 참조”를 추가한다.",
   "summary_text": "",
   "attachments": [
     {
       "name": "상용_소프트웨어에서의_암호기능_이용_안내서_II.pdf",
       "url": "https://www.kisa.or.kr/post/fileDownload?menuSeq=2060305&postSeq=9&attachSeq=1&lang_type=KO",
       "ext": "pdf",
-      "text": "",
+      "text": "78\r\n② [데이터베이스] → [SQL Server] [Visual C# SQL CLR 데이터베이스 프로젝트]를 \r\n선택하고, 이름과 경로를 설정한다.\r\n \r\n→ \r\n※ 프로젝트명은 “KISA-CLRSHA”로 설정하였다.\r\n③ [확인] 클릭 시, “데이터베이스 참조”를 추가한다.",
       "size_bytes": 18500434
     }
   ],

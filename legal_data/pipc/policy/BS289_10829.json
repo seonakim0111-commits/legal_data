@@ -13,21 +13,26 @@
       "ext": "hwpx",
       "text": "",
       "size_bytes": 0,
-      "text_error": "Couldn't find a tree builder with the features you requested: xml. Do you need to install a parser library?"
+      "download_skipped": true,
+      "text_skipped": true
     },
     {
       "name": "240926 (석간) 개인정보위 사례 중심의 “자동화된 결정에 대한 정보주체의 권리 안내서” 공개(개인정보보호정책과).pdf",
       "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000558965&fileSn=1&fileExtsn=pdf&cnvCnt=",
       "ext": "pdf",
       "text": "",
-      "size_bytes": 1515705
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
     },
     {
       "name": "자동화된 결정에 대한 정보주체의 권리 안내서(2024.9.).pdf",
       "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000558965&fileSn=2&fileExtsn=pdf&cnvCnt=",
       "ext": "pdf",
       "text": "",
-      "size_bytes": 2899020
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
     }
   ],
   "version_date": "2024-09-26",
