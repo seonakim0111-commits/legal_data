@@ -13,17 +13,14 @@
       "ext": "hwpx",
       "text": "",
       "size_bytes": 0,
-      "download_skipped": true,
-      "text_skipped": true
+      "text_error": "Couldn't find a tree builder with the features you requested: xml. Do you need to install a parser library?"
     },
     {
       "name": "240924 (석간) 개인정보위-한국은행, 제2회 「개인정보 기술포럼」 세미나 공동개최(신기술개인정보과).pdf",
       "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000558964&fileSn=1&fileExtsn=pdf&cnvCnt=",
       "ext": "pdf",
       "text": "",
-      "size_bytes": 0,
-      "download_skipped": true,
-      "text_skipped": true
+      "size_bytes": 800416
     }
   ],
   "version_date": "2024-09-23",

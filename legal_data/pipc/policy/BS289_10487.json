@@ -13,17 +13,14 @@
       "ext": "hwpx",
       "text": "",
       "size_bytes": 0,
-      "download_skipped": true,
-      "text_skipped": true
+      "text_error": "Couldn't find a tree builder with the features you requested: xml. Do you need to install a parser library?"
     },
     {
       "name": "[보도자료] 240405 (조간) “온라인 행태정보” 보호를 위해 민·관이 함께 머리 맞댄다.pdf",
       "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000558244&fileSn=1&fileExtsn=pdf&cnvCnt=",
       "ext": "pdf",
       "text": "",
-      "size_bytes": 0,
-      "download_skipped": true,
-      "text_skipped": true
+      "size_bytes": 368871
     }
   ],
   "version_date": "2024-08-28",

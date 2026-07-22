@@ -13,17 +13,14 @@
       "ext": "hwpx",
       "text": "",
       "size_bytes": 0,
-      "download_skipped": true,
-      "text_skipped": true
+      "text_error": "Couldn't find a tree builder with the features you requested: xml. Do you need to install a parser library?"
     },
     {
       "name": "241105 (석간) 온라인 구직활동에 필요한 내 정보 더 안전하게 관리된다(자율보호정책과).pdf",
       "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000558971&fileSn=1&fileExtsn=pdf&cnvCnt=",
       "ext": "pdf",
       "text": "",
-      "size_bytes": 0,
-      "download_skipped": true,
-      "text_skipped": true
+      "size_bytes": 461745
     }
   ],
   "version_date": "2024-11-05",

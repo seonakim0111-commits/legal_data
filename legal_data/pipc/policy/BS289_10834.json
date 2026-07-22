@@ -13,26 +13,21 @@
       "ext": "hwpx",
       "text": "",
       "size_bytes": 0,
-      "download_skipped": true,
-      "text_skipped": true
+      "text_error": "Couldn't find a tree builder with the features you requested: xml. Do you need to install a parser library?"
     },
     {
       "name": "241101 (조간 ) 개인정보위, “개인정보의 안전성 확보조치 기준 안내서” 공개(신기술개인정보과).pdf",
       "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000558970&fileSn=1&fileExtsn=pdf&cnvCnt=",
       "ext": "pdf",
       "text": "",
-      "size_bytes": 0,
-      "download_skipped": true,
-      "text_skipped": true
+      "size_bytes": 272545
     },
     {
       "name": "개인정보의 안전성 확보조치 기준 안내서(2024.10).pdf",
       "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000558970&fileSn=2&fileExtsn=pdf&cnvCnt=",
       "ext": "pdf",
       "text": "",
-      "size_bytes": 0,
-      "download_skipped": true,
-      "text_skipped": true
+      "size_bytes": 6071532
     }
   ],
   "version_date": "2024-10-31",
