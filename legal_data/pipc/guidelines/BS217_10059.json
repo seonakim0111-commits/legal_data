@@ -1,0 +1,53 @@
+{
+  "doc_id": "pipc_안내서_BS217_10059",
+  "source": "pipc_crawler",
+  "title": "[현재 안내서] 해외사업자의 개인정보 보호법 적용 안내서(2024.4.)",
+  "category": "개인정보보호위원회/안내서",
+  "doc_type": "안내서",
+  "text": "제목: [현재 안내서] 해외사업자의 개인정보 보호법 적용 안내서(2024.4.)\n\n해외사업자의 개인정보 보호법 적용 안내서(2024.4.) 국문본 및 영문본입니다. ※ 중문본 추가(25.5.14.)\n\n[첨부파일]\n- (2024.4.) 해외사업자의 개인정보 보호법 적용 안내서_국문(korean)_최종.pdf\n- (2024.4.) Guidelines on Applying the Personal Information Protection Act to Foreign business operators_영문(English)_최종.pdf\n- (2024.4.) 外国经营者 个人信息保护法适用_중문(Chinese)_최종.pdf",
+  "summary_text": "해외사업자의 개인정보 보호법 적용 안내서(2024.4.) 국문본 및 영문본입니다. ※ 중문본 추가(25.5.14.)",
+  "attachments": [
+    {
+      "name": "(2024.4.) 해외사업자의 개인정보 보호법 적용 안내서_국문(korean)_최종.pdf",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000557221&fileSn=1&fileExtsn=pdf&cnvCnt=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    },
+    {
+      "name": "(2024.4.) Guidelines on Applying the Personal Information Protection Act to Foreign business operators_영문(English)_최종.pdf",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000557221&fileSn=2&fileExtsn=pdf&cnvCnt=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    },
+    {
+      "name": "(2024.4.) 外国经营者 个人信息保护法适用_중문(Chinese)_최종.pdf",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000557221&fileSn=3&fileExtsn=pdf&cnvCnt=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    }
+  ],
+  "version_date": "2024-04-04",
+  "related_laws": [],
+  "collected_at": "2026-07-01",
+  "question": "",
+  "answer": "",
+  "document_number": "",
+  "external_id": "BS217_10059",
+  "url": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS217&mCode=D010030020&nttId=10059",
+  "metadata": {
+    "bbs_id": "BS217",
+    "ntt_id": "10059",
+    "m_code": "D010030020",
+    "department": "조사1과",
+    "author": "전창민"
+  }
+}

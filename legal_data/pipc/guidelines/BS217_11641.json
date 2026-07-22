@@ -1,0 +1,35 @@
+{
+  "doc_id": "pipc_안내서_BS217_11641",
+  "source": "pipc_crawler",
+  "title": "[현재 안내서] 개인정보의 안전성 확보조치 기준 안내서(2025.11.)",
+  "category": "개인정보보호위원회/안내서",
+  "doc_type": "안내서",
+  "text": "제목: [현재 안내서] 개인정보의 안전성 확보조치 기준 안내서(2025.11.)\n\n일부 개정 사항 등을 반영한 개인정보의 안전성 확보조치 기준 안내서입니다.\n\n[첨부파일]\n- 개인정보의 안전성 확보조치 기준 안내서(2025.11).pdf",
+  "summary_text": "일부 개정 사항 등을 반영한 개인정보의 안전성 확보조치 기준 안내서입니다.",
+  "attachments": [
+    {
+      "name": "개인정보의 안전성 확보조치 기준 안내서(2025.11).pdf",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000560213&fileSn=1&fileExtsn=pdf&cnvCnt=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    }
+  ],
+  "version_date": "2025-11-28",
+  "related_laws": [],
+  "collected_at": "2026-07-01",
+  "question": "",
+  "answer": "",
+  "document_number": "",
+  "external_id": "BS217_11641",
+  "url": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS217&mCode=D010030020&nttId=11641",
+  "metadata": {
+    "bbs_id": "BS217",
+    "ntt_id": "11641",
+    "m_code": "D010030020",
+    "department": "신기술개인정보과",
+    "author": "정홍순"
+  }
+}

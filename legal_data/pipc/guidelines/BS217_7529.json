@@ -1,0 +1,35 @@
+{
+  "doc_id": "pipc_안내서_BS217_7529",
+  "source": "pipc_crawler",
+  "title": "[과거 안내서] 생체정보 보호 가이드라인(2021.9월)",
+  "category": "개인정보보호위원회/안내서",
+  "doc_type": "안내서",
+  "text": "제목: [과거 안내서] 생체정보 보호 가이드라인(2021.9월)\n\n기존 '바이오정보 보호 가이드라인'(2017.12.) 을 개정한 '생체정보 보호 가이드라인' 입니다. 생체정보를 처리하는 개인정보처리자 뿐만 아니라 관련 기기 제조사, 이용자 등이 함께 알아야 할 사항이 수록되어 있으니 생체정보 관리 및 보호에 적극 활용하시기 바랍니다. - 개인정보 보호위원회 -\n\n[첨부파일]\n- 생체정보_보호_가이드라인(2021.9월).pdf",
+  "summary_text": "기존 '바이오정보 보호 가이드라인'(2017.12.) 을 개정한 '생체정보 보호 가이드라인' 입니다. 생체정보를 처리하는 개인정보처리자 뿐만 아니라 관련 기기 제조사, 이용자 등이 함께 알아야 할 사항이 수록되어 있으니 생체정보 관리 및 보호에 적극 활용하시기 바랍니다. - 개인정보 보호위원회 -",
+  "attachments": [
+    {
+      "name": "생체정보_보호_가이드라인(2021.9월).pdf",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000552343&fileSn=1&fileExtsn=pdf&cnvCnt=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    }
+  ],
+  "version_date": "2021-09-08",
+  "related_laws": [],
+  "collected_at": "2026-07-01",
+  "question": "",
+  "answer": "",
+  "document_number": "",
+  "external_id": "BS217_7529",
+  "url": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS217&mCode=D010030020&nttId=7529",
+  "metadata": {
+    "bbs_id": "BS217",
+    "ntt_id": "7529",
+    "m_code": "D010030020",
+    "department": "신기술개인정보과",
+    "author": "임덕진"
+  }
+}

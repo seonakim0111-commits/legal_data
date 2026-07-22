@@ -1,0 +1,35 @@
+{
+  "doc_id": "pipc_안내서_BS217_11160",
+  "source": "pipc_crawler",
+  "title": "[현재 안내서] (전 분야 마이데이터) 개인정보 전송요구권 제도 안내서(2025.4.)",
+  "category": "개인정보보호위원회/안내서",
+  "doc_type": "안내서",
+  "text": "제목: [현재 안내서] (전 분야 마이데이터) 개인정보 전송요구권 제도 안내서(2025.4.)\n\n본 안내서는 개인정보 보호법에 따라 도입된 개인정보 전송요구권 제도의 주요 사항을 안내합니다.\n\n[첨부파일]\n- (전 분야 마이데이터) 개인정보 전송요구권 제도 안내서(2025.4.).pdf",
+  "summary_text": "본 안내서는 개인정보 보호법에 따라 도입된 개인정보 전송요구권 제도의 주요 사항을 안내합니다.",
+  "attachments": [
+    {
+      "name": "(전 분야 마이데이터) 개인정보 전송요구권 제도 안내서(2025.4.).pdf",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000559556&fileSn=1&fileExtsn=pdf&cnvCnt=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    }
+  ],
+  "version_date": "2025-04-29",
+  "related_laws": [],
+  "collected_at": "2026-07-01",
+  "question": "",
+  "answer": "",
+  "document_number": "",
+  "external_id": "BS217_11160",
+  "url": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS217&mCode=D010030020&nttId=11160",
+  "metadata": {
+    "bbs_id": "BS217",
+    "ntt_id": "11160",
+    "m_code": "D010030020",
+    "department": "개인정보보호위원회",
+    "author": ""
+  }
+}

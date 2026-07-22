@@ -1,0 +1,31 @@
+{
+  "doc_id": "kisa_안내서_2060301_55",
+  "source": "kisa_crawler",
+  "title": "합성데이터 생성 참조모델",
+  "category": "한국인터넷진흥원/안내서",
+  "doc_type": "안내서",
+  "text": "제목: 합성데이터 생성 참조모델\n\n합성데이터 생성 참조모델입니다.\n\n[첨부파일]\n- ★합성데이터 생성 참조모델(2024.5).pdf",
+  "summary_text": "합성데이터 생성 참조모델입니다.",
+  "attachments": [
+    {
+      "name": "★합성데이터 생성 참조모델(2024.5).pdf",
+      "url": "https://www.kisa.or.kr/post/fileDownload?menuSeq=2060301&postSeq=55&attachSeq=1&lang_type=KO",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 3486535,
+      "text_skipped": true
+    }
+  ],
+  "version_date": "2025-10-15",
+  "related_laws": [],
+  "collected_at": "2026-07-01",
+  "question": "",
+  "answer": "",
+  "document_number": "",
+  "external_id": "2060301_55",
+  "url": "https://www.kisa.or.kr/2060301/form?postSeq=55&page=1",
+  "metadata": {
+    "menu_seq": "2060301",
+    "post_seq": "55"
+  }
+}

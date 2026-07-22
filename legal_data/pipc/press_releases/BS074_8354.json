@@ -1,0 +1,44 @@
+{
+  "doc_id": "pipc_보도자료_BS074_8354",
+  "source": "pipc_crawler",
+  "title": "개인정보보호위원회 인사발령(실장급 승진)",
+  "category": "개인정보보호위원회/보도자료",
+  "doc_type": "보도자료",
+  "text": "제목: 개인정보보호위원회 인사발령(실장급 승진)\n\n■ 개인정보보호위원회 ◇ 실장급 승진 ▲ 사무처장 이정렬\n\n[첨부파일]\n- 221209_개인정보보호위원회 인사발령(운영지원과).pdf\n- 221209_개인정보보호위원회 인사발령(운영지원과).hwpx",
+  "summary_text": "■ 개인정보보호위원회 ◇ 실장급 승진 ▲ 사무처장 이정렬",
+  "attachments": [
+    {
+      "name": "221209_개인정보보호위원회 인사발령(운영지원과).pdf",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000554383&fileSn=1&fileExtsn=pdf&cnvCnt=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    },
+    {
+      "name": "221209_개인정보보호위원회 인사발령(운영지원과).hwpx",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000554383&fileSn=2&fileExtsn=hwpx&cnvCnt=",
+      "ext": "hwpx",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    }
+  ],
+  "version_date": "2022-12-09",
+  "related_laws": [],
+  "collected_at": "2026-07-01",
+  "question": "",
+  "answer": "",
+  "document_number": "",
+  "external_id": "BS074_8354",
+  "url": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=8354",
+  "metadata": {
+    "bbs_id": "BS074",
+    "ntt_id": "8354",
+    "m_code": "C020010000",
+    "department": "대변인",
+    "author": "권슬기"
+  }
+}

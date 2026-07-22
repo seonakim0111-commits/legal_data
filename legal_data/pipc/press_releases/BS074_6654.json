@@ -1,0 +1,35 @@
+{
+  "doc_id": "pipc_보도자료_BS074_6654",
+  "source": "pipc_crawler",
+  "title": "2021년 개인정보 보호 시행계획 의결",
+  "category": "개인정보보호위원회/보도자료",
+  "doc_type": "보도자료",
+  "text": "제목: 2021년 개인정보 보호 시행계획 의결\n\n＜p＞<2021년 개인정보 보호 시행계획> 의결에 대한 보도자료입니다. ＜br＞＜/p＞\n\n[첨부파일]\n- 2021년 시행계획 보도자료(최종).hwp",
+  "summary_text": "＜p＞<2021년 개인정보 보호 시행계획> 의결에 대한 보도자료입니다. ＜br＞＜/p＞",
+  "attachments": [
+    {
+      "name": "2021년 시행계획 보도자료(최종).hwp",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000501727&fileSn=0&fileExtsn=hwp&cnvCnt=",
+      "ext": "hwp",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    }
+  ],
+  "version_date": "2020-06-09",
+  "related_laws": [],
+  "collected_at": "2026-07-01",
+  "question": "",
+  "answer": "",
+  "document_number": "",
+  "external_id": "BS074_6654",
+  "url": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=6654",
+  "metadata": {
+    "bbs_id": "BS074",
+    "ntt_id": "6654",
+    "m_code": "C020010000",
+    "department": "개인정보보호위원회",
+    "author": "임현정"
+  }
+}

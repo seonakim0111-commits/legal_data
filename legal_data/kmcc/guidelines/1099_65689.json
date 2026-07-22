@@ -1,0 +1,35 @@
+{
+  "doc_id": "kmcc_가이드라인_1099_65689",
+  "source": "kmcc_crawler",
+  "title": "생성형 인공지능 서비스 이용자 보호 가이드라인",
+  "category": "방송미디어통신위원회/가이드라인",
+  "doc_type": "가이드라인",
+  "text": "제목: 생성형 인공지능 서비스 이용자 보호 가이드라인\n\n'생성형 인공지능 서비스 이용자 보호 가이드라인' 입니다.\n\n[첨부파일]\n- 생성형 인공지능 서비스 이용자 보호 가이드라인.pdf",
+  "summary_text": "'생성형 인공지능 서비스 이용자 보호 가이드라인' 입니다.",
+  "attachments": [
+    {
+      "name": "생성형 인공지능 서비스 이용자 보호 가이드라인.pdf",
+      "url": "https://www.kmcc.go.kr/download.do?fileSeq=60676",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 0,
+      "text_error": "('Connection broken: IncompleteRead(9420800 bytes read, 3077166 more expected)', IncompleteRead(9420800 bytes read, 3077166 more expected))"
+    }
+  ],
+  "version_date": "2025-02-28",
+  "related_laws": [],
+  "collected_at": "2026-07-01",
+  "question": "",
+  "answer": "",
+  "document_number": "",
+  "external_id": "1099_65689",
+  "url": "https://www.kmcc.go.kr/user.do?mode=view&page=A02030700&dc=K02030700&boardId=1099&boardSeq=65689",
+  "metadata": {
+    "page": "A02030700",
+    "dc": "K02030700",
+    "board_id": "1099",
+    "board_seq": "65689",
+    "department": "신기술이용자보호혁신과",
+    "kogl": "1유형"
+  }
+}

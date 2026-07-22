@@ -1,0 +1,35 @@
+{
+  "doc_id": "pipc_안내서_BS217_9862",
+  "source": "pipc_crawler",
+  "title": "[현재 안내서] 정보보호 및 개인정보보호 관리체계(ISMS-P) 인증기준 안내서",
+  "category": "개인정보보호위원회/안내서",
+  "doc_type": "안내서",
+  "text": "제목: [현재 안내서] 정보보호 및 개인정보보호 관리체계(ISMS-P) 인증기준 안내서\n\n정보보호 및 개인정보보호 관리체계(ISMS-P) 인증기준에 관한 안내서입니다. 인증 업무에 참고하시기 바랍니다.\n\n[첨부파일]\n- ISMS-P 인증기준 안내서(2023.11.23).pdf",
+  "summary_text": "정보보호 및 개인정보보호 관리체계(ISMS-P) 인증기준에 관한 안내서입니다. 인증 업무에 참고하시기 바랍니다.",
+  "attachments": [
+    {
+      "name": "ISMS-P 인증기준 안내서(2023.11.23).pdf",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000556830&fileSn=0&fileExtsn=pdf&cnvCnt=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    }
+  ],
+  "version_date": "2024-01-17",
+  "related_laws": [],
+  "collected_at": "2026-07-01",
+  "question": "",
+  "answer": "",
+  "document_number": "",
+  "external_id": "BS217_9862",
+  "url": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS217&mCode=D010030020&nttId=9862",
+  "metadata": {
+    "bbs_id": "BS217",
+    "ntt_id": "9862",
+    "m_code": "D010030020",
+    "department": "자율보호정책과",
+    "author": "이승연"
+  }
+}

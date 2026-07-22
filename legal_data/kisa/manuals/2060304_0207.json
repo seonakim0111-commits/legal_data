@@ -1,0 +1,31 @@
+{
+  "doc_id": "kisa_안내서_2060304_0207",
+  "source": "kisa_crawler",
+  "title": "정보보호 최고책임자(CISO) 길라잡이-기본편",
+  "category": "한국인터넷진흥원/안내서",
+  "doc_type": "안내서",
+  "text": "제목: 정보보호 최고책임자(CISO) 길라잡이-기본편\n\n[첨부파일]\n- CISO_길라잡이(기본편).pdf",
+  "summary_text": "",
+  "attachments": [
+    {
+      "name": "CISO_길라잡이(기본편).pdf",
+      "url": "https://www.kisa.or.kr/post/fileDownload?menuSeq=2060304&postSeq=0207&attachSeq=1&lang_type=KO",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 3958737,
+      "text_skipped": true
+    }
+  ],
+  "version_date": "2020-03-12",
+  "related_laws": [],
+  "collected_at": "2026-07-01",
+  "question": "",
+  "answer": "",
+  "document_number": "",
+  "external_id": "2060304_0207",
+  "url": "https://www.kisa.or.kr/2060304/form?postSeq=0207&page=5",
+  "metadata": {
+    "menu_seq": "2060304",
+    "post_seq": "0207"
+  }
+}

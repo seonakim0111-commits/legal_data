@@ -1,0 +1,44 @@
+{
+  "doc_id": "pipc_안내서_BS217_2716",
+  "source": "pipc_crawler",
+  "title": "[과거 안내서] 개인정보 위험도 분석 기준 및 해설서 공고",
+  "category": "개인정보보호위원회/안내서",
+  "doc_type": "안내서",
+  "text": "제목: [과거 안내서] 개인정보 위험도 분석 기준 및 해설서 공고\n\n＜p style=\"LINE-HEIGHT: 150%; FONT-FAMILY: 돋움; COLOR: #444444; FONT-SIZE: 14px\"＞행정안전부 공고 제2012-112 ＜br /＞＜br /＞개인정보보호법 제29조, 동법시행령 제30조 및 개인정보의 안전성 확보조치 기준 제7조(행정안전부 고시 제2011-43호)에 따라 개인정보처리시스템의 보호수준을 진단하여 암호화에 상응하는 조치를 분석할 수 있는 \"개인정보 위험도 분석 기준 및 해설서\"를 붙임과 같이 공고합니다. ＜br /＞＜br /＞※ 개인정보 위험도 분석 기준 및 해설서 문의 : (국번없이) 118 ＜br /＞＜br /＞2012년 4월 4일 ＜br /＞＜br /＞행정안전부 장관 ＜br /＞＜return /＞＜br /＞＜return /＞＜/p＞\n\n[첨부파일]\n- [붙임] 개인정보 위험도 분석 기준 및 해설서.hwp\n- [붙임] 개인정보 위험도 분석 기준 및 해설서.pdf",
+  "summary_text": "＜p style=\"LINE-HEIGHT: 150%; FONT-FAMILY: 돋움; COLOR: #444444; FONT-SIZE: 14px\"＞행정안전부 공고 제2012-112 ＜br /＞＜br /＞개인정보보호법 제29조, 동법시행령 제30조 및 개인정보의 안전성 확보조치 기준 제7조(행정안전부 고시 제2011-43호)에 따라 개인정보처리시스템의 보호수준을 진단하여 암호화에 상응하는 조치를 분석할 수 있는 \"개인정보 위험도 분석 기준 및 해설서\"를 붙임과 같이 공고합니다. ＜br /＞＜br /＞※ 개인정보 위험도 분석 기준 및 해설서 문의 : (국번없이) 118 ＜br /＞＜br /＞2012년 4월 4일 ＜br /＞＜br /＞행정안전부 장관 ＜br /＞＜return /＞＜br /＞＜return /＞＜/p＞",
+  "attachments": [
+    {
+      "name": "[붙임] 개인정보 위험도 분석 기준 및 해설서.hwp",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000162718&fileSn=0&fileExtsn=hwp&cnvCnt=",
+      "ext": "hwp",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    },
+    {
+      "name": "[붙임] 개인정보 위험도 분석 기준 및 해설서.pdf",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000162718&fileSn=1&fileExtsn=pdf&cnvCnt=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    }
+  ],
+  "version_date": "2012-04-04",
+  "related_laws": [],
+  "collected_at": "2026-07-01",
+  "question": "",
+  "answer": "",
+  "document_number": "",
+  "external_id": "BS217_2716",
+  "url": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS217&mCode=D010030020&nttId=2716",
+  "metadata": {
+    "bbs_id": "BS217",
+    "ntt_id": "2716",
+    "m_code": "D010030020",
+    "department": "개인정보보호정책과",
+    "author": ""
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "doc_id": "pipc_보도자료_BS074_8706",
+  "source": "pipc_crawler",
+  "title": "(보도참고) 개인정보위, 쿠팡 관련 개인정보 유출사고 확인 중",
+  "category": "개인정보보호위원회/보도자료",
+  "doc_type": "보도자료",
+  "text": "제목: (보도참고) 개인정보위, 쿠팡 관련 개인정보 유출사고 확인 중\n\n(보도참고) 개인정보위, 쿠팡 관련 개인정보 유출사고 확인 중 □ 개인정보보호위원회(위원장 고학수, 이하 ‘개인정보위’)는 쿠팡과 관련된 것으로 보이는 개인정보 유출 사고에 대해 사실 여부를 확인 중이라고 밝혔다. ○ 쿠팡에서 물품을 구매한 기록이 있는 사람들의 개인정보 46만 건이 지하웹(다크웹) 해킹포럼에 게시되었다는 언론보도와 관련하여, 개인정보보호위원회는 유출된 개인정보의 출처 확인과 유출 경위, 규모 등을 검토하고, ○ 유출 관련 개인정보처리자 등이 확인되면 개인정보 보호법 위반에 대한 조사에 착수할 계획이라고 밝혔다. * 기타 자세한 내용은 첨부파일을 확인해주시기 바랍니다. - 담당자 : 조사3팀 서인숙(02-2100-3154)\n\n[첨부파일]\n- 230320 (즉시) 개인정보위, 쿠팡 관련 개인정보 유출사고 확인 중(조사3팀)FN.pdf\n- 230320 (즉시) 개인정보위, 쿠팡 관련 개인정보 유출사고 확인 중(조사3팀)FN.hwpx",
+  "summary_text": "(보도참고) 개인정보위, 쿠팡 관련 개인정보 유출사고 확인 중 □ 개인정보보호위원회(위원장 고학수, 이하 ‘개인정보위’)는 쿠팡과 관련된 것으로 보이는 개인정보 유출 사고에 대해 사실 여부를 확인 중이라고 밝혔다. ○ 쿠팡에서 물품을 구매한 기록이 있는 사람들의 개인정보 46만 건이 지하웹(다크웹) 해킹포럼에 게시되었다는 언론보도와 관련하여, 개인정보보호위원회는 유출된 개인정보의 출처 확인과 유출 경위, 규모 등을 검토하고, ○ 유출 관련 개인정보처리자 등이 확인되면 개인정보 보호법 위반에 대한 조사에 착수할 계획이라고 밝혔다. * 기타 자세한 내용은 첨부파일을 확인해주시기 바랍니다. - 담당자 : 조사3팀 서인숙(02-2100-3154)",
+  "attachments": [
+    {
+      "name": "230320 (즉시) 개인정보위, 쿠팡 관련 개인정보 유출사고 확인 중(조사3팀)FN.pdf",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000555000&fileSn=0&fileExtsn=pdf&cnvCnt=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    },
+    {
+      "name": "230320 (즉시) 개인정보위, 쿠팡 관련 개인정보 유출사고 확인 중(조사3팀)FN.hwpx",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000555000&fileSn=1&fileExtsn=hwpx&cnvCnt=",
+      "ext": "hwpx",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    }
+  ],
+  "version_date": "2023-03-20",
+  "related_laws": [],
+  "collected_at": "2026-07-01",
+  "question": "",
+  "answer": "",
+  "document_number": "",
+  "external_id": "BS074_8706",
+  "url": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=8706",
+  "metadata": {
+    "bbs_id": "BS074",
+    "ntt_id": "8706",
+    "m_code": "C020010000",
+    "department": "대변인",
+    "author": "권선정"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "doc_id": "pipc_안내서_BS217_7777",
+  "source": "pipc_crawler",
+  "title": "[과거 안내서] 스마트도시 개인정보 보호 가이드라인(2021.12. 제정)",
+  "category": "개인정보보호위원회/안내서",
+  "doc_type": "안내서",
+  "text": "제목: [과거 안내서] 스마트도시 개인정보 보호 가이드라인(2021.12. 제정)\n\n스마트도시 구축·운영 시 준수해야 할 6대 원칙과 16개 점검항목을 담은 가이드라인입니다. 업무에 많은 활용 바랍니다.\n\n[첨부파일]\n- 스마트도시 개인정보 보호 가이드라인(2021.12.31.★).pdf",
+  "summary_text": "스마트도시 구축·운영 시 준수해야 할 6대 원칙과 16개 점검항목을 담은 가이드라인입니다. 업무에 많은 활용 바랍니다.",
+  "attachments": [
+    {
+      "name": "스마트도시 개인정보 보호 가이드라인(2021.12.31.★).pdf",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000552841&fileSn=1&fileExtsn=pdf&cnvCnt=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    }
+  ],
+  "version_date": "2021-12-31",
+  "related_laws": [],
+  "collected_at": "2026-07-01",
+  "question": "",
+  "answer": "",
+  "document_number": "",
+  "external_id": "BS217_7777",
+  "url": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS217&mCode=D010030020&nttId=7777",
+  "metadata": {
+    "bbs_id": "BS217",
+    "ntt_id": "7777",
+    "m_code": "D010030020",
+    "department": "신기술개인정보과",
+    "author": "김다혜"
+  }
+}

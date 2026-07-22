@@ -1,0 +1,35 @@
+{
+  "doc_id": "pipc_안내서_BS217_3636",
+  "source": "pipc_crawler",
+  "title": "[과거 안내서] 홈페이지 개인정보 노출방지 가이드라인 (Ver 4.0 )",
+  "category": "개인정보보호위원회/안내서",
+  "doc_type": "안내서",
+  "text": "제목: [과거 안내서] 홈페이지 개인정보 노출방지 가이드라인 (Ver 4.0 )\n\n＜p＞홈페이지 개인정보 노출방지 가이드라인 (Ver 4.0 ) 을 배포합니다.＜br /＞＜return /＞＜br /＞＜return /＞< 주요 개정 내용 >＜br /＞＜return /＞＜br /＞＜return /＞▶ 개인정보 및 개인정보 노출의 정의 및 유형 추가 ( 10~12 페이지 )＜br /＞＜return /＞▶ 주요노출 유형 및 조치방법 추가 ( 17 페이지 )＜br /＞＜return /＞▶ 공공기관 및 민간기관의 주요 노출 사례 추가 ( 42 ~ 50 페이지 )＜br /＞＜return /＞▶ 홈페이지 관리자 및 개인정보처리자 유의사항 보완 ( 54 ~ 66 페이지 )＜br /＞＜return /＞▶ 홈페이지 설계 및 개발 시 유의사항 추가 ( 67 ~ 72 페이지 )＜br /＞＜return /＞▶＜strong＞ ＜/strong＞구글 고급연산자를 활용한 홈페이지 정보노출 확인방법 추가 ( 100 ~ 102 페이지)＜br /＞＜return /＞▶ 무료 원격 웹 취약점 점검, 웹사이트 보안 도구 등 개인정보 노출방지를 위한 부록 추가 ( 104 ~ 124 페이지 )＜/p＞\n\n[첨부파일]\n- 홈페이지 개인정보 노출방지 가이드라인(Ver 4.0).pdf",
+  "summary_text": "＜p＞홈페이지 개인정보 노출방지 가이드라인 (Ver 4.0 ) 을 배포합니다.＜br /＞＜return /＞＜br /＞＜return /＞< 주요 개정 내용 >＜br /＞＜return /＞＜br /＞＜return /＞▶ 개인정보 및 개인정보 노출의 정의 및 유형 추가 ( 10~12 페이지 )＜br /＞＜return /＞▶ 주요노출 유형 및 조치방법 추가 ( 17 페이지 )＜br /＞＜return /＞▶ 공공기관 및 민간기관의 주요 노출 사례 추가 ( 42 ~ 50 페이지 )＜br /＞＜return /＞▶ 홈페이지 관리자 및 개인정보처리자 유의사항 보완 ( 54 ~ 66 페이지 )＜br /＞＜return /＞▶ 홈페이지 설계 및 개발 시 유의사항 추가 ( 67 ~ 72 페이지 )＜br /＞＜return /＞▶＜strong＞ ＜/strong＞구글 고급연산자를 활용한 홈페이지 정보노출 확인방법 추가 ( 100 ~ 102 페이지)＜br /＞＜return /＞▶ 무료 원격 웹 취약점 점검, 웹사이트 보안 도구 등 개인정보 노출방지를 위한 부록 추가 ( 104 ~ 124 페이지 )＜/p＞",
+  "attachments": [
+    {
+      "name": "홈페이지 개인정보 노출방지 가이드라인(Ver 4.0).pdf",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000357173&fileSn=1&fileExtsn=pdf&cnvCnt=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    }
+  ],
+  "version_date": "2012-07-30",
+  "related_laws": [],
+  "collected_at": "2026-07-01",
+  "question": "",
+  "answer": "",
+  "document_number": "",
+  "external_id": "BS217_3636",
+  "url": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS217&mCode=D010030020&nttId=3636",
+  "metadata": {
+    "bbs_id": "BS217",
+    "ntt_id": "3636",
+    "m_code": "D010030020",
+    "department": "개인정보보호정책과",
+    "author": ""
+  }
+}

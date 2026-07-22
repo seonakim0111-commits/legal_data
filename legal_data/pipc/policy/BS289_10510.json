@@ -1,0 +1,44 @@
+{
+  "doc_id": "pipc_정책자료_BS289_10510",
+  "source": "pipc_crawler",
+  "title": "개인정보 안심구역(국립암센터) 개소",
+  "category": "개인정보보호위원회/기업참여 자료실",
+  "doc_type": "정책자료",
+  "text": "제목: 개인정보 안심구역(국립암센터) 개소\n\n개인정보위가 국립암센터와 함께 보건의료분야 개인정보 안심구역을 본격 운영 시작하였습니다.(2024. 7.30.)\n\n[첨부파일]\n- 240731+(조간)+국립암센터+「보건의료분야+개인정보+안심구역」+본격+운영+시작(데이터안전정책과).pdf\n- 240731+(조간)+국립암센터+「보건의료분야+개인정보+안심구역」+본격+운영+시작(데이터안전정책과) (1).hwpx",
+  "summary_text": "개인정보위가 국립암센터와 함께 보건의료분야 개인정보 안심구역을 본격 운영 시작하였습니다.(2024. 7.30.)",
+  "attachments": [
+    {
+      "name": "240731+(조간)+국립암센터+「보건의료분야+개인정보+안심구역」+본격+운영+시작(데이터안전정책과).pdf",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000558297&fileSn=0&fileExtsn=pdf&cnvCnt=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    },
+    {
+      "name": "240731+(조간)+국립암센터+「보건의료분야+개인정보+안심구역」+본격+운영+시작(데이터안전정책과) (1).hwpx",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000558297&fileSn=1&fileExtsn=hwpx&cnvCnt=",
+      "ext": "hwpx",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    }
+  ],
+  "version_date": "2024-08-30",
+  "related_laws": [],
+  "collected_at": "2026-07-01",
+  "question": "",
+  "answer": "",
+  "document_number": "",
+  "external_id": "BS289_10510",
+  "url": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS289&mCode=D040070000&nttId=10510",
+  "metadata": {
+    "bbs_id": "BS289",
+    "ntt_id": "10510",
+    "m_code": "D040070000",
+    "department": "데이터안전정책과",
+    "author": "민지원"
+  }
+}

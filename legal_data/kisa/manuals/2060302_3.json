@@ -1,0 +1,31 @@
+{
+  "doc_id": "kisa_안내서_2060302_3",
+  "source": "kisa_crawler",
+  "title": "중소기업 정보보호 업무 가이드",
+  "category": "한국인터넷진흥원/안내서",
+  "doc_type": "안내서",
+  "text": "제목: 중소기업 정보보호 업무 가이드\n\n[첨부파일]\n- 정보보호_업무가이드.pdf",
+  "summary_text": "",
+  "attachments": [
+    {
+      "name": "정보보호_업무가이드.pdf",
+      "url": "https://www.kisa.or.kr/post/fileDownload?menuSeq=2060302&postSeq=3&attachSeq=1&lang_type=KO",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 8409796,
+      "text_skipped": true
+    }
+  ],
+  "version_date": "2016-02-24",
+  "related_laws": [],
+  "collected_at": "2026-07-01",
+  "question": "",
+  "answer": "",
+  "document_number": "",
+  "external_id": "2060302_3",
+  "url": "https://www.kisa.or.kr/2060302/form?postSeq=3&page=7",
+  "metadata": {
+    "menu_seq": "2060302",
+    "post_seq": "3"
+  }
+}

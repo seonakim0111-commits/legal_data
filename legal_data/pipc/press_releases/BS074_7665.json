@@ -1,0 +1,44 @@
+{
+  "doc_id": "pipc_보도자료_BS074_7665",
+  "source": "pipc_crawler",
+  "title": "(보도참고) 개인정보위, 「털린 내 정보 찾기 서비스(Korean ID Checker)」 시작",
+  "category": "개인정보보호위원회/보도자료",
+  "doc_type": "보도자료",
+  "text": "제목: (보도참고) 개인정보위, 「털린 내 정보 찾기 서비스(Korean ID Checker)」 시작\n\n개인정보위,「털린 내 정보 찾기 서비스(Korean ID Checker)」시작 - 지하 웹(다크웹) 등에서 불법 유통되는 계정정보 2,300만건 등 조회 가능 - - 본인이 직접 유출여부를 확인하고, 2차 피해를 방지할 수 있어 - 개인정보보호위원회(위원장 윤종인, 이하 ‘개인정보위’)와 한국인터넷진흥원(원장 이원태, 이하 ‘진흥원’)은 11월 16일(화) 오전 10시부터 ｢털린 내 정보 찾기 서비스(이하 ‘찾기 서비스’, https://kidc.eprivacy.go.kr)｣를 시작한다. 이 서비스는 이용자*가 평소 온라인 상에서 사용하는 계정정보(아이디, 패스워드)를 입력하면, 유출된 이력을 알려주는 서비스이다. 작년 11월, 개인정보위와 진흥원이 자체 확보한 지하 웹(다크웹) 등 음성화 사이트에서 불법 유통되고 있는 국내 계정정보*(23백만여건)와, 구글(Google)의 비밀번호(패스워드) 진단 서비스(40억여건) 등을 활용하여 유출여부를 확인할 수 있도록 구성하였다. * 기타 자세한 내용은 첨부파일을 확인해주시기 바랍니다. - 담당자 : 조사총괄과 최재민(02-2100-3106)\n\n[첨부파일]\n- 211115 (보도참고) 개인정보위,「털린 내 정보 찾기 서비스(Korean ID Checker)」시작(조사총괄과).pdf\n- 211115 (보도참고) 개인정보위,「털린 내 정보 찾기 서비스(Korean ID Checker)」시작(조사총괄과).hwp",
+  "summary_text": "개인정보위,「털린 내 정보 찾기 서비스(Korean ID Checker)」시작 - 지하 웹(다크웹) 등에서 불법 유통되는 계정정보 2,300만건 등 조회 가능 - - 본인이 직접 유출여부를 확인하고, 2차 피해를 방지할 수 있어 - 개인정보보호위원회(위원장 윤종인, 이하 ‘개인정보위’)와 한국인터넷진흥원(원장 이원태, 이하 ‘진흥원’)은 11월 16일(화) 오전 10시부터 ｢털린 내 정보 찾기 서비스(이하 ‘찾기 서비스’, https://kidc.eprivacy.go.kr)｣를 시작한다. 이 서비스는 이용자*가 평소 온라인 상에서 사용하는 계정정보(아이디, 패스워드)를 입력하면, 유출된 이력을 알려주는 서비스이다. 작년 11월, 개인정보위와 진흥원이 자체 확보한 지하 웹(다크웹) 등 음성화 사이트에서 불법 유통되고 있는 국내 계정정보*(23백만여건)와, 구글(Google)의 비밀번호(패스워드) 진단 서비스(40억여건) 등을 활용하여 유출여부를 확인할 수 있도록 구성하였다. * 기타 자세한 내용은 첨부파일을 확인해주시기 바랍니다. - 담당자 : 조사총괄과 최재민(02-2100-3106)",
+  "attachments": [
+    {
+      "name": "211115 (보도참고) 개인정보위,「털린 내 정보 찾기 서비스(Korean ID Checker)」시작(조사총괄과).pdf",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000552616&fileSn=1&fileExtsn=pdf&cnvCnt=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    },
+    {
+      "name": "211115 (보도참고) 개인정보위,「털린 내 정보 찾기 서비스(Korean ID Checker)」시작(조사총괄과).hwp",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000552616&fileSn=2&fileExtsn=hwp&cnvCnt=",
+      "ext": "hwp",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    }
+  ],
+  "version_date": "2021-11-15",
+  "related_laws": [],
+  "collected_at": "2026-07-01",
+  "question": "",
+  "answer": "",
+  "document_number": "",
+  "external_id": "BS074_7665",
+  "url": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=7665",
+  "metadata": {
+    "bbs_id": "BS074",
+    "ntt_id": "7665",
+    "m_code": "C020010000",
+    "department": "대변인",
+    "author": "최홍석"
+  }
+}

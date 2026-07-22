@@ -1,0 +1,44 @@
+{
+  "doc_id": "pipc_안내서_BS217_4218",
+  "source": "pipc_crawler",
+  "title": "[과거 안내서] 영상정보처리기기 설치ㆍ운영 가이드 라인",
+  "category": "개인정보보호위원회/안내서",
+  "doc_type": "안내서",
+  "text": "제목: [과거 안내서] 영상정보처리기기 설치ㆍ운영 가이드 라인\n\n영상정보처리기기 설치 ㆍ운영 가이드라인입니다. 업무에 많은 활용 바랍니다.\n\n[첨부파일]\n- 공공기관_영상정보처리기기_설치·운영_가이드라인.hwp\n- 민간분야_영상정보처리기기_설치·운영_가이드라인.hwp",
+  "summary_text": "영상정보처리기기 설치 ㆍ운영 가이드라인입니다. 업무에 많은 활용 바랍니다.",
+  "attachments": [
+    {
+      "name": "공공기관_영상정보처리기기_설치·운영_가이드라인.hwp",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000495805&fileSn=0&fileExtsn=hwp&cnvCnt=",
+      "ext": "hwp",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    },
+    {
+      "name": "민간분야_영상정보처리기기_설치·운영_가이드라인.hwp",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000495805&fileSn=1&fileExtsn=hwp&cnvCnt=",
+      "ext": "hwp",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    }
+  ],
+  "version_date": "2012-11-28",
+  "related_laws": [],
+  "collected_at": "2026-07-01",
+  "question": "",
+  "answer": "",
+  "document_number": "",
+  "external_id": "BS217_4218",
+  "url": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS217&mCode=D010030020&nttId=4218",
+  "metadata": {
+    "bbs_id": "BS217",
+    "ntt_id": "4218",
+    "m_code": "D010030020",
+    "department": "개인정보보호정책과",
+    "author": ""
+  }
+}

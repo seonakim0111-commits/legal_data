@@ -1,0 +1,35 @@
+{
+  "doc_id": "pipc_안내서_BS217_10613",
+  "source": "pipc_crawler",
+  "title": "[현재 안내서] 자동화된 결정에 대한 정보주체의 권리 안내서(2024.9.)",
+  "category": "개인정보보호위원회/안내서",
+  "doc_type": "안내서",
+  "text": "제목: [현재 안내서] 자동화된 결정에 대한 정보주체의 권리 안내서(2024.9.)\n\n본 안내서는 「개인정보 보호법」에 따라 자동화된 결정에 대한 정보주체의 권리 행사에 개인정보처리자가 조치해야 하는 사항, 자동화된 결정의 범위 및 그 기준과 절차 등의 공개에 관한 사항을 안내합니다.\n\n[첨부파일]\n- ★자동화된 결정에 대한 정보주체의 권리 안내서(2024.9).pdf",
+  "summary_text": "본 안내서는 「개인정보 보호법」에 따라 자동화된 결정에 대한 정보주체의 권리 행사에 개인정보처리자가 조치해야 하는 사항, 자동화된 결정의 범위 및 그 기준과 절차 등의 공개에 관한 사항을 안내합니다.",
+  "attachments": [
+    {
+      "name": "★자동화된 결정에 대한 정보주체의 권리 안내서(2024.9).pdf",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000558498&fileSn=1&fileExtsn=pdf&cnvCnt=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    }
+  ],
+  "version_date": "2024-09-26",
+  "related_laws": [],
+  "collected_at": "2026-07-01",
+  "question": "",
+  "answer": "",
+  "document_number": "",
+  "external_id": "BS217_10613",
+  "url": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS217&mCode=D010030020&nttId=10613",
+  "metadata": {
+    "bbs_id": "BS217",
+    "ntt_id": "10613",
+    "m_code": "D010030020",
+    "department": "개인정보보호정책과",
+    "author": ""
+  }
+}

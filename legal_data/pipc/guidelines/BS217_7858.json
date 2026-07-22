@@ -1,0 +1,35 @@
+{
+  "doc_id": "pipc_안내서_BS217_7858",
+  "source": "pipc_crawler",
+  "title": "[기타 자료] 2021 가명정보 활용 우수사례집",
+  "category": "개인정보보호위원회/안내서",
+  "doc_type": "안내서",
+  "text": "제목: [기타 자료] 2021 가명정보 활용 우수사례집\n\n1기 가명정보 결합시범사례 및 2021 가명정보 활용 아이디어·우수사례 경진대회 수상작을 수록한 사례집입니다. 업무에 많은 활용 바랍니다.\n\n[첨부파일]\n- 2021 가명정보 활용 우수사례집.pdf",
+  "summary_text": "1기 가명정보 결합시범사례 및 2021 가명정보 활용 아이디어·우수사례 경진대회 수상작을 수록한 사례집입니다. 업무에 많은 활용 바랍니다.",
+  "attachments": [
+    {
+      "name": "2021 가명정보 활용 우수사례집.pdf",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000553009&fileSn=0&fileExtsn=pdf&cnvCnt=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    }
+  ],
+  "version_date": "2022-02-11",
+  "related_laws": [],
+  "collected_at": "2026-07-01",
+  "question": "",
+  "answer": "",
+  "document_number": "",
+  "external_id": "BS217_7858",
+  "url": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS217&mCode=D010030020&nttId=7858",
+  "metadata": {
+    "bbs_id": "BS217",
+    "ntt_id": "7858",
+    "m_code": "D010030020",
+    "department": "데이터안전정책과",
+    "author": "한송민"
+  }
+}

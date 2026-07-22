@@ -1,0 +1,44 @@
+{
+  "doc_id": "pipc_안내서_BS217_10425",
+  "source": "pipc_crawler",
+  "title": "[현재 안내서] 교육분야 가명·익명정보 처리 가이드라인(2024.8.)",
+  "category": "개인정보보호위원회/안내서",
+  "doc_type": "안내서",
+  "text": "제목: [현재 안내서] 교육분야 가명·익명정보 처리 가이드라인(2024.8.)\n\n교육분야 가명·익명정보 처리 가이드라인(2024.8.)입니다.\n\n[첨부파일]\n- (표준 안내사항) 교육분야 가명익명정보 처리 가이드라인(2024.8).pdf\n- 교육분야_가명·익명정보_처리_가이드라인.pdf",
+  "summary_text": "교육분야 가명·익명정보 처리 가이드라인(2024.8.)입니다.",
+  "attachments": [
+    {
+      "name": "(표준 안내사항) 교육분야 가명익명정보 처리 가이드라인(2024.8).pdf",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000558134&fileSn=0&fileExtsn=pdf&cnvCnt=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    },
+    {
+      "name": "교육분야_가명·익명정보_처리_가이드라인.pdf",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000558134&fileSn=1&fileExtsn=pdf&cnvCnt=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    }
+  ],
+  "version_date": "2024-08-14",
+  "related_laws": [],
+  "collected_at": "2026-07-01",
+  "question": "",
+  "answer": "",
+  "document_number": "",
+  "external_id": "BS217_10425",
+  "url": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS217&mCode=D010030020&nttId=10425",
+  "metadata": {
+    "bbs_id": "BS217",
+    "ntt_id": "10425",
+    "m_code": "D010030020",
+    "department": "개인정보보호위원회",
+    "author": ""
+  }
+}

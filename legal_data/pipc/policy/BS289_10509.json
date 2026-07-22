@@ -1,0 +1,44 @@
+{
+  "doc_id": "pipc_정책자료_BS289_10509",
+  "source": "pipc_crawler",
+  "title": "개인정보 안심구역(통계청) 개소",
+  "category": "개인정보보호위원회/기업참여 자료실",
+  "doc_type": "정책자료",
+  "text": "제목: 개인정보 안심구역(통계청) 개소\n\n개인정보위가 통계청과 함께 국가통계특화형 개인정보 안심구역을 2024년3월28일부터 본격 운영 시작하였습니다.\n\n[첨부파일]\n- 240329+(조간)+이제는+개인정보+안심구역을+통해+안전하게+통계데이터를+연계하고+분석하세요(데이터안전정책과).pdf\n- 240329+(조간)+이제는+개인정보+안심구역을+통해+안전하게+통계데이터를+연계하고+분석하세요(데이터안전정책과).hwp",
+  "summary_text": "개인정보위가 통계청과 함께 국가통계특화형 개인정보 안심구역을 2024년3월28일부터 본격 운영 시작하였습니다.",
+  "attachments": [
+    {
+      "name": "240329+(조간)+이제는+개인정보+안심구역을+통해+안전하게+통계데이터를+연계하고+분석하세요(데이터안전정책과).pdf",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000558296&fileSn=0&fileExtsn=pdf&cnvCnt=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    },
+    {
+      "name": "240329+(조간)+이제는+개인정보+안심구역을+통해+안전하게+통계데이터를+연계하고+분석하세요(데이터안전정책과).hwp",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000558296&fileSn=1&fileExtsn=hwp&cnvCnt=",
+      "ext": "hwp",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    }
+  ],
+  "version_date": "2024-08-30",
+  "related_laws": [],
+  "collected_at": "2026-07-01",
+  "question": "",
+  "answer": "",
+  "document_number": "",
+  "external_id": "BS289_10509",
+  "url": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS289&mCode=D040070000&nttId=10509",
+  "metadata": {
+    "bbs_id": "BS289",
+    "ntt_id": "10509",
+    "m_code": "D040070000",
+    "department": "데이터안전정책과",
+    "author": "민지원"
+  }
+}

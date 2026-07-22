@@ -1,0 +1,39 @@
+{
+  "doc_id": "kisa_공지사항_401_3684",
+  "source": "kisa_crawler",
+  "title": "2026년 공공기관 개인정보 보호수준 평가단원 모집 공고 (~6.19)",
+  "category": "한국인터넷진흥원/공지사항",
+  "doc_type": "공지사항",
+  "text": "제목: 2026년 공공기관 개인정보 보호수준 평가단원 모집 공고 (~6.19)\n\n안녕하십니까. 공공기관의 안전한 개인정보 처리와 보호 수준 향상을 위한 「개인정보 보호수준 평가단원」을 모집합니다. 관련 분야 전문가 여러분의 많은 관심과 지원을 바랍니다.\n\n[첨부파일]\n- [양식] 2026년 공공기관 개인정보 보호수준 평가단원 POOL 등록 신청서(성명).hwpx\n- [안내문] 2026년 공공기관 개인정보 보호수준 평가단원 지원_(최종).hwpx",
+  "summary_text": "안녕하십니까. 공공기관의 안전한 개인정보 처리와 보호 수준 향상을 위한 「개인정보 보호수준 평가단원」을 모집합니다. 관련 분야 전문가 여러분의 많은 관심과 지원을 바랍니다.",
+  "attachments": [
+    {
+      "name": "[양식] 2026년 공공기관 개인정보 보호수준 평가단원 POOL 등록 신청서(성명).hwpx",
+      "url": "https://www.kisa.or.kr/post/fileDownload?menuSeq=401&postSeq=3684&attachSeq=1&lang_type=KO",
+      "ext": "hwpx",
+      "text": "",
+      "size_bytes": 50430,
+      "text_skipped": true
+    },
+    {
+      "name": "[안내문] 2026년 공공기관 개인정보 보호수준 평가단원 지원_(최종).hwpx",
+      "url": "https://www.kisa.or.kr/post/fileDownload?menuSeq=401&postSeq=3684&attachSeq=2&lang_type=KO",
+      "ext": "hwpx",
+      "text": "",
+      "size_bytes": 127111,
+      "text_skipped": true
+    }
+  ],
+  "version_date": "2026-06-08",
+  "related_laws": [],
+  "collected_at": "2026-07-01",
+  "question": "",
+  "answer": "",
+  "document_number": "",
+  "external_id": "401_3684",
+  "url": "https://www.kisa.or.kr/401/form?postSeq=3684&page=3",
+  "metadata": {
+    "menu_seq": "401",
+    "post_seq": "3684"
+  }
+}

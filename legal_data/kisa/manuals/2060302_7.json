@@ -1,0 +1,31 @@
+{
+  "doc_id": "kisa_안내서_2060302_7",
+  "source": "kisa_crawler",
+  "title": "5G 특화망 보안 안내서",
+  "category": "한국인터넷진흥원/안내서",
+  "doc_type": "안내서",
+  "text": "제목: 5G 특화망 보안 안내서\n\n[첨부파일]\n- 5G_특화망_보안_안내서.pdf",
+  "summary_text": "",
+  "attachments": [
+    {
+      "name": "5G_특화망_보안_안내서.pdf",
+      "url": "https://www.kisa.or.kr/post/fileDownload?menuSeq=2060302&postSeq=7&attachSeq=1&lang_type=KO",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 12113619,
+      "text_skipped": true
+    }
+  ],
+  "version_date": "2026-03-18",
+  "related_laws": [],
+  "collected_at": "2026-07-01",
+  "question": "",
+  "answer": "",
+  "document_number": "",
+  "external_id": "2060302_7",
+  "url": "https://www.kisa.or.kr/2060302/form?postSeq=7&page=1",
+  "metadata": {
+    "menu_seq": "2060302",
+    "post_seq": "7"
+  }
+}

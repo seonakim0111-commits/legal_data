@@ -1,0 +1,44 @@
+{
+  "doc_id": "pipc_안내서_BS217_9870",
+  "source": "pipc_crawler",
+  "title": "[과거 안내서] (공공기관/민간분야) 고정형 영상정보처리기기(CCTV) 설치운영 가이드라인 (2024.1. 개정)",
+  "category": "개인정보보호위원회/안내서",
+  "doc_type": "안내서",
+  "text": "제목: [과거 안내서] (공공기관/민간분야) 고정형 영상정보처리기기(CCTV) 설치운영 가이드라인 (2024.1. 개정)\n\n고정형 영상정보처리기기(CCTV) 설치운영 가이드라인입니다. * 개정 주요내용 : 개인정보보호법 개정에 따라 정당한 권한없이 CCTV를 설치·운영한 사례 추가 업무에 많은 활용 바랍니다.\n\n[첨부파일]\n- 민간분야 고정형 영상정보처리기기 설치·운영 가이드라인(2024.1월).pdf\n- 공공기관 고정형 영상정보처리기기 설치·운영 가이드라인(2024.1월).pdf",
+  "summary_text": "고정형 영상정보처리기기(CCTV) 설치운영 가이드라인입니다. * 개정 주요내용 : 개인정보보호법 개정에 따라 정당한 권한없이 CCTV를 설치·운영한 사례 추가 업무에 많은 활용 바랍니다.",
+  "attachments": [
+    {
+      "name": "민간분야 고정형 영상정보처리기기 설치·운영 가이드라인(2024.1월).pdf",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000556838&fileSn=0&fileExtsn=pdf&cnvCnt=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    },
+    {
+      "name": "공공기관 고정형 영상정보처리기기 설치·운영 가이드라인(2024.1월).pdf",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000556838&fileSn=1&fileExtsn=pdf&cnvCnt=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    }
+  ],
+  "version_date": "2024-01-20",
+  "related_laws": [],
+  "collected_at": "2026-07-01",
+  "question": "",
+  "answer": "",
+  "document_number": "",
+  "external_id": "BS217_9870",
+  "url": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS217&mCode=D010030020&nttId=9870",
+  "metadata": {
+    "bbs_id": "BS217",
+    "ntt_id": "9870",
+    "m_code": "D010030020",
+    "department": "신기술개인정보과",
+    "author": "이선아"
+  }
+}

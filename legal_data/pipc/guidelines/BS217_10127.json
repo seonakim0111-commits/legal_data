@@ -1,0 +1,35 @@
+{
+  "doc_id": "pipc_안내서_BS217_10127",
+  "source": "pipc_crawler",
+  "title": "[과거 안내서] 개인정보 처리방침 작성지침(2024.4.)",
+  "category": "개인정보보호위원회/안내서",
+  "doc_type": "안내서",
+  "text": "제목: [과거 안내서] 개인정보 처리방침 작성지침(2024.4.)\n\n본 안내서는 개인정보처리자가 개인정보 처리방침을 「개인정보 보호법」이 개인정보 처리 및 보호에 관하여 정한 절차 및 기준 등에 대한 사항을 적정하고 투명하게 작성 및 공개하도록 지원하기 위한 목적으로 마련되었습니다.\n\n[첨부파일]\n- ★개인정보 처리방침 작성지침(2024.4).pdf",
+  "summary_text": "본 안내서는 개인정보처리자가 개인정보 처리방침을 「개인정보 보호법」이 개인정보 처리 및 보호에 관하여 정한 절차 및 기준 등에 대한 사항을 적정하고 투명하게 작성 및 공개하도록 지원하기 위한 목적으로 마련되었습니다.",
+  "attachments": [
+    {
+      "name": "★개인정보 처리방침 작성지침(2024.4).pdf",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000557395&fileSn=1&fileExtsn=pdf&cnvCnt=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    }
+  ],
+  "version_date": "2024-04-30",
+  "related_laws": [],
+  "collected_at": "2026-07-01",
+  "question": "",
+  "answer": "",
+  "document_number": "",
+  "external_id": "BS217_10127",
+  "url": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS217&mCode=D010030020&nttId=10127",
+  "metadata": {
+    "bbs_id": "BS217",
+    "ntt_id": "10127",
+    "m_code": "D010030020",
+    "department": "개인정보보호정책과",
+    "author": ""
+  }
+}

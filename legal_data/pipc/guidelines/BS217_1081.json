@@ -1,0 +1,35 @@
+{
+  "doc_id": "pipc_안내서_BS217_1081",
+  "source": "pipc_crawler",
+  "title": "[과거 안내서] 개인정보보호법 시행대비 개인정보 처리단계별 의무조치사항 안내",
+  "category": "개인정보보호위원회/안내서",
+  "doc_type": "안내서",
+  "text": "제목: [과거 안내서] 개인정보보호법 시행대비 개인정보 처리단계별 의무조치사항 안내\n\n'11. 9. 30 시행 예정인 개인정보보호법 시행을 앞두고 각 기관(부서)에서 처리(각종 신청서, 데이타베이스, 개인정보파일, 출력물 등)하고 있는 개인정보에 대하여 처리 단계별 의무조치사항에 대하여 첨부파일과 같이 안내하오니 숙지하시어 반드시 사전 조치 하시기 바랍니다.＜br /＞＜return /＞＜br /＞＜return /＞* 개인정보 : 해당정보만으로 특정 개인을 알아볼 수 없더라도 다른 정보와 연계하여 개인을 알아 볼 수 있는 정보. ( 이름 + 핸드폰번호, 이름 + 전화번호 + 메일정보 등)\n\n[첨부파일]\n- 110714 개인정보 처리단계별 의무조치사항.hwp",
+  "summary_text": "'11. 9. 30 시행 예정인 개인정보보호법 시행을 앞두고 각 기관(부서)에서 처리(각종 신청서, 데이타베이스, 개인정보파일, 출력물 등)하고 있는 개인정보에 대하여 처리 단계별 의무조치사항에 대하여 첨부파일과 같이 안내하오니 숙지하시어 반드시 사전 조치 하시기 바랍니다.＜br /＞＜return /＞＜br /＞＜return /＞* 개인정보 : 해당정보만으로 특정 개인을 알아볼 수 없더라도 다른 정보와 연계하여 개인을 알아 볼 수 있는 정보. ( 이름 + 핸드폰번호, 이름 + 전화번호 + 메일정보 등)",
+  "attachments": [
+    {
+      "name": "110714 개인정보 처리단계별 의무조치사항.hwp",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000002402&fileSn=0&fileExtsn=hwp&cnvCnt=",
+      "ext": "hwp",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    }
+  ],
+  "version_date": "2011-07-15",
+  "related_laws": [],
+  "collected_at": "2026-07-01",
+  "question": "",
+  "answer": "",
+  "document_number": "",
+  "external_id": "BS217_1081",
+  "url": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS217&mCode=D010030020&nttId=1081",
+  "metadata": {
+    "bbs_id": "BS217",
+    "ntt_id": "1081",
+    "m_code": "D010030020",
+    "department": "개인정보보호정책과",
+    "author": ""
+  }
+}

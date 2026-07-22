@@ -1,0 +1,53 @@
+{
+  "doc_id": "pipc_안내서_BS217_7054",
+  "source": "pipc_crawler",
+  "title": "[현재 안내서] 자율규제 참여 단체사를 위한 업종별 개인정보 처리 가이드(학원업/호텔업/공인중개사업)('20.12.개정)",
+  "category": "개인정보보호위원회/안내서",
+  "doc_type": "안내서",
+  "text": "제목: [현재 안내서] 자율규제 참여 단체사를 위한 업종별 개인정보 처리 가이드(학원업/호텔업/공인중개사업)('20.12.개정)\n\n자율규제 참여 단체사를 위한 업종별 개인정보 처리 가이드(학원업/호텔업/공인중개사업)입니다. 업무에 많은 활용 바랍니다. *학원업/호텔업 : 2020.12. 개정 *공인중개사업 : 신설\n\n[첨부파일]\n- 15 (제정) 자율규제단체를 위한 개인정보 처리 가이드_(공인중개사업)(2020.12월).pdf\n- 7. (개정) 자율규체단체 참여사를 위한 업종별 개인정보 처리 가이드_(호텔업)_(2020. 12월).pdf\n- 7. (개정) 자율규체단체 참여사를 위한 업종별 개인정보 처리 가이드_(학원업)_(2020.12월).pdf",
+  "summary_text": "자율규제 참여 단체사를 위한 업종별 개인정보 처리 가이드(학원업/호텔업/공인중개사업)입니다. 업무에 많은 활용 바랍니다. *학원업/호텔업 : 2020.12. 개정 *공인중개사업 : 신설",
+  "attachments": [
+    {
+      "name": "15 (제정) 자율규제단체를 위한 개인정보 처리 가이드_(공인중개사업)(2020.12월).pdf",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000551375&fileSn=0&fileExtsn=pdf&cnvCnt=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    },
+    {
+      "name": "7. (개정) 자율규체단체 참여사를 위한 업종별 개인정보 처리 가이드_(호텔업)_(2020. 12월).pdf",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000551375&fileSn=1&fileExtsn=pdf&cnvCnt=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    },
+    {
+      "name": "7. (개정) 자율규체단체 참여사를 위한 업종별 개인정보 처리 가이드_(학원업)_(2020.12월).pdf",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000551375&fileSn=2&fileExtsn=pdf&cnvCnt=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    }
+  ],
+  "version_date": "2020-12-31",
+  "related_laws": [],
+  "collected_at": "2026-07-01",
+  "question": "",
+  "answer": "",
+  "document_number": "",
+  "external_id": "BS217_7054",
+  "url": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS217&mCode=D010030020&nttId=7054",
+  "metadata": {
+    "bbs_id": "BS217",
+    "ntt_id": "7054",
+    "m_code": "D010030020",
+    "department": "개인정보보호정책과",
+    "author": "주경아"
+  }
+}

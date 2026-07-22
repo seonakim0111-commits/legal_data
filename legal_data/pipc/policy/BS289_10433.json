@@ -1,0 +1,35 @@
+{
+  "doc_id": "pipc_정책자료_BS289_10433",
+  "source": "pipc_crawler",
+  "title": "가명정보 처리 가이드라인(2024.02. 개정)",
+  "category": "개인정보보호위원회/기업참여 자료실",
+  "doc_type": "정책자료",
+  "text": "제목: 가명정보 처리 가이드라인(2024.02. 개정)\n\n2022년 4월 발행한 가명정보 처리 가이드라인에서 개정하였습니다.(2024.02.)\n\n[첨부파일]\n- 가명정보_처리_가이드라인(2024.2.4_개정).pdf",
+  "summary_text": "2022년 4월 발행한 가명정보 처리 가이드라인에서 개정하였습니다.(2024.02.)",
+  "attachments": [
+    {
+      "name": "가명정보_처리_가이드라인(2024.2.4_개정).pdf",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000558159&fileSn=0&fileExtsn=pdf&cnvCnt=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    }
+  ],
+  "version_date": "2024-08-19",
+  "related_laws": [],
+  "collected_at": "2026-07-01",
+  "question": "",
+  "answer": "",
+  "document_number": "",
+  "external_id": "BS289_10433",
+  "url": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS289&mCode=D040070000&nttId=10433",
+  "metadata": {
+    "bbs_id": "BS289",
+    "ntt_id": "10433",
+    "m_code": "D040070000",
+    "department": "데이터안전정책과",
+    "author": "민지원"
+  }
+}

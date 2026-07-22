@@ -1,0 +1,35 @@
+{
+  "doc_id": "pipc_안내서_BS217_12018",
+  "source": "pipc_crawler",
+  "title": "[현재 안내서] 개인정보 처리방침 작성지침(2026.4. 개정)",
+  "category": "개인정보보호위원회/안내서",
+  "doc_type": "안내서",
+  "text": "제목: [현재 안내서] 개인정보 처리방침 작성지침(2026.4. 개정)\n\n본 지침은 개인정보처리자가 「개인정보 보호법」에서 정한 절차 및 기준 등에 대한 사항을 준수하여 개인정보 처리방침을 적정하고 투명하게 작성·공개할 수 있도록 구체적인 사례 및 작성지침을 안내하고자 합니다.\n\n[첨부파일]\n- 2026 개인정보 처리방침 작성지침.pdf",
+  "summary_text": "본 지침은 개인정보처리자가 「개인정보 보호법」에서 정한 절차 및 기준 등에 대한 사항을 준수하여 개인정보 처리방침을 적정하고 투명하게 작성·공개할 수 있도록 구체적인 사례 및 작성지침을 안내하고자 합니다.",
+  "attachments": [
+    {
+      "name": "2026 개인정보 처리방침 작성지침.pdf",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000560753&fileSn=1&fileExtsn=pdf&cnvCnt=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    }
+  ],
+  "version_date": "2026-04-23",
+  "related_laws": [],
+  "collected_at": "2026-07-01",
+  "question": "",
+  "answer": "",
+  "document_number": "",
+  "external_id": "BS217_12018",
+  "url": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS217&mCode=D010030020&nttId=12018",
+  "metadata": {
+    "bbs_id": "BS217",
+    "ntt_id": "12018",
+    "m_code": "D010030020",
+    "department": "자율보호정책과",
+    "author": "박미영"
+  }
+}

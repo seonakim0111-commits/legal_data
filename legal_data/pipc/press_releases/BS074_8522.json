@@ -1,0 +1,44 @@
+{
+  "doc_id": "pipc_보도자료_BS074_8522",
+  "source": "pipc_crawler",
+  "title": "개인정보위, 모빌리티(택시) 분야 개인정보 처리현황 분석 결과 공개",
+  "category": "개인정보보호위원회/보도자료",
+  "doc_type": "보도자료",
+  "text": "제목: 개인정보위, 모빌리티(택시) 분야 개인정보 처리현황 분석 결과 공개\n\n플랫폼으로 택시를 호출하면, 누가 내 정보를 볼까? - 개인정보위, 모빌리티(택시) 분야 개인정보 처리현황 분석 결과 공개 - * 기타 자세한 내용은 첨부파일을 확인해주시기 바랍니다. - 담당자 : 조사3팀 서수진(02-2100-3155)\n\n[첨부파일]\n- 221230 (조간) 플랫폼으로 택시를 호출하면, 누가 내 정보를 볼까(조사3팀).pdf\n- 221230 (조간) 플랫폼으로 택시를 호출하면, 누가 내 정보를 볼까(조사3팀).hwpx",
+  "summary_text": "플랫폼으로 택시를 호출하면, 누가 내 정보를 볼까? - 개인정보위, 모빌리티(택시) 분야 개인정보 처리현황 분석 결과 공개 - * 기타 자세한 내용은 첨부파일을 확인해주시기 바랍니다. - 담당자 : 조사3팀 서수진(02-2100-3155)",
+  "attachments": [
+    {
+      "name": "221230 (조간) 플랫폼으로 택시를 호출하면, 누가 내 정보를 볼까(조사3팀).pdf",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000554628&fileSn=0&fileExtsn=pdf&cnvCnt=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    },
+    {
+      "name": "221230 (조간) 플랫폼으로 택시를 호출하면, 누가 내 정보를 볼까(조사3팀).hwpx",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000554628&fileSn=1&fileExtsn=hwpx&cnvCnt=",
+      "ext": "hwpx",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    }
+  ],
+  "version_date": "2023-01-02",
+  "related_laws": [],
+  "collected_at": "2026-07-01",
+  "question": "",
+  "answer": "",
+  "document_number": "",
+  "external_id": "BS074_8522",
+  "url": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=8522",
+  "metadata": {
+    "bbs_id": "BS074",
+    "ntt_id": "8522",
+    "m_code": "C020010000",
+    "department": "대변인",
+    "author": "권슬기"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "doc_id": "pipc_정책자료_BS289_10505",
+  "source": "pipc_crawler",
+  "title": "합성데이터 생성 참조모델(2024.5월)",
+  "category": "개인정보보호위원회/기업참여 자료실",
+  "doc_type": "정책자료",
+  "text": "제목: 합성데이터 생성 참조모델(2024.5월)\n\n합성데이터 생성 참조모델(2024.5.)입니다.\n\n[첨부파일]\n- 합성데이터_생성_참조모델(_24.5.).pdf",
+  "summary_text": "합성데이터 생성 참조모델(2024.5.)입니다.",
+  "attachments": [
+    {
+      "name": "합성데이터_생성_참조모델(_24.5.).pdf",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000558289&fileSn=0&fileExtsn=pdf&cnvCnt=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    }
+  ],
+  "version_date": "2024-08-30",
+  "related_laws": [],
+  "collected_at": "2026-07-01",
+  "question": "",
+  "answer": "",
+  "document_number": "",
+  "external_id": "BS289_10505",
+  "url": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS289&mCode=D040070000&nttId=10505",
+  "metadata": {
+    "bbs_id": "BS289",
+    "ntt_id": "10505",
+    "m_code": "D040070000",
+    "department": "데이터안전정책과",
+    "author": "민지원"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "doc_id": "pipc_보도자료_BS074_6788",
+  "source": "pipc_crawler",
+  "title": "안전한 가명정보 활용을 위한 ｢가명정보 처리 가이드라인｣ 마련",
+  "category": "개인정보보호위원회/보도자료",
+  "doc_type": "보도자료",
+  "text": "제목: 안전한 가명정보 활용을 위한 ｢가명정보 처리 가이드라인｣ 마련\n\n안전한 가명정보 활용을 위한 ｢가명정보 처리 가이드라인｣ 마련 - 개인정보보호위원회, ‘가명정보 처리 가이드라인(가명처리편)’공개 - 개인정보보호위원회(위원장 윤종인, 이하 보호위)는 개정된 ｢개인정보 보호법｣ 시행에 따른 후속조치로서 ‘가명정보 처리 가이드라인(가명처리편)’을 2일 공개했다. 앞으로 개인정보처리자는 가명정보가 실제 사용되는 환경을 고려하여 적정한 수준으로 가명처리하여 활용할 수 있게 된다. * 기타 자세한 내용은 아래 첨부파일을 확인해주시기 바랍니다. - 담당자 : 데이터안전정책과 이다예(02-2100-3072)\n\n[첨부파일]\n- 200903 (조간) 안전한 가명정보 활용을 위한 가명정보 처리 가이드라인 마련(데이터안전정책과)_누리집 게시.hwp\n- 200903 (조간) 안전한 가명정보 활용을 위한 가명정보 처리 가이드라인 마련(데이터안전정책과)_누리집 게시.pdf",
+  "summary_text": "안전한 가명정보 활용을 위한 ｢가명정보 처리 가이드라인｣ 마련 - 개인정보보호위원회, ‘가명정보 처리 가이드라인(가명처리편)’공개 - 개인정보보호위원회(위원장 윤종인, 이하 보호위)는 개정된 ｢개인정보 보호법｣ 시행에 따른 후속조치로서 ‘가명정보 처리 가이드라인(가명처리편)’을 2일 공개했다. 앞으로 개인정보처리자는 가명정보가 실제 사용되는 환경을 고려하여 적정한 수준으로 가명처리하여 활용할 수 있게 된다. * 기타 자세한 내용은 아래 첨부파일을 확인해주시기 바랍니다. - 담당자 : 데이터안전정책과 이다예(02-2100-3072)",
+  "attachments": [
+    {
+      "name": "200903 (조간) 안전한 가명정보 활용을 위한 가명정보 처리 가이드라인 마련(데이터안전정책과)_누리집 게시.hwp",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000550780&fileSn=1&fileExtsn=hwp&cnvCnt=",
+      "ext": "hwp",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    },
+    {
+      "name": "200903 (조간) 안전한 가명정보 활용을 위한 가명정보 처리 가이드라인 마련(데이터안전정책과)_누리집 게시.pdf",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000550780&fileSn=2&fileExtsn=pdf&cnvCnt=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    }
+  ],
+  "version_date": "2020-09-02",
+  "related_laws": [],
+  "collected_at": "2026-07-01",
+  "question": "",
+  "answer": "",
+  "document_number": "",
+  "external_id": "BS074_6788",
+  "url": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=6788",
+  "metadata": {
+    "bbs_id": "BS074",
+    "ntt_id": "6788",
+    "m_code": "C020010000",
+    "department": "대변인",
+    "author": "최홍석"
+  }
+}

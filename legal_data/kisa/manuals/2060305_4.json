@@ -1,0 +1,31 @@
+{
+  "doc_id": "kisa_안내서_2060305_4",
+  "source": "kisa_crawler",
+  "title": "웹사이트 회원탈퇴 기능 구현 안내서",
+  "category": "한국인터넷진흥원/안내서",
+  "doc_type": "안내서",
+  "text": "제목: 웹사이트 회원탈퇴 기능 구현 안내서\n\n[첨부파일]\n- 제2010-30호-웹사이트회원탈퇴기능구현안내서.pdf",
+  "summary_text": "",
+  "attachments": [
+    {
+      "name": "제2010-30호-웹사이트회원탈퇴기능구현안내서.pdf",
+      "url": "https://www.kisa.or.kr/post/fileDownload?menuSeq=2060305&postSeq=4&attachSeq=1&lang_type=KO",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 1721173,
+      "text_skipped": true
+    }
+  ],
+  "version_date": "2016-02-24",
+  "related_laws": [],
+  "collected_at": "2026-07-01",
+  "question": "",
+  "answer": "",
+  "document_number": "",
+  "external_id": "2060305_4",
+  "url": "https://www.kisa.or.kr/2060305/form?postSeq=4&page=6",
+  "metadata": {
+    "menu_seq": "2060305",
+    "post_seq": "4"
+  }
+}

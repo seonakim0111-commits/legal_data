@@ -1,0 +1,31 @@
+{
+  "doc_id": "kisa_안내서_2060302_2",
+  "source": "kisa_crawler",
+  "title": "중소기업 보안위협 예방 및 대응 가이드",
+  "category": "한국인터넷진흥원/안내서",
+  "doc_type": "안내서",
+  "text": "제목: 중소기업 보안위협 예방 및 대응 가이드\n\n[첨부파일]\n- 보안위협_예방_및_대응_가이드.pdf",
+  "summary_text": "",
+  "attachments": [
+    {
+      "name": "보안위협_예방_및_대응_가이드.pdf",
+      "url": "https://www.kisa.or.kr/post/fileDownload?menuSeq=2060302&postSeq=2&attachSeq=1&lang_type=KO",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 3624613,
+      "text_skipped": true
+    }
+  ],
+  "version_date": "2016-02-24",
+  "related_laws": [],
+  "collected_at": "2026-07-01",
+  "question": "",
+  "answer": "",
+  "document_number": "",
+  "external_id": "2060302_2",
+  "url": "https://www.kisa.or.kr/2060302/form?postSeq=2&page=7",
+  "metadata": {
+    "menu_seq": "2060302",
+    "post_seq": "2"
+  }
+}

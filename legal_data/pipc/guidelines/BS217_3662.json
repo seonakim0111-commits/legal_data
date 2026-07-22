@@ -1,0 +1,35 @@
+{
+  "doc_id": "pipc_안내서_BS217_3662",
+  "source": "pipc_crawler",
+  "title": "[과거 안내서] 소상공인용 개인정보 보호조치 구현가이드",
+  "category": "개인정보보호위원회/안내서",
+  "doc_type": "안내서",
+  "text": "제목: [과거 안내서] 소상공인용 개인정보 보호조치 구현가이드\n\n＜p＞＜return /＞＜return /＞＜strong＞<개인정보 보호조치 구현 가이드>＜/strong＞ 및 ＜strong＞<소상공인 개인정보 보호수칙>＜/strong＞ 을 올려드리니＜br /＞＜return /＞업무에 참고하시기 바랍니다. ＜br /＞＜return /＞＜br /＞＜return /＞＜strong＞□ (개발자용) 개인정보 보호조치 구현 가이드＜br /＞＜return /＞＜/strong＞ ▶ 기술적 보호조치 : 접근권한, 비밀번호, 접근통제, 암호화, 접속기록, 보안프로그램 ＜br /＞＜return /＞ ▶ 관리적 보호조치 : 회원가입 화면제공 동의, 개인정보처리방침, 파기, 유지보수＜br /＞＜return /＞＜br /＞＜return /＞＜return /＞＜strong＞□ (소상공인용) 개인정보 보호수칙 3종＜br /＞＜return /＞＜/strong＞ ▶ 고객관＜return /＞리 프로그램 이용 개인정보 보호수칙＜br /＞＜return /＞＜return /＞ ▶ 프랜차이즈 가맹점 이용 개인정보 보호수칙 ＜br /＞＜return /＞ ▶ 문서관리 프로그램 이용 개인정보 보호수칙 ＜br /＞＜return /＞＜/p＞\n\n[첨부파일]\n- (프로그램_제공업체용)고객관리 프로그램 개인정보 보호조치 구현 가이드.hwp",
+  "summary_text": "＜p＞＜return /＞＜return /＞＜strong＞<개인정보 보호조치 구현 가이드>＜/strong＞ 및 ＜strong＞<소상공인 개인정보 보호수칙>＜/strong＞ 을 올려드리니＜br /＞＜return /＞업무에 참고하시기 바랍니다. ＜br /＞＜return /＞＜br /＞＜return /＞＜strong＞□ (개발자용) 개인정보 보호조치 구현 가이드＜br /＞＜return /＞＜/strong＞ ▶ 기술적 보호조치 : 접근권한, 비밀번호, 접근통제, 암호화, 접속기록, 보안프로그램 ＜br /＞＜return /＞ ▶ 관리적 보호조치 : 회원가입 화면제공 동의, 개인정보처리방침, 파기, 유지보수＜br /＞＜return /＞＜br /＞＜return /＞＜return /＞＜strong＞□ (소상공인용) 개인정보 보호수칙 3종＜br /＞＜return /＞＜/strong＞ ▶ 고객관＜return /＞리 프로그램 이용 개인정보 보호수칙＜br /＞＜return /＞＜return /＞ ▶ 프랜차이즈 가맹점 이용 개인정보 보호수칙 ＜br /＞＜return /＞ ▶ 문서관리 프로그램 이용 개인정보 보호수칙 ＜br /＞＜return /＞＜/p＞",
+  "attachments": [
+    {
+      "name": "(프로그램_제공업체용)고객관리 프로그램 개인정보 보호조치 구현 가이드.hwp",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000360264&fileSn=0&fileExtsn=hwp&cnvCnt=",
+      "ext": "hwp",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    }
+  ],
+  "version_date": "2012-08-16",
+  "related_laws": [],
+  "collected_at": "2026-07-01",
+  "question": "",
+  "answer": "",
+  "document_number": "",
+  "external_id": "BS217_3662",
+  "url": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS217&mCode=D010030020&nttId=3662",
+  "metadata": {
+    "bbs_id": "BS217",
+    "ntt_id": "3662",
+    "m_code": "D010030020",
+    "department": "개인정보보호정책과",
+    "author": ""
+  }
+}

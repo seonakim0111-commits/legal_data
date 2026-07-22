@@ -1,0 +1,35 @@
+{
+  "doc_id": "pipc_안내서_BS217_10897",
+  "source": "pipc_crawler",
+  "title": "[현재 안내서] 소상공인을 위한 개인정보 보호 핸드북(2024.12.)",
+  "category": "개인정보보호위원회/안내서",
+  "doc_type": "안내서",
+  "text": "제목: [현재 안내서] 소상공인을 위한 개인정보 보호 핸드북(2024.12.)\n\n본 안내서는 소상공인 사업자 분들이 고객 개인정보를 수집·이용 등 처리하는 과정에서 준수해야 할 개인정보 처리 수칙과 방법에 대해 안내합니다.\n\n[첨부파일]\n- ★소상공인을 위한 개인정보 보호 핸드북(2024.12).pdf",
+  "summary_text": "본 안내서는 소상공인 사업자 분들이 고객 개인정보를 수집·이용 등 처리하는 과정에서 준수해야 할 개인정보 처리 수칙과 방법에 대해 안내합니다.",
+  "attachments": [
+    {
+      "name": "★소상공인을 위한 개인정보 보호 핸드북(2024.12).pdf",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000559104&fileSn=1&fileExtsn=pdf&cnvCnt=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    }
+  ],
+  "version_date": "2024-12-30",
+  "related_laws": [],
+  "collected_at": "2026-07-01",
+  "question": "",
+  "answer": "",
+  "document_number": "",
+  "external_id": "BS217_10897",
+  "url": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS217&mCode=D010030020&nttId=10897",
+  "metadata": {
+    "bbs_id": "BS217",
+    "ntt_id": "10897",
+    "m_code": "D010030020",
+    "department": "개인정보보호정책과",
+    "author": ""
+  }
+}

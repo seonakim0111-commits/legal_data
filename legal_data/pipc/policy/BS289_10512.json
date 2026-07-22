@@ -1,0 +1,44 @@
+{
+  "doc_id": "pipc_정책자료_BS289_10512",
+  "source": "pipc_crawler",
+  "title": "대구 가명정보 활용 지원센터 개소",
+  "category": "개인정보보호위원회/기업참여 자료실",
+  "doc_type": "정책자료",
+  "text": "제목: 대구 가명정보 활용 지원센터 개소\n\n개인정보위와 대구광역시는 2024년 7월 18일 대구 지역 기업들의 안전한 데이터 활용을 지원할 대구 가명정보 활용지원 센터를 개소하였습니다.\n\n[첨부파일]\n- 240719+(조간)+대구에+가명정보+활용지원센터+문+연다(데이터안전정책과).pdf\n- 240719+(조간)+대구에+가명정보+활용지원센터+문+연다(데이터안전정책과) (1).hwpx",
+  "summary_text": "개인정보위와 대구광역시는 2024년 7월 18일 대구 지역 기업들의 안전한 데이터 활용을 지원할 대구 가명정보 활용지원 센터를 개소하였습니다.",
+  "attachments": [
+    {
+      "name": "240719+(조간)+대구에+가명정보+활용지원센터+문+연다(데이터안전정책과).pdf",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000558299&fileSn=0&fileExtsn=pdf&cnvCnt=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    },
+    {
+      "name": "240719+(조간)+대구에+가명정보+활용지원센터+문+연다(데이터안전정책과) (1).hwpx",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000558299&fileSn=1&fileExtsn=hwpx&cnvCnt=",
+      "ext": "hwpx",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    }
+  ],
+  "version_date": "2024-08-30",
+  "related_laws": [],
+  "collected_at": "2026-07-01",
+  "question": "",
+  "answer": "",
+  "document_number": "",
+  "external_id": "BS289_10512",
+  "url": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS289&mCode=D040070000&nttId=10512",
+  "metadata": {
+    "bbs_id": "BS289",
+    "ntt_id": "10512",
+    "m_code": "D040070000",
+    "department": "데이터안전정책과",
+    "author": "민지원"
+  }
+}

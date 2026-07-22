@@ -1,0 +1,35 @@
+{
+  "doc_id": "pipc_안내서_BS217_4000",
+  "source": "pipc_crawler",
+  "title": "[과거 안내서] 개인정보 암호화 조치 안내서",
+  "category": "개인정보보호위원회/안내서",
+  "doc_type": "안내서",
+  "text": "제목: [과거 안내서] 개인정보 암호화 조치 안내서\n\n본 안내서는 \"개인정보 보호법\"에 따라 개인정보처리자가 ＜br /＞＜return /＞개인정보의 안전성 확보를 위해 이행해야 할 기술적 보호조치 중＜br /＞＜return /＞ \"암호화\" 에 대한 안내서 입니다. ＜br /＞＜return /＞＜br /＞＜return /＞개인정보처리자가 주민등록번호의 저장·전송시 ＜br /＞필요한 암호화 수행방식과 사례 등을 소개하고 있습니다. ＜br /＞＜return /＞＜br /＞＜return /＞업무에 참고하시기 바랍니다.＜br /＞＜return /＞＜br /＞＜return /＞\n\n[첨부파일]\n- 개인정보 암호화 조치 안내서(Ver 1.0).pdf",
+  "summary_text": "본 안내서는 \"개인정보 보호법\"에 따라 개인정보처리자가 ＜br /＞＜return /＞개인정보의 안전성 확보를 위해 이행해야 할 기술적 보호조치 중＜br /＞＜return /＞ \"암호화\" 에 대한 안내서 입니다. ＜br /＞＜return /＞＜br /＞＜return /＞개인정보처리자가 주민등록번호의 저장·전송시 ＜br /＞필요한 암호화 수행방식과 사례 등을 소개하고 있습니다. ＜br /＞＜return /＞＜br /＞＜return /＞업무에 참고하시기 바랍니다.＜br /＞＜return /＞＜br /＞＜return /＞",
+  "attachments": [
+    {
+      "name": "개인정보 암호화 조치 안내서(Ver 1.0).pdf",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000453933&fileSn=1&fileExtsn=pdf&cnvCnt=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    }
+  ],
+  "version_date": "2012-10-16",
+  "related_laws": [],
+  "collected_at": "2026-07-01",
+  "question": "",
+  "answer": "",
+  "document_number": "",
+  "external_id": "BS217_4000",
+  "url": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS217&mCode=D010030020&nttId=4000",
+  "metadata": {
+    "bbs_id": "BS217",
+    "ntt_id": "4000",
+    "m_code": "D010030020",
+    "department": "개인정보보호정책과",
+    "author": ""
+  }
+}

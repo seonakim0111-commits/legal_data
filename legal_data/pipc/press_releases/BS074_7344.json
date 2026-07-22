@@ -1,0 +1,44 @@
+{
+  "doc_id": "pipc_보도자료_BS074_7344",
+  "source": "pipc_crawler",
+  "title": "국립암센터, ‘가명정보 결합 시범사례’ 첫 성과발표",
+  "category": "개인정보보호위원회/보도자료",
+  "doc_type": "보도자료",
+  "text": "제목: 국립암센터, ‘가명정보 결합 시범사례’ 첫 성과발표\n\n국립암센터, ‘가명정보 결합 시범사례’ 첫 성과발표 - 결합데이터에 기반한 폐암 환자의 사망동향 및 사망예측 연구 - 지난해 개인정보보호법 개정으로 도입된 가명정보를 활용한 결합의 첫 성과로, 국립암센터(원장 서홍관)의 폐암치료 연구결과가 도출되었다. 이번 사례는 가명정보 활용 5대분야 7개과제의 하나로 추진되었으며, 각 과제별 결과성과가 순차적으로 발표될 예정이다. * 기타 자세한 내용은 첨부파일을 확인해주시기 바랍니다. - 담당자 : 데이터안전정책과 장동철(02-2100-3076)\n\n[첨부파일]\n- 210528 (조간) 국립암센터,‘가명정보 결합 시범사례’첫 성과발표(데이터안전정책과)_누리집 게시.hwp\n- 210528 (조간) 국립암센터,‘가명정보 결합 시범사례’첫 성과발표(데이터안전정책과)_누리집 게시.pdf",
+  "summary_text": "국립암센터, ‘가명정보 결합 시범사례’ 첫 성과발표 - 결합데이터에 기반한 폐암 환자의 사망동향 및 사망예측 연구 - 지난해 개인정보보호법 개정으로 도입된 가명정보를 활용한 결합의 첫 성과로, 국립암센터(원장 서홍관)의 폐암치료 연구결과가 도출되었다. 이번 사례는 가명정보 활용 5대분야 7개과제의 하나로 추진되었으며, 각 과제별 결과성과가 순차적으로 발표될 예정이다. * 기타 자세한 내용은 첨부파일을 확인해주시기 바랍니다. - 담당자 : 데이터안전정책과 장동철(02-2100-3076)",
+  "attachments": [
+    {
+      "name": "210528 (조간) 국립암센터,‘가명정보 결합 시범사례’첫 성과발표(데이터안전정책과)_누리집 게시.hwp",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000551963&fileSn=0&fileExtsn=hwp&cnvCnt=",
+      "ext": "hwp",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    },
+    {
+      "name": "210528 (조간) 국립암센터,‘가명정보 결합 시범사례’첫 성과발표(데이터안전정책과)_누리집 게시.pdf",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000551963&fileSn=1&fileExtsn=pdf&cnvCnt=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    }
+  ],
+  "version_date": "2021-05-27",
+  "related_laws": [],
+  "collected_at": "2026-07-01",
+  "question": "",
+  "answer": "",
+  "document_number": "",
+  "external_id": "BS074_7344",
+  "url": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=7344",
+  "metadata": {
+    "bbs_id": "BS074",
+    "ntt_id": "7344",
+    "m_code": "C020010000",
+    "department": "대변인",
+    "author": "조지영"
+  }
+}

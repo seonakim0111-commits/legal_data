@@ -1,0 +1,31 @@
+{
+  "doc_id": "kisa_안내서_2060305_11",
+  "source": "kisa_crawler",
+  "title": "HTML5 암호기술 이용 안내서",
+  "category": "한국인터넷진흥원/안내서",
+  "doc_type": "안내서",
+  "text": "제목: HTML5 암호기술 이용 안내서\n\n[첨부파일]\n- HTML5_암호기술이용_안내서.pdf",
+  "summary_text": "",
+  "attachments": [
+    {
+      "name": "HTML5_암호기술이용_안내서.pdf",
+      "url": "https://www.kisa.or.kr/post/fileDownload?menuSeq=2060305&postSeq=11&attachSeq=1&lang_type=KO",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 14898086,
+      "text_skipped": true
+    }
+  ],
+  "version_date": "2016-02-24",
+  "related_laws": [],
+  "collected_at": "2026-07-01",
+  "question": "",
+  "answer": "",
+  "document_number": "",
+  "external_id": "2060305_11",
+  "url": "https://www.kisa.or.kr/2060305/form?postSeq=11&page=5",
+  "metadata": {
+    "menu_seq": "2060305",
+    "post_seq": "11"
+  }
+}

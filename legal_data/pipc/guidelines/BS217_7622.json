@@ -1,0 +1,35 @@
+{
+  "doc_id": "pipc_안내서_BS217_7622",
+  "source": "pipc_crawler",
+  "title": "[과거 안내서] 가명정보 처리 가이드라인(2021.10.개정)",
+  "category": "개인정보보호위원회/안내서",
+  "doc_type": "안내서",
+  "text": "제목: [과거 안내서] 가명정보 처리 가이드라인(2021.10.개정)\n\n2021. 10. 22. 개정된 가명정보 처리 가이드라인입니다. 업무에 많은 활용 바랍니다.\n\n[첨부파일]\n- 가명정보 처리 가이드라인(2021.10.22.).pdf",
+  "summary_text": "2021. 10. 22. 개정된 가명정보 처리 가이드라인입니다. 업무에 많은 활용 바랍니다.",
+  "attachments": [
+    {
+      "name": "가명정보 처리 가이드라인(2021.10.22.).pdf",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000552523&fileSn=0&fileExtsn=pdf&cnvCnt=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    }
+  ],
+  "version_date": "2021-10-22",
+  "related_laws": [],
+  "collected_at": "2026-07-01",
+  "question": "",
+  "answer": "",
+  "document_number": "",
+  "external_id": "BS217_7622",
+  "url": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS217&mCode=D010030020&nttId=7622",
+  "metadata": {
+    "bbs_id": "BS217",
+    "ntt_id": "7622",
+    "m_code": "D010030020",
+    "department": "데이터안전정책과",
+    "author": "이성민"
+  }
+}

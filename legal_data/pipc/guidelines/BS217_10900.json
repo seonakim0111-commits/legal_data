@@ -1,0 +1,35 @@
+{
+  "doc_id": "pipc_안내서_BS217_10900",
+  "source": "pipc_crawler",
+  "title": "[현재 안내서] 생체정보 보호 안내서(2024.12.)",
+  "category": "개인정보보호위원회/안내서",
+  "doc_type": "안내서",
+  "text": "제목: [현재 안내서] 생체정보 보호 안내서(2024.12.)\n\n본 안내서는 「개인정보 보호법」에 따라 개인정보처리자가 안전하게 생체인식정보를 처리하는 데 필요한 점검 사항을 안내합니다.\n\n[첨부파일]\n- ★생체정보 보호 안내서(2024.12).pdf",
+  "summary_text": "본 안내서는 「개인정보 보호법」에 따라 개인정보처리자가 안전하게 생체인식정보를 처리하는 데 필요한 점검 사항을 안내합니다.",
+  "attachments": [
+    {
+      "name": "★생체정보 보호 안내서(2024.12).pdf",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000559107&fileSn=1&fileExtsn=pdf&cnvCnt=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    }
+  ],
+  "version_date": "2024-12-30",
+  "related_laws": [],
+  "collected_at": "2026-07-01",
+  "question": "",
+  "answer": "",
+  "document_number": "",
+  "external_id": "BS217_10900",
+  "url": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS217&mCode=D010030020&nttId=10900",
+  "metadata": {
+    "bbs_id": "BS217",
+    "ntt_id": "10900",
+    "m_code": "D010030020",
+    "department": "개인정보보호정책과",
+    "author": ""
+  }
+}

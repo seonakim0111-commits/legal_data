@@ -1,0 +1,44 @@
+{
+  "doc_id": "pipc_보도자료_BS074_7404",
+  "source": "pipc_crawler",
+  "title": "불법스팸 실태 분석을 위한 가명정보 결합 시범사례 결과 발표",
+  "category": "개인정보보호위원회/보도자료",
+  "doc_type": "보도자료",
+  "text": "제목: 불법스팸 실태 분석을 위한 가명정보 결합 시범사례 결과 발표\n\n불법스팸 실태 분석을 위한 가명정보 결합 시범사례 결과 발표 - KISA·SKT-삼성SDS 협업분석, 50대 남성에게 도박·불법대출 등 스팸 가장 많아 - 개인정보보호위원회(위원장 윤종인, 이하 개인정보위)와 관계부처가 ’20년 11월부터 합동으로 추진한 5대 분야 7개 과제의 세 번째 결합성과를 한국인터넷진흥원(원장 이원태, 이하 KISA)이 발표하였다. 이번 사례는 KISA 스팸신고 정보와 SK텔레콤(대표이사 박정호, 이하 SKT) 고객정보를 결합전문기관인 삼성에스디에스(대표 황성우, 이하 삼성SDS)에서 결합하여, 성별·연령대별 불법스팸 실태연구를 위해 추진되었다. * 기타 자세한 내용은 첨부파일을 확인해주시기 바랍니다. - 담당자 : 데이터안전정책과 장동철(02-2100-3076)\n\n[첨부파일]\n- 210625 (조간) 불법스팸 실태 분석을 위한 가명정보 결합 시범사례 결과 발표(데이터안전정책과)_누리집 게시.hwp\n- 210625 (조간) 불법스팸 실태 분석을 위한 가명정보 결합 시범사례 결과 발표(데이터안전정책과)_누리집 게시.pdf",
+  "summary_text": "불법스팸 실태 분석을 위한 가명정보 결합 시범사례 결과 발표 - KISA·SKT-삼성SDS 협업분석, 50대 남성에게 도박·불법대출 등 스팸 가장 많아 - 개인정보보호위원회(위원장 윤종인, 이하 개인정보위)와 관계부처가 ’20년 11월부터 합동으로 추진한 5대 분야 7개 과제의 세 번째 결합성과를 한국인터넷진흥원(원장 이원태, 이하 KISA)이 발표하였다. 이번 사례는 KISA 스팸신고 정보와 SK텔레콤(대표이사 박정호, 이하 SKT) 고객정보를 결합전문기관인 삼성에스디에스(대표 황성우, 이하 삼성SDS)에서 결합하여, 성별·연령대별 불법스팸 실태연구를 위해 추진되었다. * 기타 자세한 내용은 첨부파일을 확인해주시기 바랍니다. - 담당자 : 데이터안전정책과 장동철(02-2100-3076)",
+  "attachments": [
+    {
+      "name": "210625 (조간) 불법스팸 실태 분석을 위한 가명정보 결합 시범사례 결과 발표(데이터안전정책과)_누리집 게시.hwp",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000552061&fileSn=0&fileExtsn=hwp&cnvCnt=",
+      "ext": "hwp",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    },
+    {
+      "name": "210625 (조간) 불법스팸 실태 분석을 위한 가명정보 결합 시범사례 결과 발표(데이터안전정책과)_누리집 게시.pdf",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000552061&fileSn=1&fileExtsn=pdf&cnvCnt=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    }
+  ],
+  "version_date": "2021-06-24",
+  "related_laws": [],
+  "collected_at": "2026-07-01",
+  "question": "",
+  "answer": "",
+  "document_number": "",
+  "external_id": "BS074_7404",
+  "url": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=7404",
+  "metadata": {
+    "bbs_id": "BS074",
+    "ntt_id": "7404",
+    "m_code": "C020010000",
+    "department": "대변인",
+    "author": "최홍석"
+  }
+}

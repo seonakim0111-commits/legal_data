@@ -1,0 +1,33 @@
+{
+  "doc_id": "kisa_보도자료_402_1649",
+  "source": "kisa_crawler",
+  "title": "한국인터넷진흥원 인사",
+  "category": "한국인터넷진흥원/보도자료",
+  "doc_type": "보도자료",
+  "text": "제목: 한국인터넷진흥원 인사\n\n◇ 보임(시행 : 2018년 3월 19일) ▲ 사이버침해대응본부장 이 재 일\n\n[첨부파일]\n- 180314-KISA-보도자료(한국인터넷진흥원_인사).pdf",
+  "summary_text": "◇ 보임(시행 : 2018년 3월 19일) ▲ 사이버침해대응본부장 이 재 일\n\n[첨부파일]\n- 180314-KISA-보도자료(한국인터넷진흥원_인사).pdf",
+  "attachments": [
+    {
+      "name": "180314-KISA-보도자료(한국인터넷진흥원_인사).pdf",
+      "url": "https://www.kisa.or.kr/402/form?postSeq=1649&page=94#fnPostAttachDownload",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    }
+  ],
+  "version_date": "2018-03-14",
+  "related_laws": [],
+  "collected_at": "2026-07-01",
+  "question": "",
+  "answer": "",
+  "document_number": "",
+  "external_id": "402_1649",
+  "url": "https://www.kisa.or.kr/402/form?postSeq=1649&page=94",
+  "metadata": {
+    "menu_seq": "402",
+    "post_seq": "1649",
+    "reader_fallback": true
+  }
+}

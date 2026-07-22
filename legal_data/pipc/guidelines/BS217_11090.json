@@ -1,0 +1,89 @@
+{
+  "doc_id": "pipc_안내서_BS217_11090",
+  "source": "pipc_crawler",
+  "title": "[현재 안내서] 개인정보관리 전문기관 지정심사 안내서 및 신청 관련 양식",
+  "category": "개인정보보호위원회/안내서",
+  "doc_type": "안내서",
+  "text": "제목: [현재 안내서] 개인정보관리 전문기관 지정심사 안내서 및 신청 관련 양식\n\nㅇ 개인정보관리 전문기관 및 일반수신자가 갖추어야 하는 사항, 심사사항별 검토내용 등을 안내함으로써 전문기관 지정 준비에 대한 이해를 돕고자 안내서를 마련하였습니다. ㅇ 개인정보관리 전문기관 신청을 위한 신청서 및 구비서류 양식도 첨부합니다. ㅇ 개인정보관리 전문기관을 신청하고자 하는 기업·기관은 ‘개인정보관리 전문기관 지정심사 신청서 및 구비서류’를 지정권자*에게 ‘문서24’ 등을 통해 공문으로 우선 제출하고, 마이데이터 지원 플랫폼(mydata.privacy.go.kr)에 기관회원 가입 후 제출하시기 바랍니다. * 일반전문기관에 대한 지정권자는 개인정보보호위원회(범정부 마이데이터 추진단) 또는 전송받으려는 정보와 관련된 관계 중앙행정기관이며, 개인보건의료정보를 관리하는 특수전문기관에 대한 지정권자는 보건복지부(의료정보정책과)입니다.\n\n[첨부파일]\n- 개인정보관리 전문기관 지정안내서_일반전문기관 편.pdf\n- 개인정보관리 전문기관 지정안내서_특수전문기관 편.pdf\n- 개인정보관리 전문기관 지정안내서_중계전문기관 편.pdf\n- 일반수신자 등재 안내서.pdf\n- [양식 1] 개인정보관리 중계전문기관 신청서 및 구비서류.hwp\n- [양식 2] 개인정보관리 일반전문기관 신청서 및 구비서류.hwp\n- [양식 3] 개인정보관리 특수전문기관 신청서 및 구비서류.hwp",
+  "summary_text": "ㅇ 개인정보관리 전문기관 및 일반수신자가 갖추어야 하는 사항, 심사사항별 검토내용 등을 안내함으로써 전문기관 지정 준비에 대한 이해를 돕고자 안내서를 마련하였습니다. ㅇ 개인정보관리 전문기관 신청을 위한 신청서 및 구비서류 양식도 첨부합니다. ㅇ 개인정보관리 전문기관을 신청하고자 하는 기업·기관은 ‘개인정보관리 전문기관 지정심사 신청서 및 구비서류’를 지정권자*에게 ‘문서24’ 등을 통해 공문으로 우선 제출하고, 마이데이터 지원 플랫폼(mydata.privacy.go.kr)에 기관회원 가입 후 제출하시기 바랍니다. * 일반전문기관에 대한 지정권자는 개인정보보호위원회(범정부 마이데이터 추진단) 또는 전송받으려는 정보와 관련된 관계 중앙행정기관이며, 개인보건의료정보를 관리하는 특수전문기관에 대한 지정권자는 보건복지부(의료정보정책과)입니다.",
+  "attachments": [
+    {
+      "name": "개인정보관리 전문기관 지정안내서_일반전문기관 편.pdf",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000559437&fileSn=1&fileExtsn=pdf&cnvCnt=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    },
+    {
+      "name": "개인정보관리 전문기관 지정안내서_특수전문기관 편.pdf",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000559437&fileSn=2&fileExtsn=pdf&cnvCnt=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    },
+    {
+      "name": "개인정보관리 전문기관 지정안내서_중계전문기관 편.pdf",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000559437&fileSn=3&fileExtsn=pdf&cnvCnt=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    },
+    {
+      "name": "일반수신자 등재 안내서.pdf",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000559437&fileSn=4&fileExtsn=pdf&cnvCnt=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    },
+    {
+      "name": "[양식 1] 개인정보관리 중계전문기관 신청서 및 구비서류.hwp",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000559437&fileSn=5&fileExtsn=hwp&cnvCnt=",
+      "ext": "hwp",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    },
+    {
+      "name": "[양식 2] 개인정보관리 일반전문기관 신청서 및 구비서류.hwp",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000559437&fileSn=6&fileExtsn=hwp&cnvCnt=",
+      "ext": "hwp",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    },
+    {
+      "name": "[양식 3] 개인정보관리 특수전문기관 신청서 및 구비서류.hwp",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000559437&fileSn=7&fileExtsn=hwp&cnvCnt=",
+      "ext": "hwp",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    }
+  ],
+  "version_date": "2025-03-26",
+  "related_laws": [],
+  "collected_at": "2026-07-01",
+  "question": "",
+  "answer": "",
+  "document_number": "",
+  "external_id": "BS217_11090",
+  "url": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS217&mCode=D010030020&nttId=11090",
+  "metadata": {
+    "bbs_id": "BS217",
+    "ntt_id": "11090",
+    "m_code": "D010030020",
+    "department": "개인정보보호위원회",
+    "author": ""
+  }
+}

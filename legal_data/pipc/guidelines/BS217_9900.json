@@ -1,0 +1,35 @@
+{
+  "doc_id": "pipc_안내서_BS217_9900",
+  "source": "pipc_crawler",
+  "title": "[현재 안내서] 가명정보 처리 가이드라인(2024.2.)",
+  "category": "개인정보보호위원회/안내서",
+  "doc_type": "안내서",
+  "text": "제목: [현재 안내서] 가명정보 처리 가이드라인(2024.2.)\n\n2024.2. 개정 「가명정보 처리 가이드라인」입니다.\n\n[첨부파일]\n- 가명정보 처리 가이드라인(2024.2).pdf",
+  "summary_text": "2024.2. 개정 「가명정보 처리 가이드라인」입니다.",
+  "attachments": [
+    {
+      "name": "가명정보 처리 가이드라인(2024.2).pdf",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000556900&fileSn=1&fileExtsn=pdf&cnvCnt=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    }
+  ],
+  "version_date": "2024-02-05",
+  "related_laws": [],
+  "collected_at": "2026-07-01",
+  "question": "",
+  "answer": "",
+  "document_number": "",
+  "external_id": "BS217_9900",
+  "url": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS217&mCode=D010030020&nttId=9900",
+  "metadata": {
+    "bbs_id": "BS217",
+    "ntt_id": "9900",
+    "m_code": "D010030020",
+    "department": "데이터안전정책과",
+    "author": "강나희"
+  }
+}

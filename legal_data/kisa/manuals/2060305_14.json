@@ -1,0 +1,31 @@
+{
+  "doc_id": "kisa_안내서_2060305_14",
+  "source": "kisa_crawler",
+  "title": "패스워드 선택 및 이용 안내서",
+  "category": "한국인터넷진흥원/안내서",
+  "doc_type": "안내서",
+  "text": "제목: 패스워드 선택 및 이용 안내서\n\n1. 안전한 패스워드 2. 이러한 패스워드 사용하지 마세요 3. 안전한 패스워드 생성 Tip 4. 패스워드 보안 지침(이용자 측면) 5. 패스워드 보안 지침(관리자 측면)\n\n[첨부파일]\n- 2019_패스워드_선택_및_이용_안내서.pdf",
+  "summary_text": "1. 안전한 패스워드 2. 이러한 패스워드 사용하지 마세요 3. 안전한 패스워드 생성 Tip 4. 패스워드 보안 지침(이용자 측면) 5. 패스워드 보안 지침(관리자 측면)",
+  "attachments": [
+    {
+      "name": "2019_패스워드_선택_및_이용_안내서.pdf",
+      "url": "https://www.kisa.or.kr/post/fileDownload?menuSeq=2060305&postSeq=14&attachSeq=1&lang_type=KO",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 2408907,
+      "text_skipped": true
+    }
+  ],
+  "version_date": "2022-01-27",
+  "related_laws": [],
+  "collected_at": "2026-07-01",
+  "question": "",
+  "answer": "",
+  "document_number": "",
+  "external_id": "2060305_14",
+  "url": "https://www.kisa.or.kr/2060305/form?postSeq=14&page=5",
+  "metadata": {
+    "menu_seq": "2060305",
+    "post_seq": "14"
+  }
+}

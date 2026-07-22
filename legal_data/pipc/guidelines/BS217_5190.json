@@ -1,0 +1,44 @@
+{
+  "doc_id": "pipc_안내서_BS217_5190",
+  "source": "pipc_crawler",
+  "title": "[과거 안내서] 개인정보 침해요인 평가 지침",
+  "category": "개인정보보호위원회/안내서",
+  "doc_type": "안내서",
+  "text": "제목: [과거 안내서] 개인정보 침해요인 평가 지침\n\n개인정보 침해요인 평가 지침입니다. 붙임 : 1. 개인정보 침해요인 평가 지침(1705) 2. 개인정보 침해요인 평가 요청서(서식)\n\n[첨부파일]\n- 개인정보 침해요인 평가 지침(1705).hwp\n- 개인정보 침해요인 평가 요청서(서식).hwp",
+  "summary_text": "개인정보 침해요인 평가 지침입니다. 붙임 : 1. 개인정보 침해요인 평가 지침(1705) 2. 개인정보 침해요인 평가 요청서(서식)",
+  "attachments": [
+    {
+      "name": "개인정보 침해요인 평가 지침(1705).hwp",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000499284&fileSn=1&fileExtsn=hwp&cnvCnt=",
+      "ext": "hwp",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    },
+    {
+      "name": "개인정보 침해요인 평가 요청서(서식).hwp",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000499284&fileSn=2&fileExtsn=hwp&cnvCnt=",
+      "ext": "hwp",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    }
+  ],
+  "version_date": "2016-08-12",
+  "related_laws": [],
+  "collected_at": "2026-07-01",
+  "question": "",
+  "answer": "",
+  "document_number": "",
+  "external_id": "BS217_5190",
+  "url": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS217&mCode=D010030020&nttId=5190",
+  "metadata": {
+    "bbs_id": "BS217",
+    "ntt_id": "5190",
+    "m_code": "D010030020",
+    "department": "개인정보보호정책과",
+    "author": ""
+  }
+}

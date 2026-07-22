@@ -1,0 +1,44 @@
+{
+  "doc_id": "pipc_안내서_BS217_9986",
+  "source": "pipc_crawler",
+  "title": "[기타 자료] 개인정보 보호법 및 시행령 2차 개정사항 안내서(2024.3.) 및 현장설명회(3.18.) 자료",
+  "category": "개인정보보호위원회/안내서",
+  "doc_type": "안내서",
+  "text": "제목: [기타 자료] 개인정보 보호법 및 시행령 2차 개정사항 안내서(2024.3.) 및 현장설명회(3.18.) 자료\n\n2024년 3월 15일 시행 예정인 「개인정보 보호법」 및 시행령 2차 개정사항에 대한 안내서와 3.18.(월)에 진행된 현장설명회 발표자료 입니다.\n\n[첨부파일]\n- 개인정보 보호법 및 시행령 2차 개정사항 안내서(24.3.15.시행).pdf\n- 240318_개인정보보호법 개정 주요내용_PPT(설명회 발표자료).pdf",
+  "summary_text": "2024년 3월 15일 시행 예정인 「개인정보 보호법」 및 시행령 2차 개정사항에 대한 안내서와 3.18.(월)에 진행된 현장설명회 발표자료 입니다.",
+  "attachments": [
+    {
+      "name": "개인정보 보호법 및 시행령 2차 개정사항 안내서(24.3.15.시행).pdf",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000557031&fileSn=2&fileExtsn=pdf&cnvCnt=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    },
+    {
+      "name": "240318_개인정보보호법 개정 주요내용_PPT(설명회 발표자료).pdf",
+      "url": "https://www.pipc.go.kr/np/cmm/fms/FileDown.do?atchFileId=FILE_000000000557031&fileSn=3&fileExtsn=pdf&cnvCnt=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    }
+  ],
+  "version_date": "2024-03-12",
+  "related_laws": [],
+  "collected_at": "2026-07-01",
+  "question": "",
+  "answer": "",
+  "document_number": "",
+  "external_id": "BS217_9986",
+  "url": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS217&mCode=D010030020&nttId=9986",
+  "metadata": {
+    "bbs_id": "BS217",
+    "ntt_id": "9986",
+    "m_code": "D010030020",
+    "department": "개인정보보호정책과",
+    "author": ""
+  }
+}

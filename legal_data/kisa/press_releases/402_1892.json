@@ -1,0 +1,33 @@
+{
+  "doc_id": "kisa_보도자료_402_1892",
+  "source": "kisa_crawler",
+  "title": "KISA, MS 윈도우 파일공유기능(SMB 프로토콜) 취약점 예방 위한 보안 업데이트 당부",
+  "category": "한국인터넷진흥원/보도자료",
+  "doc_type": "보도자료",
+  "text": "제목: KISA, MS 윈도우 파일공유기능(SMB 프로토콜) 취약점 예방 위한 보안 업데이트 당부\n\n한국인터넷진흥원(KISA, 원장 김석환)은 마이크로소프트(이하 “MS”) 윈도우 제품의 파일공유기능(SMB 프로토콜)을 통해 악성코드를 설치·실행할 수 있는 취약점이 발견됨에 따라, 사용자 긴급 보안 업데이트 적용 등 보안 강화를 당부한다고 2020. 3. 13.(금) 밝혔다. 이번 취약점에 영향을 받는 제품은 윈도우 10(버전 1903, 1909) 및 서버(버전 1903, 1909)이며, 2017년 전 세계적으로 큰 피해가 발생했던 워너크라이(WannaCry) 랜섬웨어와 유사한 방식으로 취약한 PC에 악성코드를 전파할 수 있어 보안 업데이트를 수행하지 않을 경우 사용자에게 심각한 피해를 줄 수 있다. 해당 윈도우 제품 사용자는 MS 누리집 또는 윈도우 업데이트 기능을 통해 보안 업데이트를 진행해야 한다. MS는 이번 취약점의 위험성과 파급력을 감안해 패치가 배포되기 전 임시 대응 방법을 제공했으며, 패치 개발 후 긴급 업데이트를 공지했다. 이와 관련한 자세한 내용은 KISA보호나라 보안 공지를 통해 확인할 수 있다. ※ MS 윈도우 SMB 취약점 관련 보안 공지 확인 경로 (KISA) KISA 보호나라(https://www.boho.or.kr) → 자료실 → 보안공지→ 1288번 공지 (MS) https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796 [](https://support.microsoft.com/en-US/help/)https://support.microsoft.com/en-US/help/[](https://support.microsoft.com/en-US/help/KISA) [](https://www.kisa.or.kr/402/form?postSeq=1892&page=71)[](https://www.kisa.or.kr/402/form?postSeq=1892&page=71)KISA는 MS 보안 업데이트 발표 직후 보안 공지를 통해 윈도우 사용자에게 보안 업데이트를 권고했으며, 국내 정보보호최고책임자(CISO) 및 국내 기업 보안담당자를 대상으로 신속한 윈도우 보안업데이트 적용을 즉시 안내했다. 또한, SMB 취약점과 관련한 국내·외 이상 징후 및 사고 사례를 지속적으로 모니터링하고 있다. KISA 신대규 사이버침해대응본부장은 “SMB취약점 패치가 적용되지 않으면 취약점을 악용한 악성코드 감염 및 다른 시스템으로의 전파가 이뤄질 수 있는 만큼 이용자의 적극적인 보안 업데이트를 당부한다”며, “KISA는 이로 인한 사이버 침해사고 발생을 예방하기 위해 신속한 상황 전파 및 모니터링 강화 등 최선의 노력을 다하겠다”고 강조했다.\n\n[첨부파일]\n- 200313-KISA_보도자료(KISA__MS_윈도우_파일공유기능(SMB_프로토콜)_취약점_예방_위한_보안_업데이트_당부).pdf",
+  "summary_text": "한국인터넷진흥원(KISA, 원장 김석환)은 마이크로소프트(이하 “MS”) 윈도우 제품의 파일공유기능(SMB 프로토콜)을 통해 악성코드를 설치·실행할 수 있는 취약점이 발견됨에 따라, 사용자 긴급 보안 업데이트 적용 등 보안 강화를 당부한다고 2020. 3. 13.(금) 밝혔다. 이번 취약점에 영향을 받는 제품은 윈도우 10(버전 1903, 1909) 및 서버(버전 1903, 1909)이며, 2017년 전 세계적으로 큰 피해가 발생했던 워너크라이(WannaCry) 랜섬웨어와 유사한 방식으로 취약한 PC에 악성코드를 전파할 수 있어 보안 업데이트를 수행하지 않을 경우 사용자에게 심각한 피해를 줄 수 있다. 해당 윈도우 제품 사용자는 MS 누리집 또는 윈도우 업데이트 기능을 통해 보안 업데이트를 진행해야 한다. MS는 이번 취약점의 위험성과 파급력을 감안해 패치가 배포되기 전 임시 대응 방법을 제공했으며, 패치 개발 후 긴급 업데이트를 공지했다. 이와 관련한 자세한 내용은 KISA보호나라 보안 공지를 통해 확인할 수 있다. ※ MS 윈도우 SMB 취약점 관련 보안 공지 확인 경로 (KISA) KISA 보호나라(https://www.boho.or.kr) → 자료실 → 보안공지→ 1288번 공지 (MS) https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796 [](https://support.microsoft.com/en-US/help/)https://support.microsoft.com/en-US/help/[](https://support.microsoft.com/en-US/help/KISA) [](https://www.kisa.or.kr/402/form?postSeq=1892&page=71)[](https://www.kisa.or.kr/402/form?postSeq=1892&page=71)KISA는 MS 보안 업데이트 발표 직후 보안 공지를 통해 윈도우 사용자에게 보안 업데이트를 권고했으며, 국내 정보보호최고책임자(CISO) 및 국내 기업 보안담당자를 대상으로 신속한 윈도우 보안업데이트 적용을 즉시 안내했다. 또한, SMB 취약점과 관련한 국내·외 이상 징후 및 사고 사례를 지속적으로 모니터링하고 있다. KISA 신대규 사이버침해대응본부장은 “SMB취약점 패치가 적용되지 않으면 취약점을 악용한 악성코드 감염 및 다른 시스템으로의 전파가 이뤄질 수 있는 만큼 이용자의 적극적인 보안 업데이트를 당부한다”며, “KISA는 이로 인한 사이버 침해사고 발생을 예방하기 위해 신속한 상황 전파 및 모니터링 강화 등 최선의 노력을 다하겠다”고 강조했다.\n\n[첨부파일]\n- 200313-KISA_보도자료(KISA__MS_윈도우_파일공유기능(SMB_프로토콜)_취약점_예방_위한_보안_업데이트_당부).pdf",
+  "attachments": [
+    {
+      "name": "200313-KISA_보도자료(KISA__MS_윈도우_파일공유기능(SMB_프로토콜)_취약점_예방_위한_보안_업데이트_당부).pdf",
+      "url": "https://www.kisa.or.kr/402/form?postSeq=1892&page=71#fnPostAttachDownload",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 0,
+      "download_skipped": true,
+      "text_skipped": true
+    }
+  ],
+  "version_date": "2020-03-13",
+  "related_laws": [],
+  "collected_at": "2026-07-01",
+  "question": "",
+  "answer": "",
+  "document_number": "",
+  "external_id": "402_1892",
+  "url": "https://www.kisa.or.kr/402/form?postSeq=1892&page=71",
+  "metadata": {
+    "menu_seq": "402",
+    "post_seq": "1892",
+    "reader_fallback": true
+  }
+}
