@@ -1,0 +1,30 @@
+{
+  "doc_id": "법령해석_pastreq_67",
+  "source": "fsc_crawler",
+  "title": "해외 대주주의 사모발행 EURO MTN(Midium Term Note)의 자통법 상의 채무증권 여부",
+  "category": "기타",
+  "doc_type": "법령해석",
+  "text": "문서번호: 100065\n\n질의요지:\n당사의 일본 대주주가 사모방식으로 발행한 EURO MTN(중기채)을 당사가 취득할 경우, 해당 EURO MTN(중기채)은 자통법 4조(증권)에서 정의된 채무증권에 해당하는지\n\n해석대상 법령 조문 및 관련법령:\n자본시장과 금융투자업에 관한 법률 제4조\n\n회답:\n\n\n이유:\n일반적으로 MTN(Medium Term Note)이란 차입기간, 발행한도 및 유가증권의 형태 등에 관한 프로그램을 설정하고 그 범위 내에서 이자율과 만기가 상이한 증권(Note)을 수시로 발행하는 것으로,\r\n\r\n ㅇ MTN 프로그램 자체는 계속적인 증권의 발행을 위한 기본약정에 해당하여 자본시장법에 따른 채무증권에 해당한다고 볼 수 없고,\r\n\r\n ㅇ MTN 프로그램에 따라 구체적으로 증권이 발행되고 그 증권이 자본시장법 제4조제3항에 따른 속성을 갖는 경우에 채무증권에 해당하게 됩니다.",
+  "summary_text": "",
+  "attachments": [],
+  "version_date": "2014-12-31",
+  "related_laws": [
+    "자본시장법 제4조"
+  ],
+  "collected_at": "2026-08-05",
+  "question": "당사의 일본 대주주가 사모방식으로 발행한 EURO MTN(중기채)을 당사가 취득할 경우, 해당 EURO MTN(중기채)은 자통법 4조(증권)에서 정의된 채무증권에 해당하는지\n\n해석대상 법령 조문 및 관련법령:\n자본시장과 금융투자업에 관한 법률 제4조",
+  "answer": "",
+  "document_number": "100065",
+  "external_id": "pastreq_67",
+  "url": "",
+  "metadata": {
+    "fsc_idx": "pastreq_67",
+    "document_number": "100065",
+    "gubun": "법령해석",
+    "list_title": "해외 대주주의 사모발행 EURO MTN(Midium Term Note)의 자통법 상의 채무증권 여부",
+    "list_category": "",
+    "reg_date": "2014-12-31",
+    "department": "",
+    "pastreq_type": "비조치의견서(2014이전)"
+  }
+}

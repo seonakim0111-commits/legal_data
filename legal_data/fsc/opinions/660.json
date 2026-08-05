@@ -1,0 +1,31 @@
+{
+  "doc_id": "비조치의견서_660",
+  "source": "fsc_crawler",
+  "title": "미수동결계좌 지정 제도",
+  "category": "기타",
+  "doc_type": "비조치의견서",
+  "text": "문서번호: 150306\n\n질의요지:\n유가증권시장 업무규정 제89조\n\n회답:\n1) 규제 유효\n2) 위반시 비조치\n\n이유:\n1) 자본시장법 제393조에 따라 증권시장운영에 필요한 사항을 정한 규정으로 금융투자업자 중 자발적으로 거래소회원이 된 자에게 유효한 사항임\n\n2) 자율규제 사항으로 행정제재 대상 아님\n\n3) 해당사항 없음",
+  "summary_text": "",
+  "attachments": [],
+  "version_date": "2016-02-01",
+  "related_laws": [
+    "업무규정 제89조",
+    "자본시장법 제393조"
+  ],
+  "collected_at": "2026-08-05",
+  "question": "유가증권시장 업무규정 제89조",
+  "answer": "1) 규제 유효\n2) 위반시 비조치",
+  "document_number": "150306",
+  "external_id": "660",
+  "url": "",
+  "metadata": {
+    "fsc_idx": "660",
+    "document_number": "150306",
+    "gubun": "비조치의견서",
+    "list_title": "미수동결계좌 지정 제도",
+    "list_category": "",
+    "reg_date": "2016-02-01",
+    "department": "금융위원회,금융소비자국,자본시장과,자본시장정책관,금융위원회",
+    "pastreq_type": "비조치의견서"
+  }
+}

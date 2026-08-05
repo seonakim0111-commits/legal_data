@@ -1,0 +1,28 @@
+{
+  "doc_id": "법령해석_pastreq_1553",
+  "source": "fsc_crawler",
+  "title": "신탁이나 사모펀드 운용 관련",
+  "category": "기타",
+  "doc_type": "법령해석",
+  "text": "문서번호: 080060\n\n질의요지:\n투자일임회사가 (사모단독)펀드나 투자신탁을 설정할 수 있는지 여부\n※ 법원은 아래의 해석에 기속되지 않음을 알려드립니다\n\n해석대상 법령 조문 및 관련법령:\n간접투자자산운용업법\n\n회답:\n투자일임회사는 투자회사를 설립하거나, 투자신탁을 설정할 수 없습니다.",
+  "summary_text": "",
+  "attachments": [],
+  "version_date": "2014-12-31",
+  "related_laws": [],
+  "collected_at": "2026-08-05",
+  "question": "투자일임회사가 (사모단독)펀드나 투자신탁을 설정할 수 있는지 여부\n※ 법원은 아래의 해석에 기속되지 않음을 알려드립니다\n\n해석대상 법령 조문 및 관련법령:\n간접투자자산운용업법",
+  "answer": "투자일임회사는 투자회사를 설립하거나, 투자신탁을 설정할 수 없습니다.",
+  "document_number": "080060",
+  "external_id": "pastreq_1553",
+  "url": "",
+  "metadata": {
+    "fsc_idx": "pastreq_1553",
+    "document_number": "080060",
+    "gubun": "법령해석",
+    "list_title": "신탁이나 사모펀드 운용 관련",
+    "list_category": "",
+    "reg_date": "2014-12-31",
+    "department": "",
+    "pastreq_type": "비조치의견서(2014이전)"
+  }
+}

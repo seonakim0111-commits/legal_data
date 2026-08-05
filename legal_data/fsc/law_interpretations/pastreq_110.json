@@ -1,0 +1,28 @@
+{
+  "doc_id": "법령해석_pastreq_110",
+  "source": "fsc_crawler",
+  "title": "여신전문금융업법 위반 여부",
+  "category": "기타",
+  "doc_type": "법령해석",
+  "text": "문서번호: 100108\n\n질의요지:\n전자복권을 상품권으로 결제할 경우 여신전문금융업법 위반 여부\n\n해석대상 법령 조문 및 관련법령:\n여신전문금융업법\n\n회답:\n\n\n이유:\n\"여신전문금융업법\"에는 상품권으로 결제가능한 재화 및 용역에 대해서 아무런 규정이 없음을 알려드립니다.",
+  "summary_text": "",
+  "attachments": [],
+  "version_date": "2014-12-31",
+  "related_laws": [],
+  "collected_at": "2026-08-05",
+  "question": "전자복권을 상품권으로 결제할 경우 여신전문금융업법 위반 여부\n\n해석대상 법령 조문 및 관련법령:\n여신전문금융업법",
+  "answer": "",
+  "document_number": "100108",
+  "external_id": "pastreq_110",
+  "url": "",
+  "metadata": {
+    "fsc_idx": "pastreq_110",
+    "document_number": "100108",
+    "gubun": "법령해석",
+    "list_title": "여신전문금융업법 위반 여부",
+    "list_category": "",
+    "reg_date": "2014-12-31",
+    "department": "",
+    "pastreq_type": "비조치의견서(2014이전)"
+  }
+}

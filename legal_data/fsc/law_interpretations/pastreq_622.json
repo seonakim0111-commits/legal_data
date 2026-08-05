@@ -1,0 +1,30 @@
+{
+  "doc_id": "법령해석_pastreq_622",
+  "source": "fsc_crawler",
+  "title": "리스료의 신용카드 결제대상 여부 질의",
+  "category": "기타",
+  "doc_type": "법령해석",
+  "text": "문서번호: 120106\n\n질의요지:\n시설대여 또는 렌탈의 대가를 신용카드로 결제할 수 있는지 여부\n\n해석대상 법령 조문 및 관련법령:\n여신전문금융업법 제2조제3호\n\n회답:\n시설대여료는 불가, 렌탈은 가능\n\n이유:\n시설대여의 이용대가(리스료)는 여신전문금융업법제2조제3호가목에서 정하고 있는 “금전채무의 상환”에 해당되어 신용카드 결제 대상에서 제외됨.\r\n렌탈의 경우에는 대여 용역의 대가로서 신용카드로 결제를 할 수 있음",
+  "summary_text": "",
+  "attachments": [],
+  "version_date": "2014-12-31",
+  "related_laws": [
+    "여신전문금융업법 제2조"
+  ],
+  "collected_at": "2026-08-05",
+  "question": "시설대여 또는 렌탈의 대가를 신용카드로 결제할 수 있는지 여부\n\n해석대상 법령 조문 및 관련법령:\n여신전문금융업법 제2조제3호",
+  "answer": "시설대여료는 불가, 렌탈은 가능",
+  "document_number": "120106",
+  "external_id": "pastreq_622",
+  "url": "",
+  "metadata": {
+    "fsc_idx": "pastreq_622",
+    "document_number": "120106",
+    "gubun": "법령해석",
+    "list_title": "리스료의 신용카드 결제대상 여부 질의",
+    "list_category": "",
+    "reg_date": "2014-12-31",
+    "department": "",
+    "pastreq_type": "비조치의견서(2014이전)"
+  }
+}

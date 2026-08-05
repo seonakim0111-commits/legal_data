@@ -1,0 +1,28 @@
+{
+  "doc_id": "법령해석_pastreq_90",
+  "source": "fsc_crawler",
+  "title": "특정금전신탁의 특정일임상품 편입 등 관련 질의",
+  "category": "기타",
+  "doc_type": "법령해석",
+  "text": "문서번호: 100088\n\n질의요지:\n법령해석요청의 원인이 되는 사실관계:\n특정금전신탁계약에서 신탁재산운용방법으로 CMA 및 수익증권에 투자가 가능한지 여부\n\n해석대상 법령 조문 및 관련법령:\n자본시장과 금융투자업에 관한 법률 제105조\n\n회답:\n\n\n이유:\nCMA는 자본시장법상 신탁재산의 운용방법에 해당되지 않으며\r\n\r\n  ㅇ 수익증권은 신탁재산으로 운용이 가능합니다.",
+  "summary_text": "",
+  "attachments": [],
+  "version_date": "2014-12-31",
+  "related_laws": [],
+  "collected_at": "2026-08-05",
+  "question": "법령해석요청의 원인이 되는 사실관계:\n특정금전신탁계약에서 신탁재산운용방법으로 CMA 및 수익증권에 투자가 가능한지 여부\n\n해석대상 법령 조문 및 관련법령:\n자본시장과 금융투자업에 관한 법률 제105조",
+  "answer": "",
+  "document_number": "100088",
+  "external_id": "pastreq_90",
+  "url": "",
+  "metadata": {
+    "fsc_idx": "pastreq_90",
+    "document_number": "100088",
+    "gubun": "법령해석",
+    "list_title": "특정금전신탁의 특정일임상품 편입 등 관련 질의",
+    "list_category": "",
+    "reg_date": "2014-12-31",
+    "department": "",
+    "pastreq_type": "비조치의견서(2014이전)"
+  }
+}
