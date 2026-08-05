@@ -1,4 +1,4 @@
-name: Publish data wheel
+name: Publish data wheels
 
 on:
   push:
@@ -7,6 +7,7 @@ on:
     paths:
       - "legal_data/**"
       - "pyproject.toml"
+      - "scripts/build_wheels.py"
       - "README.md"
       - ".github/workflows/publish.yml"
   workflow_dispatch:
@@ -35,12 +36,19 @@ jobs:
         id: version
         run: echo "value=$(TZ=Asia/Seoul date +'%Y.%-m.%-d.%H%M%S')" >> "$GITHUB_OUTPUT"
 
-      - name: Build wheel
+      # 단일 휠은 2026-08-06 에 PyPI 기본 상한(100MB)을 넘어 발행이 실패했다 —
+      # 첨부 PDF/HWP 본문을 회수하면서(파이프라인 #12~#15) 51MB → 100.3MB 가 됐다.
+      # 용도별 3개로 쪼갠다. 세 휠 모두 card_legal_data/ **같은 트리**에 설치되므로
+      # (__init__.py 없는 네임스페이스 패키지) 설치 후 레이아웃은 단일 휠과 동일하고
+      # 소비 측(LawAgent ingest_from_legal_data.sh)은 고칠 필요가 없다.
+      # 분할선·크기 근거는 scripts/build_wheels.py 상단 표.
+      - name: Build split wheels
         env:
           HATCH_BUILD_VERSION: "${{ steps.version.outputs.value }}"
         run: |
           python -m pip install --upgrade build
-          python -m build --wheel
+          python scripts/build_wheels.py --dry-run
+          python scripts/build_wheels.py
 
       - name: Check wheel contents
         run: |
@@ -49,27 +57,76 @@ jobs:
           import zipfile
           from pathlib import Path
 
-          wheel = next(Path("dist").glob("*.whl"))
-          with zipfile.ZipFile(wheel) as archive:
-              names = archive.namelist()
+          EXPECTED = {
+              "card_legal_data",
+              "card_legal_data_press",
+              "card_legal_data_precedents",
+          }
+          wheels = sorted(Path("dist").glob("*.whl"))
+          found = {w.name.split("-")[0] for w in wheels}
+          if missing := EXPECTED - found:
+              sys.exit(f"빌드되지 않은 휠: {sorted(missing)} (있는 것: {sorted(found)})")
+          if extra := found - EXPECTED:
+              sys.exit(f"예상 밖 휠: {sorted(extra)} — 분할 목록을 확인하라")
 
-          data_files = [
-              name for name in names
-              if name.startswith("card_legal_data/")
-              and (name.endswith(".json") or name.endswith(".md"))
-          ]
-          python_files = [name for name in names if name.endswith(".py")]
+          # 세 휠이 같은 트리에 설치되므로 **파일 경로가 겹치면 pip 설치가 깨진다.**
+          # 분류 규칙(scripts/build_wheels.py:classify) 버그를 여기서 잡는다.
+          owner: dict[str, str] = {}
+          total = 0
+          for wheel in wheels:
+              pkg = wheel.name.split("-")[0]
+              with zipfile.ZipFile(wheel) as archive:
+                  names = archive.namelist()
 
-          if not data_files:
-              sys.exit("wheel contains no JSON or Markdown data")
-          if python_files:
-              sys.exit(f"wheel unexpectedly contains Python files: {python_files[:5]}")
+              data_files = [
+                  n for n in names
+                  if n.startswith("card_legal_data/")
+                  and (n.endswith(".json") or n.endswith(".md"))
+              ]
+              if python_files := [n for n in names if n.endswith(".py")]:
+                  sys.exit(f"{wheel.name}: 예상치 못한 .py 포함 {python_files[:5]}")
+              if not data_files:
+                  sys.exit(f"{wheel.name}: JSON/Markdown 데이터가 없다")
 
-          size = wheel.stat().st_size
-          if size >= 100 * 1024 * 1024:
-              sys.exit(f"wheel is too large for the default PyPI limit: {size} bytes")
+              for n in data_files:
+                  if n in owner:
+                      sys.exit(f"휠 간 파일 경로 충돌: {n} ({owner[n]} vs {pkg})")
+                  owner[n] = pkg
 
-          print(f"{wheel}: {len(data_files)} data files, {size} bytes")
+              size = wheel.stat().st_size
+              total += size
+              if size >= 100 * 1024 * 1024:
+                  sys.exit(f"{wheel.name}: PyPI 상한 초과 {size:,} bytes — 분할선 재검토")
+              flag = "  ⚠️ 상한 80% 초과 — 다음 증가 대비 분할 재검토" \
+                  if size >= 80 * 1024 * 1024 else ""
+              print(f"{wheel.name}: {len(data_files):,} data files, "
+                    f"{size / 1048576:.1f}MB{flag}")
+
+          print(f"합계 {len(wheels)}개 휠 · {total / 1048576:.1f}MB · "
+                f"데이터 파일 {len(owner):,}건 · 경로 충돌 없음")
+          PY
+
+      # 세 휠을 같은 venv 에 설치해 **트리가 실제로 병합되는지** 확인한다.
+      # 이 분할의 전제이고(소비 측 무변경), 깨지면 내부망 적재가 폴더를 못 찾는다.
+      - name: Verify merged install layout
+        run: |
+          python -m venv /tmp/verify
+          /tmp/verify/bin/pip install --quiet dist/*.whl
+          /tmp/verify/bin/python - <<'PY'
+          import card_legal_data
+          import pathlib
+          import sys
+
+          paths = list(card_legal_data.__path__)
+          root = pathlib.Path(paths[0])
+          tops = sorted(p.name for p in root.iterdir() if p.is_dir())
+          print(f"__path__ {len(paths)}개 · 상위 폴더 {tops}")
+
+          # 세 묶음이 각각 대표 폴더를 하나씩 갖는다 — 하나라도 없으면 병합 실패다.
+          for probe in ("law_api", "fss/guidelines", "precedents", "pipc/press_releases"):
+              if not (root / probe).is_dir():
+                  sys.exit(f"병합 실패 — {probe} 가 없다 (상위: {tops})")
+          print("병합 확인 — 단일 휠과 동일한 레이아웃")
           PY
 
       - uses: pypa/gh-action-pypi-publish@release/v1

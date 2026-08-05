@@ -1,3 +1,9 @@
+# ⚠️ 이 파일로 빌드하면 **데이터 전량이 한 휠에 들어가 PyPI 상한(100MB)을 넘는다**
+#    (2026-08-06 실측 100.3MB → 발행 실패). 발행은 `scripts/build_wheels.py` 가
+#    용도별 3개 휠로 나눠서 한다(core 60.3MB · press 21.7MB · precedents 18.3MB).
+#    이 파일은 그 스크립트가 각 묶음에 써 넣는 pyproject 의 **템플릿 원본**으로만 남는다
+#    — 실제 템플릿은 build_wheels.py 의 PYPROJECT 상수다. 둘을 함께 고칠 것.
+#    `python -m build --wheel` 을 루트에서 직접 돌리지 말 것.
 [build-system]
 requires = ["hatchling>=1.27"]
 build-backend = "hatchling.build"
