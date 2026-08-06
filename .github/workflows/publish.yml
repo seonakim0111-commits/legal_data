@@ -14,17 +14,25 @@ on:
 
 permissions:
   contents: read
-  id-token: write
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
 
+# 단일 휠은 2026-08-06 에 PyPI 기본 상한(100MB)을 넘어 발행이 실패했다 —
+# 첨부 PDF/HWP 본문을 회수하면서(파이프라인 #12~#15) 51MB → 100.3MB 가 됐다.
+# 용도별 3개로 쪼갠다(scripts/build_wheels.py 상단 표). 세 휠 모두 card_legal_data/
+# **같은 트리**에 설치되므로(__init__.py 없는 네임스페이스 패키지) 설치 후 레이아웃은
+# 단일 휠과 동일하고 소비 측(LawAgent ingest_from_legal_data.sh)은 고칠 필요가 없다.
+#
+# ⚠️ 발행 job 을 패키지마다 나누고 **환경 이름을 다르게** 준다. PyPI 는 pending trusted
+#    publisher 를 `(소유자, 저장소, 워크플로, 환경)` 조합으로 유일하게 취급해서, 환경이
+#    같으면 두 번째 프로젝트를 등록할 때 이렇게 거부한다(2026-08-06 실측):
+#      "A pending trusted publisher matching this configuration has already been
+#       registered for a different project name."
+#    job 을 쪼개면 부수 이득도 있다 — 한 패키지 업로드가 실패해도 나머지는 올라간다.
 jobs:
-  publish:
+  build:
     runs-on: ubuntu-latest
-    environment:
-      name: pypi
-      url: https://pypi.org/project/card-legal-data/
     steps:
       - uses: actions/checkout@v6
 
@@ -36,12 +44,6 @@ jobs:
         id: version
         run: echo "value=$(TZ=Asia/Seoul date +'%Y.%-m.%-d.%H%M%S')" >> "$GITHUB_OUTPUT"
 
-      # 단일 휠은 2026-08-06 에 PyPI 기본 상한(100MB)을 넘어 발행이 실패했다 —
-      # 첨부 PDF/HWP 본문을 회수하면서(파이프라인 #12~#15) 51MB → 100.3MB 가 됐다.
-      # 용도별 3개로 쪼갠다. 세 휠 모두 card_legal_data/ **같은 트리**에 설치되므로
-      # (__init__.py 없는 네임스페이스 패키지) 설치 후 레이아웃은 단일 휠과 동일하고
-      # 소비 측(LawAgent ingest_from_legal_data.sh)은 고칠 필요가 없다.
-      # 분할선·크기 근거는 scripts/build_wheels.py 상단 표.
       - name: Build split wheels
         env:
           HATCH_BUILD_VERSION: "${{ steps.version.outputs.value }}"
@@ -129,4 +131,69 @@ jobs:
           print("병합 확인 — 단일 휠과 동일한 레이아웃")
           PY
 
+      - uses: actions/upload-artifact@v4
+        with:
+          name: wheels
+          path: dist/*.whl
+          retention-days: 3
+
+  # ── 패키지별 발행 — 환경 이름이 곧 PyPI pending publisher 의 식별 축이다 ──
+  publish-core:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      id-token: write
+    environment:
+      name: pypi
+      url: https://pypi.org/project/card-legal-data/
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: wheels
+          path: all
+      - name: Keep only this package
+        run: |
+          mkdir -p dist
+          mv all/card_legal_data-*.whl dist/
+          ls -l dist
+      - uses: pypa/gh-action-pypi-publish@release/v1
+
+  publish-press:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      id-token: write
+    environment:
+      name: pypi-press
+      url: https://pypi.org/project/card-legal-data-press/
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: wheels
+          path: all
+      - name: Keep only this package
+        run: |
+          mkdir -p dist
+          mv all/card_legal_data_press-*.whl dist/
+          ls -l dist
+      - uses: pypa/gh-action-pypi-publish@release/v1
+
+  publish-precedents:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      id-token: write
+    environment:
+      name: pypi-precedents
+      url: https://pypi.org/project/card-legal-data-precedents/
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: wheels
+          path: all
+      - name: Keep only this package
+        run: |
+          mkdir -p dist
+          mv all/card_legal_data_precedents-*.whl dist/
+          ls -l dist
       - uses: pypa/gh-action-pypi-publish@release/v1
