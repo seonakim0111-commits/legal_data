@@ -174,7 +174,47 @@ jobs:
       - name: Keep only this package
         run: |
           mkdir -p dist
-          mv all/card_legal_data_press-*.whl dist/
+          mv all/card_legal_data_press-*.whl dist/   # press_fss 는 접두가 달라 안 걸린다
+          ls -l dist
+      - uses: pypa/gh-action-pypi-publish@release/v1
+
+  publish-guidelines:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      id-token: write
+    environment:
+      name: pypi-guidelines
+      url: https://pypi.org/project/card-legal-data-guidelines/
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: wheels
+          path: all
+      - name: Keep only this package
+        run: |
+          mkdir -p dist
+          mv all/card_legal_data_guidelines-*.whl dist/
+          ls -l dist
+      - uses: pypa/gh-action-pypi-publish@release/v1
+
+  publish-press-fss:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      id-token: write
+    environment:
+      name: pypi-press-fss
+      url: https://pypi.org/project/card-legal-data-press-fss/
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: wheels
+          path: all
+      - name: Keep only this package
+        run: |
+          mkdir -p dist
+          mv all/card_legal_data_press_fss-*.whl dist/
           ls -l dist
       - uses: pypa/gh-action-pypi-publish@release/v1
 
