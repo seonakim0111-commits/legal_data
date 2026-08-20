@@ -1,0 +1,27 @@
+{
+  "doc_id": "fss_업무자료_34298",
+  "source": "fss_crawler",
+  "title": "예금담보 임의해지",
+  "category": "금융감독원/과거제재내용 공시",
+  "doc_type": "과거제재내용 공시",
+  "text": "제목: 예금담보 임의해지\n\n별첨\n\n[첨부파일]\n- 예금담보임의해지.pdf",
+  "summary_text": "별첨",
+  "attachments": [
+    {
+      "name": "예금담보임의해지.pdf",
+      "url": "https://www.fss.or.kr/fss/cmmn/file/fileDown.do?menuNo=200173&atchFileId=c354ac48b5b8566552540767597059ec&fileSn=1&bbsId=",
+      "ext": "pdf",
+      "text": "",
+      "size_bytes": 461964
+    }
+  ],
+  "version_date": "2010-07-28",
+  "related_laws": [],
+  "collected_at": "2026-08-08",
+  "question": "",
+  "answer": "",
+  "document_number": "",
+  "external_id": "",
+  "url": "",
+  "metadata": {}
+}
