@@ -55,14 +55,47 @@ WARN_AT = 80 * 1024 * 1024
 PRESS_SUBDIR = "press_releases"
 PRECEDENT_TOP = "precedents"
 
+# 2026-08-09 재분할. 3분할은 `core` 가 press·precedents 를 뺀 나머지 전부를 떠안는
+# 구조라, 데이터가 늘자 core 만 100.9MB 로 상한을 다시 넘었다(실측). 커진 두 덩어리
+# ―fss 업무자료와 금감원 보도자료― 를 각각 떼어 5분할한다.
+#
+# 실측(2026-08-09, 보도자료 2015년 백필 반영):
+#
+# | 묶음         | 내용                                   | 파일   | 휠      |
+# |--------------|----------------------------------------|-------|---------|
+# | core         | 법령·해석례·비조치·약관 + 개인정보위·KISA  | 7,004 | 53.6MB  |
+# | guidelines   | 금감원 업무자료(fss/guidelines)          | 2,277 | 65.0MB  |
+# | press        | 보도자료 — 금융위·개인정보위·KISA         | 8,683 | 53.2MB  |
+# | press-fss    | 보도자료 — 금감원                        | 9,709 | 80.6MB  |
+# | precedents   | 상위 tier 판례                          | 3,282 | 18.1MB  |
+#
+# ⚠️ `press-fss` 는 이미 경고선(80MB)에 있다. 금감원 보도자료는 연 ~840건 ≈ 7MB 씩
+#    늘어 상한까지 약 2.7년 여유다. **다음 분할은 여기다.** 이 묶음은 단일 디렉토리
+#    (fss/press_releases)라 원천으로는 더 못 쪼갠다 — 파일명의 nttId 로 끊어야 한다.
+#    실측한 가장 균형 잡힌 임계는 `nttId < 50000`(49.3MB, ~2020-01-06) /
+#    `>= 50000`(30.8MB, 2022-01-24~)이다. nttId 공간은 2020↔2022 사이가 불연속이라
+#    (재번호) 임계값과 날짜가 정확히 대응하지 않는다는 점에 주의할 것.
+#
+# ⚠️ 새 패키지(`-guidelines`, `-press-fss`)는 PyPI 에 **pending publisher 를 먼저
+#    등록**해야 발행된다(Trusted Publishing 은 프로젝트별 설정이다). README 참고.
+FSS_GUIDELINE_PARTS = ("fss", "guidelines")
+
 PACKAGES: dict[str, dict] = {
     "core": {
         "name": "card-legal-data",
         "description": "Versioned legal data for offline installation (core)",
     },
+    "guidelines": {
+        "name": "card-legal-data-guidelines",
+        "description": "Versioned legal data — FSS business guidelines",
+    },
     "press": {
         "name": "card-legal-data-press",
-        "description": "Versioned legal data — press releases",
+        "description": "Versioned legal data — press releases (FSC/PIPC/KISA)",
+    },
+    "press-fss": {
+        "name": "card-legal-data-press-fss",
+        "description": "Versioned legal data — press releases (FSS)",
     },
     "precedents": {
         "name": "card-legal-data-precedents",
@@ -101,12 +134,19 @@ packages = []
 
 
 def classify(rel: Path) -> str:
-    """`legal_data` 기준 상대경로 → 어느 묶음인가."""
+    """`legal_data` 기준 상대경로 → 어느 묶음인가.
+
+    규칙은 경로만 보고 결정한다(파일 내용·크기와 무관) — 같은 파일이 릴리스마다 다른
+    묶음으로 옮겨 다니면 업그레이드 때 유실될 수 있다.
+    """
     parts = rel.parts
     if parts and parts[0] == PRECEDENT_TOP:
         return "precedents"
     if PRESS_SUBDIR in parts:
-        return "press"
+        # 금감원 보도자료만 따로 뗀다 — 나머지 셋을 합쳐도 여유가 있다.
+        return "press-fss" if parts[0] == "fss" else "press"
+    if parts[:2] == FSS_GUIDELINE_PARTS:
+        return "guidelines"
     return "core"
 
 
@@ -164,6 +204,27 @@ def build(bucket: str, version: str) -> Path:
     return wheel
 
 
+def _assert_partition() -> None:
+    """모든 파일이 정확히 한 묶음에 들어가는지 확인한다.
+
+    분류 규칙에 구멍이 나면 그 파일은 **어느 휠에도 담기지 않고 조용히 사라진다**.
+    묶음 하나가 0건이면 build() 가 잡지만, 일부만 빠지는 경우는 잡지 못한다.
+    """
+    seen = 0
+    unknown: list[str] = []
+    for src in DATA.rglob("*"):
+        if not src.is_file() or src.name == ".DS_Store":
+            continue
+        seen += 1
+        if classify(src.relative_to(DATA)) not in PACKAGES:
+            unknown.append(str(src.relative_to(DATA)))
+    if unknown:
+        raise SystemExit(
+            f"분류되지 않은 파일 {len(unknown)}건 — classify() 를 고쳐라. "
+            f"예: {unknown[:3]}")
+    print(f"  분류 점검: {seen:,}파일 전부 배정됨")
+
+
 def main() -> None:
     ap = argparse.ArgumentParser(description="card-legal-data 분할 휠 빌드")
     ap.add_argument("--version", default=os.environ.get("HATCH_BUILD_VERSION"),
@@ -185,6 +246,8 @@ def main() -> None:
             print(f"  {b:11s} {n:7,}파일  {sz / 1048576:8.1f}MB  "
                   f"→ 휠 추정 {sz / 1048576 / 4.15:6.1f}MB")
         return
+
+    _assert_partition()
 
     if not args.version:
         raise SystemExit("버전이 필요하다 — --version 또는 HATCH_BUILD_VERSION")
