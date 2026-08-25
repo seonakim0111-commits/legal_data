@@ -61,7 +61,9 @@ jobs:
 
           EXPECTED = {
               "card_legal_data",
+              "card_legal_data_guidelines",
               "card_legal_data_press",
+              "card_legal_data_press_fss",
               "card_legal_data_precedents",
           }
           wheels = sorted(Path("dist").glob("*.whl"))
@@ -71,7 +73,7 @@ jobs:
           if extra := found - EXPECTED:
               sys.exit(f"예상 밖 휠: {sorted(extra)} — 분할 목록을 확인하라")
 
-          # 세 휠이 같은 트리에 설치되므로 **파일 경로가 겹치면 pip 설치가 깨진다.**
+          # 다섯 휠이 같은 트리에 설치되므로 **파일 경로가 겹치면 pip 설치가 깨진다.**
           # 분류 규칙(scripts/build_wheels.py:classify) 버그를 여기서 잡는다.
           owner: dict[str, str] = {}
           total = 0
@@ -124,8 +126,10 @@ jobs:
           tops = sorted(p.name for p in root.iterdir() if p.is_dir())
           print(f"__path__ {len(paths)}개 · 상위 폴더 {tops}")
 
-          # 세 묶음이 각각 대표 폴더를 하나씩 갖는다 — 하나라도 없으면 병합 실패다.
-          for probe in ("law_api", "fss/guidelines", "precedents", "pipc/press_releases"):
+          # 다섯 묶음이 각각 대표 폴더를 하나씩 갖는다 — 하나라도 없으면 병합 실패다.
+          # (core / guidelines / precedents / press / press-fss 순)
+          for probe in ("law_api", "fss/guidelines", "precedents",
+                        "pipc/press_releases", "fss/press_releases"):
               if not (root / probe).is_dir():
                   sys.exit(f"병합 실패 — {probe} 가 없다 (상위: {tops})")
           print("병합 확인 — 단일 휠과 동일한 레이아웃")
