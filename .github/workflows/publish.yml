@@ -208,7 +208,7 @@ jobs:
     permissions:
       id-token: write
     environment:
-      name: pypi-press-fss
+      name: pypi-preess-fss
       url: https://pypi.org/project/card-legal-data-press-fss/
     steps:
       - uses: actions/download-artifact@v4
