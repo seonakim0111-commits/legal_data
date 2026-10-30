@@ -43,6 +43,6 @@ data_root = files("card_legal_data")
 
 ## 배포
 
-`main` 브랜치의 데이터가 변경되면 GitHub Actions가
-`YYYY.MM.DD.RUN_NUMBER` 버전의 wheel을 만들어 PyPI Trusted Publishing으로
-배포합니다.
+**매주 금요일 06:00(KST)** 에 GitHub Actions가 그 주 `main` 브랜치의 데이터로
+`YYYY.M.D.HHMMSS`(KST 발행 시각) 버전의 wheel 다섯 개를 만들어 PyPI Trusted Publishing으로
+배포합니다. 다섯 패키지의 버전은 항상 같습니다. 예약 실행이 늦게 뜰 수 있어 보통 금요일 오전에 올라옵니다.

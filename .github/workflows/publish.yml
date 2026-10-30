@@ -1,15 +1,15 @@
 name: Publish data wheels
 
+# 주 1회 발행(2026-10-30) — 금요일 06:00 KST 에 그 주 main 의 데이터로 한 판을 낸다. 종전에는 main 에 push 될
+# 때마다 발행해서 수집 워크플로(파이프라인 레포: 법령·판례·데이터)가 돌 때마다 판이 생겼다(주 2~3판). 받는 쪽
+# (내부망 주간 적재)이 「금요일 판」 하나를 기준으로 움직이도록 발행 시점을 고정한다. 수집은 파이프라인 레포에서
+# 목 18:00 KST 부터 법령 → 판례 → 데이터 순서로 이어서 돈다. GitHub 예약 실행은 늦게 뜰 수 있어(실측 수 시간)
+# 판은 보통 금요일 오전에 나온다. 데이터가 그 주에 안 바뀌었어도 판은 나간다(판 번호 = 그 주 금요일). 급히 낼
+# 때는 Actions 에서 손으로 실행(workflow_dispatch). 공개 레포라 60일 동안 커밋이 없으면 GitHub 가 예약 실행을
+# 끈다 — 파이프라인 수집이 매주 push 하므로 보통은 해당 없지만, 판이 안 나오면 Actions 탭에서 다시 켠다.
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - "legal_data/**"
-      - "pyproject.toml"
-      - "scripts/build_wheels.py"
-      - "README.md"
-      - ".github/workflows/publish.yml"
+  schedule:
+    - cron: "0 21 * * 4"   # 목 21:00 UTC = 금 06:00 KST
   workflow_dispatch:
 
 permissions:
